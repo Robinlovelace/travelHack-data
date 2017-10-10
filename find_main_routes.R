@@ -35,4 +35,9 @@ l$ptrans <- round((l$bus + l$train + l$light_rail) / l$all * 100,0)
 l <- l[l$ptrans < 30,]
 l <- l[l$pactive < 30,]
 
+#filer to high number of traverls
+l <- l[l$all > 100,]
+
+saveRDS(l,"../travelHack/data/listofroutes.Rds")
+
 qtm(l)
