@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TransXChange xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.transxchange.org.uk/ http://www.transxchange.org.uk/schema/2.1/TransXChange_general.xsd" CreationDateTime="2017-09-18T09:34:00-00:00" ModificationDateTime="2017-09-18T09:34:00-00:00" Modification="new" RevisionNumber="0" FileName="SVRYEABCL2.xml" SchemaVersion="2.1" RegistrationDocument="false" xmlns="http://www.transxchange.org.uk/">
+  <StopPoints>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA11829</StopPointRef>
+      <CommonName>Beverley Morrisons</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00828</StopPointRef>
+      <CommonName>Skidby Main Street</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA01542</StopPointRef>
+      <CommonName>Little Weighton Pond</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00817</StopPointRef>
+      <CommonName>Walkington East End</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00816</StopPointRef>
+      <CommonName>Walkington East End</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00826</StopPointRef>
+      <CommonName>Skidby Main Street</CommonName>
+    </AnnotatedStopPointRef>
+  </StopPoints>
+  <RouteSections>
+    <RouteSection id="YEABCL2_002">
+      <RouteLink id="YEABCL2_002_46">
+        <From>
+          <StopPointRef>2200YEA11829</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00828</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEABCL2_002_47">
+        <From>
+          <StopPointRef>2200YEA00828</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA01542</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEABCL2_002_48">
+        <From>
+          <StopPointRef>2200YEA01542</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00817</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+    </RouteSection>
+    <RouteSection id="YEABCL2_001">
+      <RouteLink id="YEABCL2_001_54">
+        <From>
+          <StopPointRef>2200YEA00816</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA01542</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEABCL2_001_55">
+        <From>
+          <StopPointRef>2200YEA01542</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00826</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEABCL2_001_56">
+        <From>
+          <StopPointRef>2200YEA00826</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA11829</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+    </RouteSection>
+  </RouteSections>
+  <Routes>
+    <Route id="YEABCL2_002">
+      <Description>Beverley - Walkington
+</Description>
+      <RouteSectionRef>YEABCL2_002</RouteSectionRef>
+    </Route>
+    <Route id="YEABCL2_001">
+      <Description>Walkington - Beverley
+</Description>
+      <RouteSectionRef>YEABCL2_001</RouteSectionRef>
+    </Route>
+  </Routes>
+  <JourneyPatternSections>
+    <JourneyPatternSection id="JPS_YEABCL2-3">
+      <JourneyPatternTimingLink id="JPS_YEABCL2-3_46">
+        <From>
+          <StopPointRef>2200YEA11829</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00828</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YEABCL2_002_46</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT300S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEABCL2-3_47">
+        <From>
+          <StopPointRef>2200YEA00828</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA01542</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YEABCL2_002_47</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT600S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEABCL2-3_48">
+        <From>
+          <StopPointRef>2200YEA01542</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00817</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YEABCL2_002_48</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT900S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+    <JourneyPatternSection id="JPS_YEABCL2-4">
+      <JourneyPatternTimingLink id="JPS_YEABCL2-4_54">
+        <From>
+          <StopPointRef>2200YEA00816</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA01542</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YEABCL2_001_54</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT900S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEABCL2-4_55">
+        <From>
+          <StopPointRef>2200YEA01542</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00826</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YEABCL2_001_55</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT600S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEABCL2-4_56">
+        <From>
+          <StopPointRef>2200YEA00826</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA11829</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YEABCL2_001_56</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT300S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+  </JourneyPatternSections>
+  <Operators>
+    <Operator id="BCL">
+      <NationalOperatorCode>YBCL</NationalOperatorCode>
+      <OperatorCode>BCL</OperatorCode>
+      <OperatorShortName>Beverley Community Lift</OperatorShortName>
+    </Operator>
+  </Operators>
+  <Services>
+    <Service>
+      <ServiceCode>YEABCL2</ServiceCode>
+      <Lines>
+        <Line id="0">
+          <LineName>BCL2</LineName>
+        </Line>
+      </Lines>
+      <OperatingPeriod>
+        <StartDate>2014-03-07</StartDate>
+      </OperatingPeriod>
+      <RegisteredOperatorRef>BCL</RegisteredOperatorRef>
+      <StopRequirements>
+        <NoNewStopsRequired />
+      </StopRequirements>
+      <Mode>bus</Mode>
+      <Description>Walkington - Beverley</Description>
+      <StandardService>
+        <Origin>Walkington</Origin>
+        <Destination>Beverley</Destination>
+        <JourneyPattern id="JPS_YEABCL2-3">
+          <Direction>inbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YEABCL2-3</JourneyPatternSectionRefs>
+        </JourneyPattern>
+        <JourneyPattern id="JPS_YEABCL2-4">
+          <Direction>outbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YEABCL2-4</JourneyPatternSectionRefs>
+        </JourneyPattern>
+      </StandardService>
+    </Service>
+  </Services>
+  <VehicleJourneys>
+    <VehicleJourney>
+      <OperatorRef>BCL</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Tuesday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>5</VehicleJourneyCode>
+      <ServiceRef>YEABCL2</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YEABCL2-3</JourneyPatternRef>
+      <Note>
+        <NoteCode>R1</NoteCode>
+        <NoteText>Ring 08456445949 to book your seat</NoteText>
+      </Note>
+      <DepartureTime>12:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>BCL</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Tuesday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>6</VehicleJourneyCode>
+      <ServiceRef>YEABCL2</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YEABCL2-4</JourneyPatternRef>
+      <Note>
+        <NoteCode>R1</NoteCode>
+        <NoteText>Ring 08456445949 to book your seat</NoteText>
+      </Note>
+      <DepartureTime>10:45:00</DepartureTime>
+    </VehicleJourney>
+  </VehicleJourneys>
+</TransXChange>

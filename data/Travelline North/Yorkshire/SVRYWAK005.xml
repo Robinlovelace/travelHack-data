@@ -1,0 +1,4306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TransXChange xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.transxchange.org.uk/ http://www.transxchange.org.uk/schema/2.1/TransXChange_general.xsd" CreationDateTime="2017-09-18T11:01:00-00:00" ModificationDateTime="2017-09-18T11:01:00-00:00" Modification="new" RevisionNumber="0" FileName="SVRYWAK005.xml" SchemaVersion="2.1" RegistrationDocument="false" xmlns="http://www.transxchange.org.uk/">
+  <StopPoints>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450021186</StopPointRef>
+      <CommonName>Thwaites Brow Rd Bank Top Way</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450021185</StopPointRef>
+      <CommonName>Thwaites Brow Road Sunnydale Grove</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450021184</StopPointRef>
+      <CommonName>Long Lee Lane Moss Carr Rd</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450025190</StopPointRef>
+      <CommonName>Spring Avenue Spring Pl</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450025189</StopPointRef>
+      <CommonName>Dale View Rd Dale View Close</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450025188</StopPointRef>
+      <CommonName>Dale View Rd Aspen Close</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450051512</StopPointRef>
+      <CommonName>Cherry Tree Rise Alder Avenue</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450021183</StopPointRef>
+      <CommonName>Glen Lee Lane</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450021182</StopPointRef>
+      <CommonName>Park Lane Glenhurst Ave</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450022573</StopPointRef>
+      <CommonName>Parkwood Rise Broom Street</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450022572</StopPointRef>
+      <CommonName>Parkwood Rise Broom Street</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450029318</StopPointRef>
+      <CommonName>Parkwood Rise</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450021179</StopPointRef>
+      <CommonName>Park Ln Parkwood Street</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450021177</StopPointRef>
+      <CommonName>Cricketers Arms PH</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450030094</StopPointRef>
+      <CommonName>Bus Station</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450021176</StopPointRef>
+      <CommonName>Cricketers Arms PH</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450021178</StopPointRef>
+      <CommonName>Park Ln Parkwood Street</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450029317</StopPointRef>
+      <CommonName>Parkwood Rise</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450022574</StopPointRef>
+      <CommonName>Parkwood Rise Delph House</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450025538</StopPointRef>
+      <CommonName>Park Lane Glenhurst Ave</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450025577</StopPointRef>
+      <CommonName>Glen Lee Lane</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450025187</StopPointRef>
+      <CommonName>Cherry Tree Rise Alder Avenue</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450051513</StopPointRef>
+      <CommonName>Dale View Rd Aspen Close</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450051514</StopPointRef>
+      <CommonName>Dale View Rd Dale View Close</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450051515</StopPointRef>
+      <CommonName>Spring Avenue Spring Pl</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450025539</StopPointRef>
+      <CommonName>Long Lee Lane Moss Carr Rd</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450025537</StopPointRef>
+      <CommonName>Thwaites Brow Road Sunnydale Grove</CommonName>
+    </AnnotatedStopPointRef>
+  </StopPoints>
+  <RouteSections>
+    <RouteSection id="YWAK005_001">
+      <RouteLink id="YWAK005_001_127583">
+        <From>
+          <StopPointRef>450021186</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450021185</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_001_127584">
+        <From>
+          <StopPointRef>450021185</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450021184</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_001_127585">
+        <From>
+          <StopPointRef>450021184</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450025190</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_001_127586">
+        <From>
+          <StopPointRef>450025190</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450025189</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_001_127587">
+        <From>
+          <StopPointRef>450025189</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450025188</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_001_127588">
+        <From>
+          <StopPointRef>450025188</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450051512</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_001_127589">
+        <From>
+          <StopPointRef>450051512</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450021183</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_001_127590">
+        <From>
+          <StopPointRef>450021183</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450021182</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_001_127591">
+        <From>
+          <StopPointRef>450021182</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450022573</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_001_127592">
+        <From>
+          <StopPointRef>450022573</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450022572</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_001_127593">
+        <From>
+          <StopPointRef>450022572</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450029318</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_001_127594">
+        <From>
+          <StopPointRef>450029318</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450021179</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_001_127595">
+        <From>
+          <StopPointRef>450021179</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450021177</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_001_127596">
+        <From>
+          <StopPointRef>450021177</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450030094</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+    </RouteSection>
+    <RouteSection id="YWAK005_002">
+      <RouteLink id="YWAK005_002_127598">
+        <From>
+          <StopPointRef>450021186</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450021185</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_002_127599">
+        <From>
+          <StopPointRef>450021185</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450021184</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_002_127600">
+        <From>
+          <StopPointRef>450021184</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450025190</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_002_127601">
+        <From>
+          <StopPointRef>450025190</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450025189</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_002_127602">
+        <From>
+          <StopPointRef>450025189</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450025188</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_002_127603">
+        <From>
+          <StopPointRef>450025188</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450051512</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_002_127604">
+        <From>
+          <StopPointRef>450051512</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450021183</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_002_127605">
+        <From>
+          <StopPointRef>450021183</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450021182</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_002_127606">
+        <From>
+          <StopPointRef>450021182</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450022573</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_002_127607">
+        <From>
+          <StopPointRef>450022573</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450022572</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_002_127608">
+        <From>
+          <StopPointRef>450022572</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450029318</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_002_127609">
+        <From>
+          <StopPointRef>450029318</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450021179</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_002_127610">
+        <From>
+          <StopPointRef>450021179</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450021177</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_002_127611">
+        <From>
+          <StopPointRef>450021177</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450030094</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+    </RouteSection>
+    <RouteSection id="YWAK005_003">
+      <RouteLink id="YWAK005_003_127613">
+        <From>
+          <StopPointRef>450021186</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450021185</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_003_127614">
+        <From>
+          <StopPointRef>450021185</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450021184</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_003_127615">
+        <From>
+          <StopPointRef>450021184</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450025190</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_003_127616">
+        <From>
+          <StopPointRef>450025190</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450025189</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_003_127617">
+        <From>
+          <StopPointRef>450025189</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450025188</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_003_127618">
+        <From>
+          <StopPointRef>450025188</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450051512</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_003_127619">
+        <From>
+          <StopPointRef>450051512</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450021183</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_003_127620">
+        <From>
+          <StopPointRef>450021183</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450021182</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_003_127621">
+        <From>
+          <StopPointRef>450021182</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450022573</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_003_127622">
+        <From>
+          <StopPointRef>450022573</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450022572</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_003_127623">
+        <From>
+          <StopPointRef>450022572</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450029318</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_003_127624">
+        <From>
+          <StopPointRef>450029318</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450021179</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_003_127625">
+        <From>
+          <StopPointRef>450021179</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450021177</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_003_127626">
+        <From>
+          <StopPointRef>450021177</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450030094</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+    </RouteSection>
+    <RouteSection id="YWAK005_004">
+      <RouteLink id="YWAK005_004_127628">
+        <From>
+          <StopPointRef>450021186</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450021185</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_004_127629">
+        <From>
+          <StopPointRef>450021185</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450021184</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_004_127630">
+        <From>
+          <StopPointRef>450021184</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450025190</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_004_127631">
+        <From>
+          <StopPointRef>450025190</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450025189</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_004_127632">
+        <From>
+          <StopPointRef>450025189</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450025188</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_004_127633">
+        <From>
+          <StopPointRef>450025188</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450051512</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_004_127634">
+        <From>
+          <StopPointRef>450051512</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450021183</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_004_127635">
+        <From>
+          <StopPointRef>450021183</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450021182</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_004_127636">
+        <From>
+          <StopPointRef>450021182</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450022573</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_004_127637">
+        <From>
+          <StopPointRef>450022573</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450022572</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_004_127638">
+        <From>
+          <StopPointRef>450022572</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450029318</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_004_127639">
+        <From>
+          <StopPointRef>450029318</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450021179</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_004_127640">
+        <From>
+          <StopPointRef>450021179</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450021177</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_004_127641">
+        <From>
+          <StopPointRef>450021177</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450030094</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+    </RouteSection>
+    <RouteSection id="YWAK005_005">
+      <RouteLink id="YWAK005_005_127643">
+        <From>
+          <StopPointRef>450030094</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450021176</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_005_127644">
+        <From>
+          <StopPointRef>450021176</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450021178</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_005_127645">
+        <From>
+          <StopPointRef>450021178</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450029317</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_005_127646">
+        <From>
+          <StopPointRef>450029317</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450022574</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_005_127647">
+        <From>
+          <StopPointRef>450022574</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450025538</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_005_127648">
+        <From>
+          <StopPointRef>450025538</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450025577</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_005_127649">
+        <From>
+          <StopPointRef>450025577</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450025187</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_005_127650">
+        <From>
+          <StopPointRef>450025187</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450051513</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_005_127651">
+        <From>
+          <StopPointRef>450051513</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450051514</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_005_127652">
+        <From>
+          <StopPointRef>450051514</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450051515</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_005_127653">
+        <From>
+          <StopPointRef>450051515</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450025539</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_005_127654">
+        <From>
+          <StopPointRef>450025539</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450025537</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_005_127655">
+        <From>
+          <StopPointRef>450025537</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450021186</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+    </RouteSection>
+    <RouteSection id="YWAK005_006">
+      <RouteLink id="YWAK005_006_127657">
+        <From>
+          <StopPointRef>450030094</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450021176</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_006_127658">
+        <From>
+          <StopPointRef>450021176</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450021178</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_006_127659">
+        <From>
+          <StopPointRef>450021178</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450029317</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_006_127660">
+        <From>
+          <StopPointRef>450029317</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450022574</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_006_127661">
+        <From>
+          <StopPointRef>450022574</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450025538</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_006_127662">
+        <From>
+          <StopPointRef>450025538</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450025577</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_006_127663">
+        <From>
+          <StopPointRef>450025577</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450025187</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_006_127664">
+        <From>
+          <StopPointRef>450025187</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450051513</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_006_127665">
+        <From>
+          <StopPointRef>450051513</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450051514</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_006_127666">
+        <From>
+          <StopPointRef>450051514</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450051515</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_006_127667">
+        <From>
+          <StopPointRef>450051515</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450025539</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_006_127668">
+        <From>
+          <StopPointRef>450025539</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450025537</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAK005_006_127669">
+        <From>
+          <StopPointRef>450025537</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450021186</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+    </RouteSection>
+  </RouteSections>
+  <Routes>
+    <Route id="YWAK005_001">
+      <Description>MAIN VARIANT Thraites Brow to Keighley via
+</Description>
+      <RouteSectionRef>YWAK005_001</RouteSectionRef>
+    </Route>
+    <Route id="YWAK005_002">
+      <Description>MAIN VARIANT Thraites Brow to Keighley via
+</Description>
+      <RouteSectionRef>YWAK005_002</RouteSectionRef>
+    </Route>
+    <Route id="YWAK005_003">
+      <Description>MAIN VARIANT Thraites Brow to Keighley via
+</Description>
+      <RouteSectionRef>YWAK005_003</RouteSectionRef>
+    </Route>
+    <Route id="YWAK005_004">
+      <Description>MAIN VARIANT Thraites Brow to Keighley via
+</Description>
+      <RouteSectionRef>YWAK005_004</RouteSectionRef>
+    </Route>
+    <Route id="YWAK005_005">
+      <Description>MAIN VARIANT Keighley to Thraites Brow via
+</Description>
+      <RouteSectionRef>YWAK005_005</RouteSectionRef>
+    </Route>
+    <Route id="YWAK005_006">
+      <Description>MAIN VARIANT Keighley to Thraites Brow via
+</Description>
+      <RouteSectionRef>YWAK005_006</RouteSectionRef>
+    </Route>
+  </Routes>
+  <JourneyPatternSections>
+    <JourneyPatternSection id="JPS_YWAK005-7">
+      <JourneyPatternTimingLink id="JPS_YWAK005-7_127583">
+        <From>
+          <StopPointRef>450021186</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450021185</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_001_127583</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-7_127584">
+        <From>
+          <StopPointRef>450021185</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450021184</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_001_127584</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-7_127585">
+        <From>
+          <StopPointRef>450021184</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450025190</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_001_127585</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-7_127586">
+        <From>
+          <StopPointRef>450025190</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450025189</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_001_127586</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-7_127587">
+        <From>
+          <StopPointRef>450025189</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450025188</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_001_127587</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-7_127588">
+        <From>
+          <StopPointRef>450025188</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450051512</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_001_127588</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-7_127589">
+        <From>
+          <StopPointRef>450051512</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450021183</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_001_127589</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-7_127590">
+        <From>
+          <StopPointRef>450021183</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450021182</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_001_127590</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-7_127591">
+        <From>
+          <StopPointRef>450021182</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450022573</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_001_127591</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-7_127592">
+        <From>
+          <StopPointRef>450022573</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450022572</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_001_127592</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-7_127593">
+        <From>
+          <StopPointRef>450022572</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450029318</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_001_127593</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-7_127594">
+        <From>
+          <StopPointRef>450029318</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450021179</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_001_127594</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-7_127595">
+        <From>
+          <StopPointRef>450021179</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450021177</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_001_127595</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-7_127596">
+        <From>
+          <StopPointRef>450021177</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450030094</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_001_127596</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+    <JourneyPatternSection id="JPS_YWAK005-8">
+      <JourneyPatternTimingLink id="JPS_YWAK005-8_127598">
+        <From>
+          <StopPointRef>450021186</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450021185</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_002_127598</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-8_127599">
+        <From>
+          <StopPointRef>450021185</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450021184</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_002_127599</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-8_127600">
+        <From>
+          <StopPointRef>450021184</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450025190</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_002_127600</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-8_127601">
+        <From>
+          <StopPointRef>450025190</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450025189</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_002_127601</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-8_127602">
+        <From>
+          <StopPointRef>450025189</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450025188</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_002_127602</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-8_127603">
+        <From>
+          <StopPointRef>450025188</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450051512</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_002_127603</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-8_127604">
+        <From>
+          <StopPointRef>450051512</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450021183</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_002_127604</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-8_127605">
+        <From>
+          <StopPointRef>450021183</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450021182</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_002_127605</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-8_127606">
+        <From>
+          <StopPointRef>450021182</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450022573</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_002_127606</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-8_127607">
+        <From>
+          <StopPointRef>450022573</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450022572</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_002_127607</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-8_127608">
+        <From>
+          <StopPointRef>450022572</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450029318</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_002_127608</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-8_127609">
+        <From>
+          <StopPointRef>450029318</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450021179</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_002_127609</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-8_127610">
+        <From>
+          <StopPointRef>450021179</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450021177</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_002_127610</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-8_127611">
+        <From>
+          <StopPointRef>450021177</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450030094</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_002_127611</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+    <JourneyPatternSection id="JPS_YWAK005-9">
+      <JourneyPatternTimingLink id="JPS_YWAK005-9_127613">
+        <From>
+          <StopPointRef>450021186</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450021185</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_003_127613</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-9_127614">
+        <From>
+          <StopPointRef>450021185</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450021184</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_003_127614</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-9_127615">
+        <From>
+          <StopPointRef>450021184</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450025190</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_003_127615</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-9_127616">
+        <From>
+          <StopPointRef>450025190</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450025189</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_003_127616</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-9_127617">
+        <From>
+          <StopPointRef>450025189</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450025188</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_003_127617</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-9_127618">
+        <From>
+          <StopPointRef>450025188</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450051512</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_003_127618</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-9_127619">
+        <From>
+          <StopPointRef>450051512</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450021183</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_003_127619</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-9_127620">
+        <From>
+          <StopPointRef>450021183</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450021182</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_003_127620</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-9_127621">
+        <From>
+          <StopPointRef>450021182</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450022573</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_003_127621</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-9_127622">
+        <From>
+          <StopPointRef>450022573</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450022572</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_003_127622</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-9_127623">
+        <From>
+          <StopPointRef>450022572</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450029318</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_003_127623</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-9_127624">
+        <From>
+          <StopPointRef>450029318</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450021179</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_003_127624</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-9_127625">
+        <From>
+          <StopPointRef>450021179</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450021177</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_003_127625</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-9_127626">
+        <From>
+          <StopPointRef>450021177</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450030094</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_003_127626</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+    <JourneyPatternSection id="JPS_YWAK005-10">
+      <JourneyPatternTimingLink id="JPS_YWAK005-10_127628">
+        <From>
+          <StopPointRef>450021186</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450021185</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_004_127628</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-10_127629">
+        <From>
+          <StopPointRef>450021185</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450021184</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_004_127629</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-10_127630">
+        <From>
+          <StopPointRef>450021184</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450025190</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_004_127630</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-10_127631">
+        <From>
+          <StopPointRef>450025190</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450025189</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_004_127631</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-10_127632">
+        <From>
+          <StopPointRef>450025189</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450025188</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_004_127632</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-10_127633">
+        <From>
+          <StopPointRef>450025188</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450051512</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_004_127633</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-10_127634">
+        <From>
+          <StopPointRef>450051512</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450021183</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_004_127634</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-10_127635">
+        <From>
+          <StopPointRef>450021183</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450021182</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_004_127635</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-10_127636">
+        <From>
+          <StopPointRef>450021182</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450022573</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_004_127636</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-10_127637">
+        <From>
+          <StopPointRef>450022573</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450022572</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_004_127637</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-10_127638">
+        <From>
+          <StopPointRef>450022572</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450029318</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_004_127638</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-10_127639">
+        <From>
+          <StopPointRef>450029318</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450021179</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_004_127639</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-10_127640">
+        <From>
+          <StopPointRef>450021179</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450021177</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_004_127640</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-10_127641">
+        <From>
+          <StopPointRef>450021177</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450030094</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_004_127641</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+    <JourneyPatternSection id="JPS_YWAK005-11">
+      <JourneyPatternTimingLink id="JPS_YWAK005-11_127643">
+        <From>
+          <StopPointRef>450030094</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450021176</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_005_127643</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT180S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-11_127644">
+        <From>
+          <StopPointRef>450021176</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450021178</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_005_127644</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-11_127645">
+        <From>
+          <StopPointRef>450021178</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450029317</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_005_127645</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-11_127646">
+        <From>
+          <StopPointRef>450029317</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450022574</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_005_127646</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-11_127647">
+        <From>
+          <StopPointRef>450022574</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450025538</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_005_127647</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-11_127648">
+        <From>
+          <StopPointRef>450025538</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450025577</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_005_127648</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-11_127649">
+        <From>
+          <StopPointRef>450025577</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450025187</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_005_127649</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-11_127650">
+        <From>
+          <StopPointRef>450025187</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450051513</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_005_127650</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-11_127651">
+        <From>
+          <StopPointRef>450051513</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450051514</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_005_127651</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-11_127652">
+        <From>
+          <StopPointRef>450051514</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450051515</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_005_127652</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-11_127653">
+        <From>
+          <StopPointRef>450051515</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450025539</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_005_127653</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-11_127654">
+        <From>
+          <StopPointRef>450025539</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450025537</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_005_127654</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-11_127655">
+        <From>
+          <StopPointRef>450025537</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450021186</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_005_127655</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+    <JourneyPatternSection id="JPS_YWAK005-12">
+      <JourneyPatternTimingLink id="JPS_YWAK005-12_127657">
+        <From>
+          <StopPointRef>450030094</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450021176</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_006_127657</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT180S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-12_127658">
+        <From>
+          <StopPointRef>450021176</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450021178</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_006_127658</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-12_127659">
+        <From>
+          <StopPointRef>450021178</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450029317</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_006_127659</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-12_127660">
+        <From>
+          <StopPointRef>450029317</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450022574</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_006_127660</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-12_127661">
+        <From>
+          <StopPointRef>450022574</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450025538</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_006_127661</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-12_127662">
+        <From>
+          <StopPointRef>450025538</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450025577</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_006_127662</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-12_127663">
+        <From>
+          <StopPointRef>450025577</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450025187</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_006_127663</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-12_127664">
+        <From>
+          <StopPointRef>450025187</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450051513</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_006_127664</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-12_127665">
+        <From>
+          <StopPointRef>450051513</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450051514</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_006_127665</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-12_127666">
+        <From>
+          <StopPointRef>450051514</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450051515</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_006_127666</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-12_127667">
+        <From>
+          <StopPointRef>450051515</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450025539</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_006_127667</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-12_127668">
+        <From>
+          <StopPointRef>450025539</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450025537</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_006_127668</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAK005-12_127669">
+        <From>
+          <StopPointRef>450025537</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450021186</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAK005_006_127669</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+  </JourneyPatternSections>
+  <Operators>
+    <Operator id="KDT">
+      <NationalOperatorCode>KDTR</NationalOperatorCode>
+      <OperatorCode>KDT</OperatorCode>
+      <OperatorShortName>Keighley &amp; District</OperatorShortName>
+    </Operator>
+  </Operators>
+  <Services>
+    <Service>
+      <ServiceCode>YWAK005</ServiceCode>
+      <Lines>
+        <Line id="0">
+          <LineName>K5</LineName>
+        </Line>
+      </Lines>
+      <OperatingPeriod>
+        <StartDate>2017-07-23</StartDate>
+        <EndDate>2038-01-17</EndDate>
+      </OperatingPeriod>
+      <RegisteredOperatorRef>KDT</RegisteredOperatorRef>
+      <StopRequirements>
+        <NoNewStopsRequired />
+      </StopRequirements>
+      <Mode>bus</Mode>
+      <Description>Keighley - Thwaites Brow</Description>
+      <StandardService>
+        <Origin>Keighley</Origin>
+        <Destination>Thwaites Brow</Destination>
+        <JourneyPattern id="JPS_YWAK005-7">
+          <Direction>inbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YWAK005-7</JourneyPatternSectionRefs>
+        </JourneyPattern>
+        <JourneyPattern id="JPS_YWAK005-8">
+          <Direction>inbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YWAK005-8</JourneyPatternSectionRefs>
+        </JourneyPattern>
+        <JourneyPattern id="JPS_YWAK005-9">
+          <Direction>inbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YWAK005-9</JourneyPatternSectionRefs>
+        </JourneyPattern>
+        <JourneyPattern id="JPS_YWAK005-10">
+          <Direction>inbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YWAK005-10</JourneyPatternSectionRefs>
+        </JourneyPattern>
+        <JourneyPattern id="JPS_YWAK005-11">
+          <Direction>outbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YWAK005-11</JourneyPatternSectionRefs>
+        </JourneyPattern>
+        <JourneyPattern id="JPS_YWAK005-12">
+          <Direction>outbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YWAK005-12</JourneyPatternSectionRefs>
+        </JourneyPattern>
+      </StandardService>
+    </Service>
+  </Services>
+  <VehicleJourneys>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>61979</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-7</JourneyPatternRef>
+      <DepartureTime>06:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>61980</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-7</JourneyPatternRef>
+      <DepartureTime>07:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>61981</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-7</JourneyPatternRef>
+      <DepartureTime>07:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>61982</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-7</JourneyPatternRef>
+      <DepartureTime>08:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>61983</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-7</JourneyPatternRef>
+      <DepartureTime>08:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>61984</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-7</JourneyPatternRef>
+      <DepartureTime>09:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>61985</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-7</JourneyPatternRef>
+      <DepartureTime>09:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>61986</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-7</JourneyPatternRef>
+      <DepartureTime>10:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>61987</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-7</JourneyPatternRef>
+      <DepartureTime>10:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>61988</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-7</JourneyPatternRef>
+      <DepartureTime>11:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>61989</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-7</JourneyPatternRef>
+      <DepartureTime>11:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>61990</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-7</JourneyPatternRef>
+      <DepartureTime>12:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>61991</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-7</JourneyPatternRef>
+      <DepartureTime>12:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>61992</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-7</JourneyPatternRef>
+      <DepartureTime>13:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>61993</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-7</JourneyPatternRef>
+      <DepartureTime>13:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>61994</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-7</JourneyPatternRef>
+      <DepartureTime>14:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>61995</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-7</JourneyPatternRef>
+      <DepartureTime>14:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>61996</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-7</JourneyPatternRef>
+      <DepartureTime>15:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>61997</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-7</JourneyPatternRef>
+      <DepartureTime>15:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>61998</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-7</JourneyPatternRef>
+      <DepartureTime>16:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>61999</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-7</JourneyPatternRef>
+      <DepartureTime>16:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62000</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-7</JourneyPatternRef>
+      <DepartureTime>17:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62001</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-7</JourneyPatternRef>
+      <DepartureTime>17:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62002</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-7</JourneyPatternRef>
+      <DepartureTime>18:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62003</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-7</JourneyPatternRef>
+      <DepartureTime>09:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62004</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-7</JourneyPatternRef>
+      <DepartureTime>09:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62005</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-7</JourneyPatternRef>
+      <DepartureTime>10:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62006</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-7</JourneyPatternRef>
+      <DepartureTime>10:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62007</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-7</JourneyPatternRef>
+      <DepartureTime>11:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62008</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-7</JourneyPatternRef>
+      <DepartureTime>11:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62009</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-7</JourneyPatternRef>
+      <DepartureTime>12:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62010</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-7</JourneyPatternRef>
+      <DepartureTime>12:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62011</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-7</JourneyPatternRef>
+      <DepartureTime>13:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62012</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-7</JourneyPatternRef>
+      <DepartureTime>13:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62013</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-7</JourneyPatternRef>
+      <DepartureTime>14:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62014</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-7</JourneyPatternRef>
+      <DepartureTime>14:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62015</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-7</JourneyPatternRef>
+      <DepartureTime>15:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62016</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-7</JourneyPatternRef>
+      <DepartureTime>15:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62017</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-7</JourneyPatternRef>
+      <DepartureTime>16:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62018</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-7</JourneyPatternRef>
+      <DepartureTime>16:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62019</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-8</JourneyPatternRef>
+      <DepartureTime>19:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62020</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-8</JourneyPatternRef>
+      <DepartureTime>19:50:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62021</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-8</JourneyPatternRef>
+      <DepartureTime>20:50:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62022</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-8</JourneyPatternRef>
+      <DepartureTime>21:50:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62023</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-8</JourneyPatternRef>
+      <DepartureTime>22:50:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62024</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-8</JourneyPatternRef>
+      <DepartureTime>19:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62025</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-8</JourneyPatternRef>
+      <DepartureTime>19:50:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62026</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-8</JourneyPatternRef>
+      <DepartureTime>20:50:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62027</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-8</JourneyPatternRef>
+      <DepartureTime>21:50:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62028</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-8</JourneyPatternRef>
+      <DepartureTime>22:50:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62029</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-8</JourneyPatternRef>
+      <DepartureTime>18:43:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62030</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-8</JourneyPatternRef>
+      <DepartureTime>19:43:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62031</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-8</JourneyPatternRef>
+      <DepartureTime>20:43:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62032</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-8</JourneyPatternRef>
+      <DepartureTime>21:43:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62033</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-8</JourneyPatternRef>
+      <DepartureTime>22:48:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62034</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-9</JourneyPatternRef>
+      <DepartureTime>08:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62035</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-9</JourneyPatternRef>
+      <DepartureTime>17:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62036</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-9</JourneyPatternRef>
+      <DepartureTime>17:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62037</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-9</JourneyPatternRef>
+      <DepartureTime>18:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62038</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-9</JourneyPatternRef>
+      <DepartureTime>10:43:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62039</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-9</JourneyPatternRef>
+      <DepartureTime>11:43:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62040</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-9</JourneyPatternRef>
+      <DepartureTime>12:43:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62041</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-9</JourneyPatternRef>
+      <DepartureTime>13:43:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62042</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-9</JourneyPatternRef>
+      <DepartureTime>14:43:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62043</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-9</JourneyPatternRef>
+      <DepartureTime>15:43:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62044</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-9</JourneyPatternRef>
+      <DepartureTime>16:43:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62045</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-9</JourneyPatternRef>
+      <DepartureTime>17:43:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62046</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-10</JourneyPatternRef>
+      <DepartureTime>18:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62047</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>06:15:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62048</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>06:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62049</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>07:15:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62050</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>07:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62051</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>08:15:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62052</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>08:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62053</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>09:15:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62054</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>09:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62055</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>10:15:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62056</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>10:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62057</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>11:15:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62058</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>11:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62059</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>12:15:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62060</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>12:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62061</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>13:15:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62062</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>13:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62063</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>14:15:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62064</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>14:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62065</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>15:15:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62066</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>15:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62067</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>16:15:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62068</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>16:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62069</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>17:15:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62070</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>17:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62071</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>08:15:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62072</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>08:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62073</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>09:15:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62074</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>09:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62075</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>10:15:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62076</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>10:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62077</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>11:15:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62078</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>11:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62079</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>12:15:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62080</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>12:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62081</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>13:15:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62082</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>13:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62083</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>14:15:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62084</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>14:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62085</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>15:15:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62086</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>15:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62087</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>16:15:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62088</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>16:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62089</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>17:15:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62090</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>17:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62091</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>18:15:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62092</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>10:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62093</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>11:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62094</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>12:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62095</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>13:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62096</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>14:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62097</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>15:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62098</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>16:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62099</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-11</JourneyPatternRef>
+      <DepartureTime>17:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62100</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-12</JourneyPatternRef>
+      <DepartureTime>18:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62101</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-12</JourneyPatternRef>
+      <DepartureTime>19:38:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62102</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-12</JourneyPatternRef>
+      <DepartureTime>20:38:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62103</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-12</JourneyPatternRef>
+      <DepartureTime>21:38:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62104</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-12</JourneyPatternRef>
+      <DepartureTime>22:38:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62105</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-12</JourneyPatternRef>
+      <DepartureTime>18:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62106</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-12</JourneyPatternRef>
+      <DepartureTime>19:38:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62107</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-12</JourneyPatternRef>
+      <DepartureTime>20:38:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62108</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-12</JourneyPatternRef>
+      <DepartureTime>21:38:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62109</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-12</JourneyPatternRef>
+      <DepartureTime>22:38:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62110</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-12</JourneyPatternRef>
+      <DepartureTime>18:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62111</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-12</JourneyPatternRef>
+      <DepartureTime>19:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62112</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-12</JourneyPatternRef>
+      <DepartureTime>20:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62113</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-12</JourneyPatternRef>
+      <DepartureTime>21:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>KDT</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>62114</VehicleJourneyCode>
+      <ServiceRef>YWAK005</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAK005-12</JourneyPatternRef>
+      <DepartureTime>22:35:00</DepartureTime>
+    </VehicleJourney>
+  </VehicleJourneys>
+</TransXChange>

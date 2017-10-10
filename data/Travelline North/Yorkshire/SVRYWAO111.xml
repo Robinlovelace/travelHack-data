@@ -1,0 +1,3216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TransXChange xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.transxchange.org.uk/ http://www.transxchange.org.uk/schema/2.1/TransXChange_general.xsd" CreationDateTime="2017-09-18T10:15:00-00:00" ModificationDateTime="2017-09-18T10:15:00-00:00" Modification="new" RevisionNumber="0" FileName="SVRYWAO111.xml" SchemaVersion="2.1" RegistrationDocument="false" xmlns="http://www.transxchange.org.uk/">
+  <StopPoints>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450030204</StopPointRef>
+      <CommonName>Bus Station</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450025417</StopPointRef>
+      <CommonName>Back Duke Of York Street</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450015525</StopPointRef>
+      <CommonName>Stanley Rd Eastmoor Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450027374</StopPointRef>
+      <CommonName>Pinderfields Hospital</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450025216</StopPointRef>
+      <CommonName>Bar Lane Pinderflds Hospital</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450015540</StopPointRef>
+      <CommonName>Hospital</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450015537</StopPointRef>
+      <CommonName>General Hospital</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450015524</StopPointRef>
+      <CommonName>Pinders Grove</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450015526</StopPointRef>
+      <CommonName>Stanley Rd Queen Elizabeth Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450027713</StopPointRef>
+      <CommonName>Bar Ln Trent Bridge Way</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450025579</StopPointRef>
+      <CommonName>Paragon Business Village Paragon Way</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450016030</StopPointRef>
+      <CommonName>Outwood 41 Industrial Park</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450016031</StopPointRef>
+      <CommonName>Kenmore Rd Stephenson Way</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450027711</StopPointRef>
+      <CommonName>Bar Ln Trent Bridge Way</CommonName>
+    </AnnotatedStopPointRef>
+  </StopPoints>
+  <RouteSections>
+    <RouteSection id="YWAO111_001">
+      <RouteLink id="YWAO111_001_339259">
+        <From>
+          <StopPointRef>450030204</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450025417</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAO111_001_339260">
+        <From>
+          <StopPointRef>450025417</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450015525</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAO111_001_339261">
+        <From>
+          <StopPointRef>450015525</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450027374</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+    </RouteSection>
+    <RouteSection id="YWAO111_002">
+      <RouteLink id="YWAO111_002_339263">
+        <From>
+          <StopPointRef>450027374</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450025216</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAO111_002_339264">
+        <From>
+          <StopPointRef>450025216</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450015540</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAO111_002_339265">
+        <From>
+          <StopPointRef>450015540</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450015537</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAO111_002_339266">
+        <From>
+          <StopPointRef>450015537</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450015524</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAO111_002_339267">
+        <From>
+          <StopPointRef>450015524</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450015526</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAO111_002_339268">
+        <From>
+          <StopPointRef>450015526</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450030204</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+    </RouteSection>
+    <RouteSection id="YWAO111_003">
+      <RouteLink id="YWAO111_003_339270">
+        <From>
+          <StopPointRef>450030204</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450025417</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAO111_003_339271">
+        <From>
+          <StopPointRef>450025417</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450015525</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAO111_003_339272">
+        <From>
+          <StopPointRef>450015525</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450027374</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAO111_003_339273">
+        <From>
+          <StopPointRef>450027374</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450027713</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAO111_003_339274">
+        <From>
+          <StopPointRef>450027713</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450025579</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAO111_003_339275">
+        <From>
+          <StopPointRef>450025579</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450016030</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAO111_003_339276">
+        <From>
+          <StopPointRef>450016030</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450016031</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+    </RouteSection>
+    <RouteSection id="YWAO111_004">
+      <RouteLink id="YWAO111_004_339278">
+        <From>
+          <StopPointRef>450016031</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450025579</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAO111_004_339279">
+        <From>
+          <StopPointRef>450025579</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450027711</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAO111_004_339280">
+        <From>
+          <StopPointRef>450027711</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450025216</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAO111_004_339281">
+        <From>
+          <StopPointRef>450025216</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450015540</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAO111_004_339282">
+        <From>
+          <StopPointRef>450015540</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450015537</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAO111_004_339283">
+        <From>
+          <StopPointRef>450015537</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450015524</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAO111_004_339284">
+        <From>
+          <StopPointRef>450015524</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450015526</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAO111_004_339285">
+        <From>
+          <StopPointRef>450015526</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450030204</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+    </RouteSection>
+  </RouteSections>
+  <Routes>
+    <Route id="YWAO111_001">
+      <Description>MAIN ROUTE Wakefield to Pinderfields via
+</Description>
+      <RouteSectionRef>YWAO111_001</RouteSectionRef>
+    </Route>
+    <Route id="YWAO111_002">
+      <Description>MAIN ROUTE Pinderfields to Wakefield via
+</Description>
+      <RouteSectionRef>YWAO111_002</RouteSectionRef>
+    </Route>
+    <Route id="YWAO111_003">
+      <Description>TO CARR GATE Wakefield to Pinderfields via
+</Description>
+      <RouteSectionRef>YWAO111_003</RouteSectionRef>
+    </Route>
+    <Route id="YWAO111_004">
+      <Description>1712 FROM CARR GATE Pinderfields to Wakefield via
+</Description>
+      <RouteSectionRef>YWAO111_004</RouteSectionRef>
+    </Route>
+  </Routes>
+  <JourneyPatternSections>
+    <JourneyPatternSection id="JPS_YWAO111-5">
+      <JourneyPatternTimingLink id="JPS_YWAO111-5_339259">
+        <From>
+          <StopPointRef>450030204</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450025417</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO111_001_339259</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAO111-5_339260">
+        <From>
+          <StopPointRef>450025417</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450015525</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO111_001_339260</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAO111-5_339261">
+        <From>
+          <StopPointRef>450015525</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450027374</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO111_001_339261</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+    <JourneyPatternSection id="JPS_YWAO111-6">
+      <JourneyPatternTimingLink id="JPS_YWAO111-6_339263">
+        <From>
+          <StopPointRef>450027374</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450025216</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO111_002_339263</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAO111-6_339264">
+        <From>
+          <StopPointRef>450025216</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450015540</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO111_002_339264</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAO111-6_339265">
+        <From>
+          <StopPointRef>450015540</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450015537</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO111_002_339265</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAO111-6_339266">
+        <From>
+          <StopPointRef>450015537</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450015524</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO111_002_339266</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAO111-6_339267">
+        <From>
+          <StopPointRef>450015524</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450015526</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO111_002_339267</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAO111-6_339268">
+        <From>
+          <StopPointRef>450015526</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450030204</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO111_002_339268</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT180S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+    <JourneyPatternSection id="JPS_YWAO111-7">
+      <JourneyPatternTimingLink id="JPS_YWAO111-7_339270">
+        <From>
+          <StopPointRef>450030204</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450025417</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO111_003_339270</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAO111-7_339271">
+        <From>
+          <StopPointRef>450025417</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450015525</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO111_003_339271</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAO111-7_339272">
+        <From>
+          <StopPointRef>450015525</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450027374</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO111_003_339272</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT180S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAO111-7_339273">
+        <From>
+          <StopPointRef>450027374</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450027713</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO111_003_339273</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAO111-7_339274">
+        <From>
+          <StopPointRef>450027713</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450025579</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO111_003_339274</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT240S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAO111-7_339275">
+        <From>
+          <StopPointRef>450025579</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450016030</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO111_003_339275</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT240S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAO111-7_339276">
+        <From>
+          <StopPointRef>450016030</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450016031</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO111_003_339276</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+    <JourneyPatternSection id="JPS_YWAO111-8">
+      <JourneyPatternTimingLink id="JPS_YWAO111-8_339278">
+        <From>
+          <StopPointRef>450016031</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450025579</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO111_004_339278</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT300S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAO111-8_339279">
+        <From>
+          <StopPointRef>450025579</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450027711</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO111_004_339279</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAO111-8_339280">
+        <From>
+          <StopPointRef>450027711</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450025216</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO111_004_339280</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAO111-8_339281">
+        <From>
+          <StopPointRef>450025216</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450015540</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO111_004_339281</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAO111-8_339282">
+        <From>
+          <StopPointRef>450015540</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450015537</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO111_004_339282</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAO111-8_339283">
+        <From>
+          <StopPointRef>450015537</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450015524</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO111_004_339283</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAO111-8_339284">
+        <From>
+          <StopPointRef>450015524</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450015526</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO111_004_339284</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAO111-8_339285">
+        <From>
+          <StopPointRef>450015526</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450030204</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO111_004_339285</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT360S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+  </JourneyPatternSections>
+  <Operators>
+    <Operator id="WRAY">
+      <NationalOperatorCode>WRAY</NationalOperatorCode>
+      <OperatorCode>WRAY</OperatorCode>
+      <OperatorShortName>Arriva Yorkshire</OperatorShortName>
+    </Operator>
+  </Operators>
+  <Services>
+    <Service>
+      <ServiceCode>YWAO111</ServiceCode>
+      <Lines>
+        <Line id="0">
+          <LineName>111</LineName>
+        </Line>
+      </Lines>
+      <OperatingPeriod>
+        <StartDate>2015-10-26</StartDate>
+        <EndDate>2038-01-17</EndDate>
+      </OperatingPeriod>
+      <RegisteredOperatorRef>WRAY</RegisteredOperatorRef>
+      <StopRequirements>
+        <NoNewStopsRequired />
+      </StopRequirements>
+      <Mode>bus</Mode>
+      <Description>Wakefield - Pinderfields Hospital</Description>
+      <StandardService>
+        <Origin>Wakefield</Origin>
+        <Destination>Pinderfields Hospital</Destination>
+        <JourneyPattern id="JPS_YWAO111-5">
+          <Direction>outbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YWAO111-5</JourneyPatternSectionRefs>
+        </JourneyPattern>
+        <JourneyPattern id="JPS_YWAO111-6">
+          <Direction>inbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YWAO111-6</JourneyPatternSectionRefs>
+        </JourneyPattern>
+        <JourneyPattern id="JPS_YWAO111-7">
+          <Direction>outbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YWAO111-7</JourneyPatternSectionRefs>
+        </JourneyPattern>
+        <JourneyPattern id="JPS_YWAO111-8">
+          <Direction>inbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YWAO111-8</JourneyPatternSectionRefs>
+        </JourneyPattern>
+      </StandardService>
+    </Service>
+  </Services>
+  <VehicleJourneys>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>10987</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>09:10:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>10988</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>09:40:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>10989</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>10:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>10990</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>10:20:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>10991</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>10:40:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>10992</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>11:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>10993</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>11:20:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>10994</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>11:40:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>10995</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>12:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>10996</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>12:20:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>10997</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>12:40:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>10998</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>13:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>10999</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>13:20:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11000</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>13:40:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11001</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>14:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11002</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>14:20:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11003</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>14:40:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11004</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>15:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11005</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>15:20:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11006</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>15:40:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11007</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>16:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11008</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>16:20:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11009</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>16:40:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11010</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>17:40:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11011</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>18:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11012</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>18:20:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11013</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>18:40:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11014</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>19:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11015</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>19:20:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11016</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>19:40:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11017</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>20:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11018</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>11:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11027</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>11:20:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11028</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>11:40:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11029</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>12:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11030</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>12:20:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11031</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>12:40:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11032</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>13:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11033</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>13:20:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11034</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>13:40:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11035</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>14:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11036</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>14:20:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11037</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>14:40:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11038</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>15:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11039</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>15:20:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11040</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>15:40:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11041</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>16:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11042</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>16:20:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11043</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>16:40:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11019</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>17:40:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11020</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>18:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11021</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>18:20:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11022</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>18:40:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11023</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>19:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11024</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>19:20:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11025</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>19:40:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11026</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>20:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11044</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>11:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11045</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>11:20:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11046</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>11:40:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11047</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>12:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11048</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>12:20:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11049</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>12:40:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11050</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>13:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11051</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>13:20:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11052</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>13:40:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11053</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>14:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11054</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>14:20:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11055</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>14:40:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11056</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>15:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11057</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>15:20:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11058</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>15:40:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11059</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>16:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11060</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>16:20:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11061</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-5</JourneyPatternRef>
+      <DepartureTime>16:40:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11062</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>09:18:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11063</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>09:48:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11081</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>10:08:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11082</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>10:28:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11083</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>10:48:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11084</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>11:08:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11085</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>11:28:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11086</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>11:48:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11087</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>12:08:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11088</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>12:28:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11089</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>12:48:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11090</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>13:08:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11091</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>13:28:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11092</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>13:48:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11093</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>14:08:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11094</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>14:28:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11095</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>14:48:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11096</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>15:08:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11097</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>15:28:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11098</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>15:48:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11099</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>16:08:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11100</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>16:28:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11101</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>16:48:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11064</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>17:48:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11065</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>18:08:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11066</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>18:28:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11067</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>18:48:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11068</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>19:08:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11069</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>19:28:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11070</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>19:48:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11071</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>20:08:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11072</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>11:08:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11102</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>11:28:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11103</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>11:48:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11104</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>12:08:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11105</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>12:28:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11106</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>12:48:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11107</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>13:08:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11108</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>13:28:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11109</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>13:48:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11110</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>14:08:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11111</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>14:28:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11112</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>14:48:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11113</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>15:08:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11114</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>15:28:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11115</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>15:48:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11116</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>16:08:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11117</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>16:28:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11118</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>16:48:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11073</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>17:48:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11074</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>18:08:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11075</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>18:28:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11076</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>18:48:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11077</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>19:08:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11078</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>19:28:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11079</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>19:48:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11080</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>20:08:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11119</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>11:08:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11120</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>11:28:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11121</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>11:48:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11122</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>12:08:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11123</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>12:28:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11124</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>12:48:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11125</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>13:08:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11126</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>13:28:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11127</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>13:48:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11128</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>14:08:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11129</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>14:28:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11130</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>14:48:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11131</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>15:08:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11132</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>15:28:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11133</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>15:48:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11134</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>16:08:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11135</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>16:28:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11136</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-6</JourneyPatternRef>
+      <DepartureTime>16:48:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11137</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-7</JourneyPatternRef>
+      <DepartureTime>08:35:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>WRAY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>11138</VehicleJourneyCode>
+      <ServiceRef>YWAO111</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO111-8</JourneyPatternRef>
+      <DepartureTime>17:12:00</DepartureTime>
+    </VehicleJourney>
+  </VehicleJourneys>
+</TransXChange>

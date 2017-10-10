@@ -1,0 +1,1014 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TransXChange xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.transxchange.org.uk/ http://www.transxchange.org.uk/schema/2.1/TransXChange_general.xsd" CreationDateTime="2017-09-18T10:42:00-00:00" ModificationDateTime="2017-09-18T10:42:00-00:00" Modification="new" RevisionNumber="0" FileName="SVRYWAO525.xml" SchemaVersion="2.1" RegistrationDocument="false" xmlns="http://www.transxchange.org.uk/">
+  <StopPoints>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450024129</StopPointRef>
+      <CommonName>Albion Street</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450023422</StopPointRef>
+      <CommonName>Market Street</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450015783</StopPointRef>
+      <CommonName>Cross Hills Northgate</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450015785</StopPointRef>
+      <CommonName>Dean Clough</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450015787</StopPointRef>
+      <CommonName>Lee Bridge</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450017484</StopPointRef>
+      <CommonName>Lee Bridge Shroggs Rd</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450017485</StopPointRef>
+      <CommonName>Ovenden Rd Wheatley Lane</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450017488</StopPointRef>
+      <CommonName>Ovenden Rd Lentilfield Street</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450029693</StopPointRef>
+      <CommonName>Grove Ave Ovenden Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450029694</StopPointRef>
+      <CommonName>Grove Ave Ovenden Way</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450018020</StopPointRef>
+      <CommonName>Ovenden Way Grove Ave</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450018018</StopPointRef>
+      <CommonName>Ovenden Way Ovenden Green</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450018016</StopPointRef>
+      <CommonName>Ovenden Way Friendly Fold Rd</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450018015</StopPointRef>
+      <CommonName>Ovenden Way Ovenden Ave</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450017486</StopPointRef>
+      <CommonName>Ovenden Rd Ovenden Way</CommonName>
+    </AnnotatedStopPointRef>
+  </StopPoints>
+  <RouteSections>
+    <RouteSection id="YWAO525_001">
+      <RouteLink id="YWAO525_001_532168">
+        <From>
+          <StopPointRef>450024129</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450023422</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAO525_001_532169">
+        <From>
+          <StopPointRef>450023422</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450015783</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAO525_001_532170">
+        <From>
+          <StopPointRef>450015783</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450015785</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAO525_001_532171">
+        <From>
+          <StopPointRef>450015785</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450015787</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAO525_001_532172">
+        <From>
+          <StopPointRef>450015787</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450017484</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAO525_001_532173">
+        <From>
+          <StopPointRef>450017484</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450017485</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAO525_001_532174">
+        <From>
+          <StopPointRef>450017485</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450017488</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAO525_001_532175">
+        <From>
+          <StopPointRef>450017488</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450029693</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAO525_001_532176">
+        <From>
+          <StopPointRef>450029693</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450029694</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAO525_001_532177">
+        <From>
+          <StopPointRef>450029694</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450018020</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAO525_001_532178">
+        <From>
+          <StopPointRef>450018020</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450018018</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAO525_001_532179">
+        <From>
+          <StopPointRef>450018018</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450018016</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAO525_001_532180">
+        <From>
+          <StopPointRef>450018016</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450018015</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAO525_001_532181">
+        <From>
+          <StopPointRef>450018015</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450017486</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAO525_001_532182">
+        <From>
+          <StopPointRef>450017486</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450024129</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+    </RouteSection>
+  </RouteSections>
+  <Routes>
+    <Route id="YWAO525_001">
+      <Description>MAIN VARIANT Ovenden Way Circular to  via
+</Description>
+      <RouteSectionRef>YWAO525_001</RouteSectionRef>
+    </Route>
+  </Routes>
+  <JourneyPatternSections>
+    <JourneyPatternSection id="JPS_YWAO525-2">
+      <JourneyPatternTimingLink id="JPS_YWAO525-2_532168">
+        <From>
+          <StopPointRef>450024129</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450023422</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO525_001_532168</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAO525-2_532169">
+        <From>
+          <StopPointRef>450023422</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450015783</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO525_001_532169</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAO525-2_532170">
+        <From>
+          <StopPointRef>450015783</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450015785</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO525_001_532170</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAO525-2_532171">
+        <From>
+          <StopPointRef>450015785</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450015787</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO525_001_532171</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAO525-2_532172">
+        <From>
+          <StopPointRef>450015787</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450017484</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO525_001_532172</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAO525-2_532173">
+        <From>
+          <StopPointRef>450017484</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450017485</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO525_001_532173</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAO525-2_532174">
+        <From>
+          <StopPointRef>450017485</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450017488</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO525_001_532174</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAO525-2_532175">
+        <From>
+          <StopPointRef>450017488</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450029693</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO525_001_532175</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAO525-2_532176">
+        <From>
+          <StopPointRef>450029693</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450029694</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO525_001_532176</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAO525-2_532177">
+        <From>
+          <StopPointRef>450029694</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450018020</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO525_001_532177</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAO525-2_532178">
+        <From>
+          <StopPointRef>450018020</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450018018</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO525_001_532178</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAO525-2_532179">
+        <From>
+          <StopPointRef>450018018</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450018016</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO525_001_532179</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAO525-2_532180">
+        <From>
+          <StopPointRef>450018016</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450018015</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO525_001_532180</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAO525-2_532181">
+        <From>
+          <StopPointRef>450018015</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450017486</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO525_001_532181</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAO525-2_532182">
+        <From>
+          <StopPointRef>450017486</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450024129</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO525_001_532182</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT780S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+  </JourneyPatternSections>
+  <Operators>
+    <Operator id="HABC">
+      <NationalOperatorCode>HABC</NationalOperatorCode>
+      <OperatorCode>HABC</OperatorCode>
+      <OperatorShortName>Halifax Bus Company</OperatorShortName>
+    </Operator>
+  </Operators>
+  <Services>
+    <Service>
+      <ServiceCode>YWAO525</ServiceCode>
+      <Lines>
+        <Line id="0">
+          <LineName>525</LineName>
+        </Line>
+      </Lines>
+      <OperatingPeriod>
+        <StartDate>2017-07-24</StartDate>
+        <EndDate>2038-01-17</EndDate>
+      </OperatingPeriod>
+      <RegisteredOperatorRef>HABC</RegisteredOperatorRef>
+      <StopRequirements>
+        <NoNewStopsRequired />
+      </StopRequirements>
+      <Mode>bus</Mode>
+      <Description>Halifax - Ovenden Way Circular</Description>
+      <StandardService>
+        <Origin>Halifax</Origin>
+        <Destination>Ovenden Way Circular</Destination>
+        <JourneyPattern id="JPS_YWAO525-2">
+          <Direction>outbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YWAO525-2</JourneyPatternSectionRefs>
+        </JourneyPattern>
+      </StandardService>
+    </Service>
+  </Services>
+  <VehicleJourneys>
+    <VehicleJourney>
+      <OperatorRef>HABC</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>38811</VehicleJourneyCode>
+      <ServiceRef>YWAO525</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO525-2</JourneyPatternRef>
+      <DepartureTime>07:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>HABC</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>38812</VehicleJourneyCode>
+      <ServiceRef>YWAO525</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO525-2</JourneyPatternRef>
+      <DepartureTime>08:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>HABC</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>38813</VehicleJourneyCode>
+      <ServiceRef>YWAO525</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO525-2</JourneyPatternRef>
+      <DepartureTime>08:15:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>HABC</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>38814</VehicleJourneyCode>
+      <ServiceRef>YWAO525</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO525-2</JourneyPatternRef>
+      <DepartureTime>08:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>HABC</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>38815</VehicleJourneyCode>
+      <ServiceRef>YWAO525</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO525-2</JourneyPatternRef>
+      <DepartureTime>08:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>HABC</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>38816</VehicleJourneyCode>
+      <ServiceRef>YWAO525</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO525-2</JourneyPatternRef>
+      <DepartureTime>09:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>HABC</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>38817</VehicleJourneyCode>
+      <ServiceRef>YWAO525</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO525-2</JourneyPatternRef>
+      <DepartureTime>09:15:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>HABC</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>38818</VehicleJourneyCode>
+      <ServiceRef>YWAO525</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO525-2</JourneyPatternRef>
+      <DepartureTime>09:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>HABC</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>38819</VehicleJourneyCode>
+      <ServiceRef>YWAO525</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO525-2</JourneyPatternRef>
+      <DepartureTime>09:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>HABC</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>38820</VehicleJourneyCode>
+      <ServiceRef>YWAO525</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO525-2</JourneyPatternRef>
+      <DepartureTime>10:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>HABC</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>38821</VehicleJourneyCode>
+      <ServiceRef>YWAO525</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO525-2</JourneyPatternRef>
+      <DepartureTime>10:15:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>HABC</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>38822</VehicleJourneyCode>
+      <ServiceRef>YWAO525</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO525-2</JourneyPatternRef>
+      <DepartureTime>10:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>HABC</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>38823</VehicleJourneyCode>
+      <ServiceRef>YWAO525</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO525-2</JourneyPatternRef>
+      <DepartureTime>10:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>HABC</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>38824</VehicleJourneyCode>
+      <ServiceRef>YWAO525</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO525-2</JourneyPatternRef>
+      <DepartureTime>11:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>HABC</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>38825</VehicleJourneyCode>
+      <ServiceRef>YWAO525</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO525-2</JourneyPatternRef>
+      <DepartureTime>11:15:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>HABC</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>38826</VehicleJourneyCode>
+      <ServiceRef>YWAO525</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO525-2</JourneyPatternRef>
+      <DepartureTime>11:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>HABC</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>38827</VehicleJourneyCode>
+      <ServiceRef>YWAO525</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO525-2</JourneyPatternRef>
+      <DepartureTime>11:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>HABC</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>38828</VehicleJourneyCode>
+      <ServiceRef>YWAO525</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO525-2</JourneyPatternRef>
+      <DepartureTime>12:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>HABC</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>38829</VehicleJourneyCode>
+      <ServiceRef>YWAO525</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO525-2</JourneyPatternRef>
+      <DepartureTime>08:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>HABC</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>38830</VehicleJourneyCode>
+      <ServiceRef>YWAO525</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO525-2</JourneyPatternRef>
+      <DepartureTime>08:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>HABC</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>38831</VehicleJourneyCode>
+      <ServiceRef>YWAO525</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO525-2</JourneyPatternRef>
+      <DepartureTime>09:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>HABC</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>38832</VehicleJourneyCode>
+      <ServiceRef>YWAO525</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO525-2</JourneyPatternRef>
+      <DepartureTime>09:15:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>HABC</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>38833</VehicleJourneyCode>
+      <ServiceRef>YWAO525</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO525-2</JourneyPatternRef>
+      <DepartureTime>09:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>HABC</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>38834</VehicleJourneyCode>
+      <ServiceRef>YWAO525</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO525-2</JourneyPatternRef>
+      <DepartureTime>09:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>HABC</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>38835</VehicleJourneyCode>
+      <ServiceRef>YWAO525</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO525-2</JourneyPatternRef>
+      <DepartureTime>10:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>HABC</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>38836</VehicleJourneyCode>
+      <ServiceRef>YWAO525</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO525-2</JourneyPatternRef>
+      <DepartureTime>10:15:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>HABC</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>38837</VehicleJourneyCode>
+      <ServiceRef>YWAO525</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO525-2</JourneyPatternRef>
+      <DepartureTime>10:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>HABC</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>38838</VehicleJourneyCode>
+      <ServiceRef>YWAO525</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO525-2</JourneyPatternRef>
+      <DepartureTime>10:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>HABC</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>38839</VehicleJourneyCode>
+      <ServiceRef>YWAO525</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO525-2</JourneyPatternRef>
+      <DepartureTime>11:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>HABC</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>38840</VehicleJourneyCode>
+      <ServiceRef>YWAO525</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO525-2</JourneyPatternRef>
+      <DepartureTime>11:15:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>HABC</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>38841</VehicleJourneyCode>
+      <ServiceRef>YWAO525</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO525-2</JourneyPatternRef>
+      <DepartureTime>11:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>HABC</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>38842</VehicleJourneyCode>
+      <ServiceRef>YWAO525</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO525-2</JourneyPatternRef>
+      <DepartureTime>11:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>HABC</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>38843</VehicleJourneyCode>
+      <ServiceRef>YWAO525</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO525-2</JourneyPatternRef>
+      <DepartureTime>12:00:00</DepartureTime>
+    </VehicleJourney>
+  </VehicleJourneys>
+</TransXChange>

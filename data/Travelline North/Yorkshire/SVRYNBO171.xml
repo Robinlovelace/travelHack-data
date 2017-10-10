@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TransXChange xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.transxchange.org.uk/ http://www.transxchange.org.uk/schema/2.1/TransXChange_general.xsd" CreationDateTime="2017-09-18T09:38:00-00:00" ModificationDateTime="2017-09-18T09:38:00-00:00" Modification="new" RevisionNumber="0" FileName="SVRYNBO171.xml" SchemaVersion="2.1" RegistrationDocument="false" xmlns="http://www.transxchange.org.uk/">
+  <StopPoints>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNA01098</StopPointRef>
+      <CommonName>The Library</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNA01100</StopPointRef>
+      <CommonName>Working Mens Club</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNE02018</StopPointRef>
+      <CommonName>Hungate</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNE02019</StopPointRef>
+      <CommonName>Westlands</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNE02020</StopPointRef>
+      <CommonName>Westlands Mayfield</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNE02021</StopPointRef>
+      <CommonName>County Inf School</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNA01094</StopPointRef>
+      <CommonName>Eastfield Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNE02023</StopPointRef>
+      <CommonName>Whitfield Avenue</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNE02022</StopPointRef>
+      <CommonName>Whitfield Avenue</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNF10038</StopPointRef>
+      <CommonName>Eastcroft</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNA01095</StopPointRef>
+      <CommonName>The Royal Oak</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNF10040</StopPointRef>
+      <CommonName>Rosecroft</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNE02024</StopPointRef>
+      <CommonName>Pool Court</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNE02025</StopPointRef>
+      <CommonName>Millfield Close</CommonName>
+    </AnnotatedStopPointRef>
+  </StopPoints>
+  <RouteSections>
+    <RouteSection id="YNBO171_001">
+      <RouteLink id="YNBO171_001_39790">
+        <From>
+          <StopPointRef>3200YNA01098</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNA01100</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNBO171_001_39791">
+        <From>
+          <StopPointRef>3200YNA01100</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNE02018</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNBO171_001_39792">
+        <From>
+          <StopPointRef>3200YNE02018</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNE02019</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNBO171_001_39793">
+        <From>
+          <StopPointRef>3200YNE02019</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNE02020</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNBO171_001_39794">
+        <From>
+          <StopPointRef>3200YNE02020</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNE02021</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNBO171_001_39795">
+        <From>
+          <StopPointRef>3200YNE02021</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNA01094</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNBO171_001_39796">
+        <From>
+          <StopPointRef>3200YNA01094</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNE02023</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNBO171_001_39797">
+        <From>
+          <StopPointRef>3200YNE02023</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNE02022</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNBO171_001_39798">
+        <From>
+          <StopPointRef>3200YNE02022</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNF10038</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNBO171_001_39799">
+        <From>
+          <StopPointRef>3200YNF10038</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNA01095</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNBO171_001_39800">
+        <From>
+          <StopPointRef>3200YNA01095</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNF10040</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNBO171_001_39801">
+        <From>
+          <StopPointRef>3200YNF10040</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNE02024</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNBO171_001_39802">
+        <From>
+          <StopPointRef>3200YNE02024</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNE02025</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNBO171_001_39803">
+        <From>
+          <StopPointRef>3200YNE02025</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNA01100</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNBO171_001_39804">
+        <From>
+          <StopPointRef>3200YNA01100</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNA01098</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+    </RouteSection>
+  </RouteSections>
+  <Routes>
+    <Route id="YNBO171_001">
+      <Description>Pickering - Whitfield Ave Circular
+</Description>
+      <RouteSectionRef>YNBO171_001</RouteSectionRef>
+    </Route>
+  </Routes>
+  <JourneyPatternSections>
+    <JourneyPatternSection id="JPS_YNBO171-2">
+      <JourneyPatternTimingLink id="JPS_YNBO171-2_39790">
+        <From>
+          <StopPointRef>3200YNA01098</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNA01100</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YNBO171_001_39790</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNBO171-2_39791">
+        <From>
+          <StopPointRef>3200YNA01100</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNE02018</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YNBO171_001_39791</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNBO171-2_39792">
+        <From>
+          <StopPointRef>3200YNE02018</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNE02019</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YNBO171_001_39792</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNBO171-2_39793">
+        <From>
+          <StopPointRef>3200YNE02019</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNE02020</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YNBO171_001_39793</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNBO171-2_39794">
+        <From>
+          <StopPointRef>3200YNE02020</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNE02021</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YNBO171_001_39794</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT240S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNBO171-2_39795">
+        <From>
+          <StopPointRef>3200YNE02021</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNA01094</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YNBO171_001_39795</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNBO171-2_39796">
+        <From>
+          <StopPointRef>3200YNA01094</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNE02023</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YNBO171_001_39796</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNBO171-2_39797">
+        <From>
+          <StopPointRef>3200YNE02023</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNE02022</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YNBO171_001_39797</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNBO171-2_39798">
+        <From>
+          <StopPointRef>3200YNE02022</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNF10038</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YNBO171_001_39798</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT180S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNBO171-2_39799">
+        <From>
+          <StopPointRef>3200YNF10038</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNA01095</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YNBO171_001_39799</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNBO171-2_39800">
+        <From>
+          <StopPointRef>3200YNA01095</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNF10040</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YNBO171_001_39800</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNBO171-2_39801">
+        <From>
+          <StopPointRef>3200YNF10040</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNE02024</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YNBO171_001_39801</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT180S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNBO171-2_39802">
+        <From>
+          <StopPointRef>3200YNE02024</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNE02025</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YNBO171_001_39802</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNBO171-2_39803">
+        <From>
+          <StopPointRef>3200YNE02025</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNA01100</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YNBO171_001_39803</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT180S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNBO171-2_39804">
+        <From>
+          <StopPointRef>3200YNA01100</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNA01098</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YNBO171_001_39804</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+  </JourneyPatternSections>
+  <Operators>
+    <Operator id="HTR">
+      <NationalOperatorCode>HWTR</NationalOperatorCode>
+      <OperatorCode>HTR</OperatorCode>
+      <OperatorShortName>Hayesway Travel</OperatorShortName>
+    </Operator>
+  </Operators>
+  <Services>
+    <Service>
+      <ServiceCode>YNBO171</ServiceCode>
+      <Lines>
+        <Line id="0">
+          <LineName>171</LineName>
+        </Line>
+      </Lines>
+      <OperatingPeriod>
+        <StartDate>2016-03-30</StartDate>
+        <EndDate>2038-01-17</EndDate>
+      </OperatingPeriod>
+      <RegisteredOperatorRef>HTR</RegisteredOperatorRef>
+      <StopRequirements>
+        <NoNewStopsRequired />
+      </StopRequirements>
+      <Mode>bus</Mode>
+      <Description>Pickering - Whitfield Ave Circular</Description>
+      <StandardService>
+        <Origin>Pickering</Origin>
+        <Destination>Whitfield Ave Circular</Destination>
+        <JourneyPattern id="JPS_YNBO171-2">
+          <Direction>outbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YNBO171-2</JourneyPatternSectionRefs>
+        </JourneyPattern>
+      </StandardService>
+    </Service>
+  </Services>
+  <VehicleJourneys>
+    <VehicleJourney>
+      <OperatorRef>HTR</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <BankHolidayOperation>
+          <DaysOfNonOperation>
+            <ChristmasDay />
+            <BoxingDay />
+            <GoodFriday />
+            <NewYearsDay />
+            <LateSummerBankHolidayNotScotland />
+            <MayDay />
+            <EasterMonday />
+            <SpringBank />
+          </DaysOfNonOperation>
+        </BankHolidayOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>67099</VehicleJourneyCode>
+      <ServiceRef>YNBO171</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YNBO171-2</JourneyPatternRef>
+      <DepartureTime>09:20:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>HTR</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <BankHolidayOperation>
+          <DaysOfNonOperation>
+            <ChristmasDay />
+            <BoxingDay />
+            <GoodFriday />
+            <NewYearsDay />
+            <LateSummerBankHolidayNotScotland />
+            <MayDay />
+            <EasterMonday />
+            <SpringBank />
+          </DaysOfNonOperation>
+        </BankHolidayOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>67100</VehicleJourneyCode>
+      <ServiceRef>YNBO171</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YNBO171-2</JourneyPatternRef>
+      <DepartureTime>11:05:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>HTR</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <BankHolidayOperation>
+          <DaysOfNonOperation>
+            <ChristmasDay />
+            <BoxingDay />
+            <GoodFriday />
+            <NewYearsDay />
+            <LateSummerBankHolidayNotScotland />
+            <MayDay />
+            <EasterMonday />
+            <SpringBank />
+          </DaysOfNonOperation>
+        </BankHolidayOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>67101</VehicleJourneyCode>
+      <ServiceRef>YNBO171</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YNBO171-2</JourneyPatternRef>
+      <DepartureTime>12:05:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>HTR</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <BankHolidayOperation>
+          <DaysOfNonOperation>
+            <ChristmasDay />
+            <BoxingDay />
+            <GoodFriday />
+            <NewYearsDay />
+            <LateSummerBankHolidayNotScotland />
+            <MayDay />
+            <EasterMonday />
+            <SpringBank />
+          </DaysOfNonOperation>
+        </BankHolidayOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>67102</VehicleJourneyCode>
+      <ServiceRef>YNBO171</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YNBO171-2</JourneyPatternRef>
+      <DepartureTime>14:05:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>HTR</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>67103</VehicleJourneyCode>
+      <ServiceRef>YNBO171</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YNBO171-2</JourneyPatternRef>
+      <DepartureTime>09:20:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>HTR</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>67104</VehicleJourneyCode>
+      <ServiceRef>YNBO171</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YNBO171-2</JourneyPatternRef>
+      <DepartureTime>11:05:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>HTR</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>67105</VehicleJourneyCode>
+      <ServiceRef>YNBO171</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YNBO171-2</JourneyPatternRef>
+      <DepartureTime>12:05:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>HTR</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>67106</VehicleJourneyCode>
+      <ServiceRef>YNBO171</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YNBO171-2</JourneyPatternRef>
+      <DepartureTime>14:05:00</DepartureTime>
+    </VehicleJourney>
+  </VehicleJourneys>
+</TransXChange>

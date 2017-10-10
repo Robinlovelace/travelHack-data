@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TransXChange xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.transxchange.org.uk/ http://www.transxchange.org.uk/schema/2.1/TransXChange_general.xsd" CreationDateTime="2017-09-18T09:39:00-00:00" ModificationDateTime="2017-09-18T09:39:00-00:00" Modification="new" RevisionNumber="0" FileName="SVRYNCO003A.xml" SchemaVersion="2.1" RegistrationDocument="false" xmlns="http://www.transxchange.org.uk/">
+  <StopPoints>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNA00956</StopPointRef>
+      <CommonName>Old Scalby Mills</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNE04352</StopPointRef>
+      <CommonName>Scalby Mills Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNE04354</StopPointRef>
+      <CommonName>Newlands</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNA01188</StopPointRef>
+      <CommonName>Newlands Park</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNA01187</StopPointRef>
+      <CommonName>St Peters School</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNA01185</StopPointRef>
+      <CommonName>Northstead School</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNA01193</StopPointRef>
+      <CommonName>Maple Drive End</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNA01172</StopPointRef>
+      <CommonName>Northstead Manor Drive</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNA01171</StopPointRef>
+      <CommonName>Cemetery</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNA01169</StopPointRef>
+      <CommonName>Cornbis Ravine</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNA01194</StopPointRef>
+      <CommonName>Clifton Street</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNA01162</StopPointRef>
+      <CommonName>Aberdeen Walk Stop K</CommonName>
+    </AnnotatedStopPointRef>
+  </StopPoints>
+  <RouteSections>
+    <RouteSection id="YNCO003A001">
+      <RouteLink id="YNCO003A001_41241">
+        <From>
+          <StopPointRef>3200YNA00956</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNE04352</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNCO003A001_41242">
+        <From>
+          <StopPointRef>3200YNE04352</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNE04354</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNCO003A001_41243">
+        <From>
+          <StopPointRef>3200YNE04354</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNA01188</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNCO003A001_41244">
+        <From>
+          <StopPointRef>3200YNA01188</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNA01187</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNCO003A001_41245">
+        <From>
+          <StopPointRef>3200YNA01187</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNA01185</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNCO003A001_41246">
+        <From>
+          <StopPointRef>3200YNA01185</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNA01193</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNCO003A001_41247">
+        <From>
+          <StopPointRef>3200YNA01193</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNA01172</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNCO003A001_41248">
+        <From>
+          <StopPointRef>3200YNA01172</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNA01171</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNCO003A001_41249">
+        <From>
+          <StopPointRef>3200YNA01171</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNA01169</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNCO003A001_41250">
+        <From>
+          <StopPointRef>3200YNA01169</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNA01194</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNCO003A001_41251">
+        <From>
+          <StopPointRef>3200YNA01194</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNA01162</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+    </RouteSection>
+  </RouteSections>
+  <Routes>
+    <Route id="YNCO003A001">
+      <Description>Sea Life Centre - Town Centre
+</Description>
+      <RouteSectionRef>YNCO003A001</RouteSectionRef>
+    </Route>
+  </Routes>
+  <JourneyPatternSections>
+    <JourneyPatternSection id="JPS_YNCO003A-2">
+      <JourneyPatternTimingLink id="JPS_YNCO003A-2_41241">
+        <From>
+          <StopPointRef>3200YNA00956</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNE04352</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YNCO003A001_41241</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT180S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNCO003A-2_41242">
+        <From>
+          <StopPointRef>3200YNE04352</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNE04354</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YNCO003A001_41242</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNCO003A-2_41243">
+        <From>
+          <StopPointRef>3200YNE04354</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNA01188</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YNCO003A001_41243</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNCO003A-2_41244">
+        <From>
+          <StopPointRef>3200YNA01188</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNA01187</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YNCO003A001_41244</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNCO003A-2_41245">
+        <From>
+          <StopPointRef>3200YNA01187</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNA01185</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YNCO003A001_41245</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNCO003A-2_41246">
+        <From>
+          <StopPointRef>3200YNA01185</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNA01193</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YNCO003A001_41246</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNCO003A-2_41247">
+        <From>
+          <StopPointRef>3200YNA01193</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNA01172</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YNCO003A001_41247</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNCO003A-2_41248">
+        <From>
+          <StopPointRef>3200YNA01172</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNA01171</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YNCO003A001_41248</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNCO003A-2_41249">
+        <From>
+          <StopPointRef>3200YNA01171</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNA01169</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YNCO003A001_41249</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNCO003A-2_41250">
+        <From>
+          <StopPointRef>3200YNA01169</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNA01194</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YNCO003A001_41250</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNCO003A-2_41251">
+        <From>
+          <StopPointRef>3200YNA01194</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNA01162</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YNCO003A001_41251</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+  </JourneyPatternSections>
+  <Operators>
+    <Operator id="SDMS">
+      <NationalOperatorCode>SDMS</NationalOperatorCode>
+      <OperatorCode>SDMS</OperatorCode>
+      <OperatorShortName>Scarborough and District</OperatorShortName>
+    </Operator>
+  </Operators>
+  <Services>
+    <Service>
+      <ServiceCode>YNCO003A</ServiceCode>
+      <Lines>
+        <Line id="0">
+          <LineName>3A</LineName>
+        </Line>
+      </Lines>
+      <OperatingPeriod>
+        <StartDate>2017-04-09</StartDate>
+        <EndDate>2038-01-17</EndDate>
+      </OperatingPeriod>
+      <RegisteredOperatorRef>SDMS</RegisteredOperatorRef>
+      <StopRequirements>
+        <NoNewStopsRequired />
+      </StopRequirements>
+      <Mode>bus</Mode>
+      <Description>Sea Life Centre - Town Centre</Description>
+      <StandardService>
+        <Origin>Sea Life Centre</Origin>
+        <Destination>Town Centre</Destination>
+        <JourneyPattern id="JPS_YNCO003A-2">
+          <Direction>inbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YNCO003A-2</JourneyPatternSectionRefs>
+        </JourneyPattern>
+      </StandardService>
+    </Service>
+  </Services>
+  <VehicleJourneys>
+    <VehicleJourney>
+      <OperatorRef>SDMS</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <BankHolidayOperation>
+          <DaysOfNonOperation />
+        </BankHolidayOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>69902</VehicleJourneyCode>
+      <ServiceRef>YNCO003A</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YNCO003A-2</JourneyPatternRef>
+      <DepartureTime>09:59:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>SDMS</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <BankHolidayOperation>
+          <DaysOfNonOperation />
+        </BankHolidayOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>69903</VehicleJourneyCode>
+      <ServiceRef>YNCO003A</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YNCO003A-2</JourneyPatternRef>
+      <DepartureTime>10:59:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>SDMS</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <BankHolidayOperation>
+          <DaysOfNonOperation />
+        </BankHolidayOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>69904</VehicleJourneyCode>
+      <ServiceRef>YNCO003A</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YNCO003A-2</JourneyPatternRef>
+      <DepartureTime>11:59:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>SDMS</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <BankHolidayOperation>
+          <DaysOfNonOperation />
+        </BankHolidayOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>69905</VehicleJourneyCode>
+      <ServiceRef>YNCO003A</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YNCO003A-2</JourneyPatternRef>
+      <DepartureTime>12:59:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>SDMS</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <BankHolidayOperation>
+          <DaysOfNonOperation />
+        </BankHolidayOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>69906</VehicleJourneyCode>
+      <ServiceRef>YNCO003A</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YNCO003A-2</JourneyPatternRef>
+      <DepartureTime>14:59:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>SDMS</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <BankHolidayOperation>
+          <DaysOfNonOperation />
+        </BankHolidayOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>69907</VehicleJourneyCode>
+      <ServiceRef>YNCO003A</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YNCO003A-2</JourneyPatternRef>
+      <DepartureTime>15:59:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>SDMS</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <BankHolidayOperation>
+          <DaysOfNonOperation />
+        </BankHolidayOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>69908</VehicleJourneyCode>
+      <ServiceRef>YNCO003A</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YNCO003A-2</JourneyPatternRef>
+      <DepartureTime>16:59:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>SDMS</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <BankHolidayOperation>
+          <DaysOfNonOperation />
+        </BankHolidayOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>69909</VehicleJourneyCode>
+      <ServiceRef>YNCO003A</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YNCO003A-2</JourneyPatternRef>
+      <DepartureTime>17:59:00</DepartureTime>
+    </VehicleJourney>
+  </VehicleJourneys>
+</TransXChange>

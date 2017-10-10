@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TransXChange xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.transxchange.org.uk/ http://www.transxchange.org.uk/schema/2.1/TransXChange_general.xsd" CreationDateTime="2017-09-18T09:33:00-00:00" ModificationDateTime="2017-09-18T09:33:00-00:00" Modification="new" RevisionNumber="0" FileName="SVRYEAO521.xml" SchemaVersion="2.1" RegistrationDocument="false" xmlns="http://www.transxchange.org.uk/">
+  <StopPoints>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEZ01250</StopPointRef>
+      <CommonName>Beverley Bus Station</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00077</StopPointRef>
+      <CommonName>Beverley New Walkergate</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEZ01265</StopPointRef>
+      <CommonName>Beverley Railway Stn</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEZ01259</StopPointRef>
+      <CommonName>Beverley Cherry Tree Lane</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEZ01260</StopPointRef>
+      <CommonName>Beverley Greenwood Ave</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEZ01268</StopPointRef>
+      <CommonName>Beverley Humber Keel</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEZ01261</StopPointRef>
+      <CommonName>Beverley Burden Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA11816</StopPointRef>
+      <CommonName>ER Community Hospital</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEZ01262</StopPointRef>
+      <CommonName>Beverley Sigston Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEZ01264</StopPointRef>
+      <CommonName>Beverley Rail Station</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00078</StopPointRef>
+      <CommonName>Beverley New Walkergate</CommonName>
+    </AnnotatedStopPointRef>
+  </StopPoints>
+  <RouteSections>
+    <RouteSection id="YEAO521_010">
+      <RouteLink id="YEAO521_010_6711">
+        <From>
+          <StopPointRef>2200YEZ01250</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00077</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEAO521_010_6712">
+        <From>
+          <StopPointRef>2200YEA00077</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEZ01265</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEAO521_010_6713">
+        <From>
+          <StopPointRef>2200YEZ01265</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEZ01259</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEAO521_010_6714">
+        <From>
+          <StopPointRef>2200YEZ01259</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEZ01260</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEAO521_010_6715">
+        <From>
+          <StopPointRef>2200YEZ01260</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEZ01268</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEAO521_010_6716">
+        <From>
+          <StopPointRef>2200YEZ01268</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEZ01261</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEAO521_010_6717">
+        <From>
+          <StopPointRef>2200YEZ01261</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA11816</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEAO521_010_6718">
+        <From>
+          <StopPointRef>2200YEA11816</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEZ01262</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEAO521_010_6719">
+        <From>
+          <StopPointRef>2200YEZ01262</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEZ01264</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEAO521_010_6720">
+        <From>
+          <StopPointRef>2200YEZ01264</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00078</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEAO521_010_6721">
+        <From>
+          <StopPointRef>2200YEA00078</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEZ01250</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+    </RouteSection>
+  </RouteSections>
+  <Routes>
+    <Route id="YEAO521_010">
+      <Description>Beverley - Swinemoor Est - Beverley (Circular Service)
+</Description>
+      <RouteSectionRef>YEAO521_010</RouteSectionRef>
+    </Route>
+  </Routes>
+  <JourneyPatternSections>
+    <JourneyPatternSection id="JPS_YEAO521-2">
+      <JourneyPatternTimingLink id="JPS_YEAO521-2_6711">
+        <From>
+          <StopPointRef>2200YEZ01250</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00077</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEAO521_010_6711</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT90S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEAO521-2_6712">
+        <From>
+          <StopPointRef>2200YEA00077</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEZ01265</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEAO521_010_6712</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT51S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEAO521-2_6713">
+        <From>
+          <StopPointRef>2200YEZ01265</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEZ01259</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEAO521_010_6713</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT77S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEAO521-2_6714">
+        <From>
+          <StopPointRef>2200YEZ01259</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEZ01260</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEAO521_010_6714</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT70S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEAO521-2_6715">
+        <From>
+          <StopPointRef>2200YEZ01260</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEZ01268</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEAO521_010_6715</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT56S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEAO521-2_6716">
+        <From>
+          <StopPointRef>2200YEZ01268</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEZ01261</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEAO521_010_6716</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT143S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEAO521-2_6717">
+        <From>
+          <StopPointRef>2200YEZ01261</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA11816</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YEAO521_010_6717</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT173S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEAO521-2_6718">
+        <From>
+          <StopPointRef>2200YEA11816</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEZ01262</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YEAO521_010_6718</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT240S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEAO521-2_6719">
+        <From>
+          <StopPointRef>2200YEZ01262</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEZ01264</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEAO521_010_6719</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT403S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEAO521-2_6720">
+        <From>
+          <StopPointRef>2200YEZ01264</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00078</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEAO521_010_6720</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT77S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEAO521-2_6721">
+        <From>
+          <StopPointRef>2200YEA00078</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEZ01250</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YEAO521_010_6721</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+  </JourneyPatternSections>
+  <Operators>
+    <Operator id="EY">
+      <NationalOperatorCode>EYMS</NationalOperatorCode>
+      <OperatorCode>EY</OperatorCode>
+      <OperatorShortName>EYMS</OperatorShortName>
+    </Operator>
+  </Operators>
+  <Services>
+    <Service>
+      <ServiceCode>YEAO521</ServiceCode>
+      <Lines>
+        <Line id="0">
+          <LineName>521</LineName>
+        </Line>
+      </Lines>
+      <OperatingPeriod>
+        <StartDate>2015-07-06</StartDate>
+      </OperatingPeriod>
+      <RegisteredOperatorRef>EY</RegisteredOperatorRef>
+      <StopRequirements>
+        <NoNewStopsRequired />
+      </StopRequirements>
+      <Mode>bus</Mode>
+      <Description>Beverley - Swinemoor Est - Beverley (Circular Service)</Description>
+      <StandardService>
+        <Origin>Beverley</Origin>
+        <Destination>Beverley (Circular Service)</Destination>
+        <JourneyPattern id="JPS_YEAO521-2">
+          <Direction>outbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YEAO521-2</JourneyPatternSectionRefs>
+        </JourneyPattern>
+      </StandardService>
+    </Service>
+  </Services>
+  <VehicleJourneys>
+    <VehicleJourney>
+      <OperatorRef>EY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <BankHolidayOperation>
+          <DaysOfNonOperation>
+            <LateSummerBankHolidayNotScotland />
+          </DaysOfNonOperation>
+        </BankHolidayOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>1085</VehicleJourneyCode>
+      <ServiceRef>YEAO521</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YEAO521-2</JourneyPatternRef>
+      <DepartureTime>08:55:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>EY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <BankHolidayOperation>
+          <DaysOfNonOperation>
+            <LateSummerBankHolidayNotScotland />
+          </DaysOfNonOperation>
+        </BankHolidayOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>1086</VehicleJourneyCode>
+      <ServiceRef>YEAO521</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YEAO521-2</JourneyPatternRef>
+      <DepartureTime>09:55:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>EY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <BankHolidayOperation>
+          <DaysOfNonOperation>
+            <LateSummerBankHolidayNotScotland />
+          </DaysOfNonOperation>
+        </BankHolidayOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>1087</VehicleJourneyCode>
+      <ServiceRef>YEAO521</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YEAO521-2</JourneyPatternRef>
+      <DepartureTime>10:55:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>EY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <BankHolidayOperation>
+          <DaysOfNonOperation>
+            <LateSummerBankHolidayNotScotland />
+          </DaysOfNonOperation>
+        </BankHolidayOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>1088</VehicleJourneyCode>
+      <ServiceRef>YEAO521</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YEAO521-2</JourneyPatternRef>
+      <DepartureTime>11:55:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>EY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <BankHolidayOperation>
+          <DaysOfNonOperation>
+            <LateSummerBankHolidayNotScotland />
+          </DaysOfNonOperation>
+        </BankHolidayOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>1089</VehicleJourneyCode>
+      <ServiceRef>YEAO521</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YEAO521-2</JourneyPatternRef>
+      <DepartureTime>12:55:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>EY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <BankHolidayOperation>
+          <DaysOfNonOperation>
+            <LateSummerBankHolidayNotScotland />
+          </DaysOfNonOperation>
+        </BankHolidayOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>1090</VehicleJourneyCode>
+      <ServiceRef>YEAO521</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YEAO521-2</JourneyPatternRef>
+      <DepartureTime>13:55:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>EY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>1091</VehicleJourneyCode>
+      <ServiceRef>YEAO521</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YEAO521-2</JourneyPatternRef>
+      <DepartureTime>14:55:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>EY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <BankHolidayOperation>
+          <DaysOfNonOperation>
+            <LateSummerBankHolidayNotScotland />
+          </DaysOfNonOperation>
+        </BankHolidayOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>1092</VehicleJourneyCode>
+      <ServiceRef>YEAO521</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YEAO521-2</JourneyPatternRef>
+      <DepartureTime>15:55:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>EY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <BankHolidayOperation>
+          <DaysOfNonOperation>
+            <LateSummerBankHolidayNotScotland />
+          </DaysOfNonOperation>
+        </BankHolidayOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>1093</VehicleJourneyCode>
+      <ServiceRef>YEAO521</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YEAO521-2</JourneyPatternRef>
+      <DepartureTime>16:55:00</DepartureTime>
+    </VehicleJourney>
+  </VehicleJourneys>
+</TransXChange>

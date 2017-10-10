@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TransXChange xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.transxchange.org.uk/ http://www.transxchange.org.uk/schema/2.1/TransXChange_general.xsd" CreationDateTime="2017-09-18T10:00:00-00:00" ModificationDateTime="2017-09-18T10:00:00-00:00" Modification="new" RevisionNumber="0" FileName="SVRYSLO491.xml" SchemaVersion="2.1" RegistrationDocument="false" xmlns="http://www.transxchange.org.uk/">
+  <StopPoints>
+    <AnnotatedStopPointRef>
+      <StopPointRef>370050978</StopPointRef>
+      <CommonName>Middlecliffe Drive</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>370050975</StopPointRef>
+      <CommonName>Bents Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>370055417</StopPointRef>
+      <CommonName>Hollin Lane</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>370055560</StopPointRef>
+      <CommonName>Works</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>370056073</StopPointRef>
+      <CommonName>Bullhouse Mill</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>370056013</StopPointRef>
+      <CommonName>Manchester Road</CommonName>
+    </AnnotatedStopPointRef>
+  </StopPoints>
+  <RouteSections>
+    <RouteSection id="YSLO491_001">
+      <RouteLink id="YSLO491_001_124001">
+        <From>
+          <StopPointRef>370050978</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>370050975</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YSLO491_001_124002">
+        <From>
+          <StopPointRef>370050975</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>370055417</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YSLO491_001_124003">
+        <From>
+          <StopPointRef>370055417</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>370055560</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YSLO491_001_124004">
+        <From>
+          <StopPointRef>370055560</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>370056073</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YSLO491_001_124005">
+        <From>
+          <StopPointRef>370056073</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>370056013</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+    </RouteSection>
+  </RouteSections>
+  <Routes>
+    <Route id="YSLO491_001">
+      <Description>Crow Edge - Millhouse Green Primary
+</Description>
+      <RouteSectionRef>YSLO491_001</RouteSectionRef>
+    </Route>
+  </Routes>
+  <JourneyPatternSections>
+    <JourneyPatternSection id="JPS_YSLO491-2">
+      <JourneyPatternTimingLink id="JPS_YSLO491-2_124001">
+        <From>
+          <StopPointRef>370050978</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>370050975</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YSLO491_001_124001</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YSLO491-2_124002">
+        <From>
+          <StopPointRef>370050975</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>370055417</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YSLO491_001_124002</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YSLO491-2_124003">
+        <From>
+          <StopPointRef>370055417</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>370055560</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YSLO491_001_124003</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YSLO491-2_124004">
+        <From>
+          <StopPointRef>370055560</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>370056073</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YSLO491_001_124004</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YSLO491-2_124005">
+        <From>
+          <StopPointRef>370056073</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>370056013</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YSLO491_001_124005</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+  </JourneyPatternSections>
+  <Operators>
+    <Operator id="YTG">
+      <NationalOperatorCode>YTIG</NationalOperatorCode>
+      <OperatorCode>YTG</OperatorCode>
+      <OperatorShortName>Yorkshire Tiger</OperatorShortName>
+    </Operator>
+  </Operators>
+  <Services>
+    <Service>
+      <ServiceCode>YSLO491</ServiceCode>
+      <Lines>
+        <Line id="0">
+          <LineName>491</LineName>
+        </Line>
+      </Lines>
+      <OperatingPeriod>
+        <StartDate>2017-01-29</StartDate>
+        <EndDate>2038-01-17</EndDate>
+      </OperatingPeriod>
+      <RegisteredOperatorRef>YTG</RegisteredOperatorRef>
+      <StopRequirements>
+        <NoNewStopsRequired />
+      </StopRequirements>
+      <Mode>bus</Mode>
+      <Description>Crow Edge - Millhouse Green Primary</Description>
+      <StandardService>
+        <Origin>Crow Edge</Origin>
+        <Destination>Millhouse Green Primary</Destination>
+        <JourneyPattern id="JPS_YSLO491-2">
+          <Direction>outbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YSLO491-2</JourneyPatternSectionRefs>
+        </JourneyPattern>
+      </StandardService>
+    </Service>
+  </Services>
+  <VehicleJourneys>
+    <VehicleJourney>
+      <OperatorRef>YTG</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <BankHolidayOperation>
+          <DaysOfNonOperation>
+            <ChristmasDay />
+            <BoxingDay />
+            <GoodFriday />
+            <NewYearsDay />
+            <LateSummerBankHolidayNotScotland />
+            <MayDay />
+            <EasterMonday />
+            <SpringBank />
+          </DaysOfNonOperation>
+        </BankHolidayOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>84962</VehicleJourneyCode>
+      <ServiceRef>YSLO491</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YSLO491-2</JourneyPatternRef>
+      <Note>
+        <NoteCode>SCHD</NoteCode>
+        <NoteText>School Days Only</NoteText>
+      </Note>
+      <DepartureTime>08:43:00</DepartureTime>
+    </VehicleJourney>
+  </VehicleJourneys>
+</TransXChange>

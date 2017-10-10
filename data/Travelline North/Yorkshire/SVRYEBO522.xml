@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TransXChange xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.transxchange.org.uk/ http://www.transxchange.org.uk/schema/2.1/TransXChange_general.xsd" CreationDateTime="2017-09-18T09:33:00-00:00" ModificationDateTime="2017-09-18T09:33:00-00:00" Modification="new" RevisionNumber="0" FileName="SVRYEBO522.xml" SchemaVersion="2.1" RegistrationDocument="false" xmlns="http://www.transxchange.org.uk/">
+  <StopPoints>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEZ01250</StopPointRef>
+      <CommonName>Beverley Bus Station</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00077</StopPointRef>
+      <CommonName>Beverley New Walkergate</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00624</StopPointRef>
+      <CommonName>Beverley Lord Roberts Rd</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00079</StopPointRef>
+      <CommonName>Beverley Lairgate</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00053</StopPointRef>
+      <CommonName>Beverley Admiral Walker Rd</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA11675</StopPointRef>
+      <CommonName>Beverley Lincoln Way</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA11829</StopPointRef>
+      <CommonName>Beverley Morrisons</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00832</StopPointRef>
+      <CommonName>Beverley Victoria Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00048</StopPointRef>
+      <CommonName>Beverley Victoria Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00054</StopPointRef>
+      <CommonName>Beverley Admiral Walker Rd</CommonName>
+    </AnnotatedStopPointRef>
+  </StopPoints>
+  <RouteSections>
+    <RouteSection id="YEBO522_006">
+      <RouteLink id="YEBO522_006_8996">
+        <From>
+          <StopPointRef>2200YEZ01250</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00077</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEBO522_006_8997">
+        <From>
+          <StopPointRef>2200YEA00077</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00624</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEBO522_006_8998">
+        <From>
+          <StopPointRef>2200YEA00624</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00079</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEBO522_006_8999">
+        <From>
+          <StopPointRef>2200YEA00079</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00053</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEBO522_006_9000">
+        <From>
+          <StopPointRef>2200YEA00053</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA11675</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEBO522_006_9001">
+        <From>
+          <StopPointRef>2200YEA11675</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA11829</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEBO522_006_9002">
+        <From>
+          <StopPointRef>2200YEA11829</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00832</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEBO522_006_9003">
+        <From>
+          <StopPointRef>2200YEA00832</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00048</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEBO522_006_9004">
+        <From>
+          <StopPointRef>2200YEA00048</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00054</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEBO522_006_9005">
+        <From>
+          <StopPointRef>2200YEA00054</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEZ01250</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+    </RouteSection>
+  </RouteSections>
+  <Routes>
+    <Route id="YEBO522_006">
+      <Description>Beverley BS - Normandy Ave - Beverley BS (Circular)
+</Description>
+      <RouteSectionRef>YEBO522_006</RouteSectionRef>
+    </Route>
+  </Routes>
+  <JourneyPatternSections>
+    <JourneyPatternSection id="JPS_YEBO522-2">
+      <JourneyPatternTimingLink id="JPS_YEBO522-2_8996">
+        <From>
+          <StopPointRef>2200YEZ01250</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00077</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEBO522_006_8996</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT51S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEBO522-2_8997">
+        <From>
+          <StopPointRef>2200YEA00077</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00624</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEBO522_006_8997</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT29S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEBO522-2_8998">
+        <From>
+          <StopPointRef>2200YEA00624</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00079</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEBO522_006_8998</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT41S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEBO522-2_8999">
+        <From>
+          <StopPointRef>2200YEA00079</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00053</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEBO522_006_8999</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT36S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEBO522-2_9000">
+        <From>
+          <StopPointRef>2200YEA00053</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA11675</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEBO522_006_9000</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT137S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEBO522-2_9001">
+        <From>
+          <StopPointRef>2200YEA11675</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA11829</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEBO522_006_9001</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT136S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEBO522-2_9002">
+        <From>
+          <StopPointRef>2200YEA11829</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00832</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YEBO522_006_9002</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT170S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEBO522-2_9003">
+        <From>
+          <StopPointRef>2200YEA00832</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00048</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEBO522_006_9003</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT101S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEBO522-2_9004">
+        <From>
+          <StopPointRef>2200YEA00048</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00054</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEBO522_006_9004</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT259S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEBO522-2_9005">
+        <From>
+          <StopPointRef>2200YEA00054</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEZ01250</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YEBO522_006_9005</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT240S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+  </JourneyPatternSections>
+  <Operators>
+    <Operator id="ACK">
+      <NationalOperatorCode>ACKC</NationalOperatorCode>
+      <OperatorCode>ACK</OperatorCode>
+      <OperatorShortName>Acklams Coaches</OperatorShortName>
+    </Operator>
+    <Operator id="UNKWN">
+      <OperatorCode>UNKWN</OperatorCode>
+      <OperatorShortName>UNKWN</OperatorShortName>
+    </Operator>
+  </Operators>
+  <Services>
+    <Service>
+      <ServiceCode>YEBO522</ServiceCode>
+      <Lines>
+        <Line id="0">
+          <LineName>522</LineName>
+        </Line>
+      </Lines>
+      <OperatingPeriod>
+        <StartDate>2016-05-20</StartDate>
+      </OperatingPeriod>
+      <RegisteredOperatorRef>ACK</RegisteredOperatorRef>
+      <StopRequirements>
+        <NoNewStopsRequired />
+      </StopRequirements>
+      <Mode>bus</Mode>
+      <Description>Beverley BS - Normandy Ave - Beverley BS (Circular)</Description>
+      <StandardService>
+        <Origin>Beverley BS</Origin>
+        <Destination>Beverley BS (Circular)</Destination>
+        <JourneyPattern id="JPS_YEBO522-2">
+          <Direction>outbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YEBO522-2</JourneyPatternSectionRefs>
+        </JourneyPattern>
+      </StandardService>
+    </Service>
+  </Services>
+  <VehicleJourneys>
+    <VehicleJourney>
+      <OperatorRef>ACK</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>1572</VehicleJourneyCode>
+      <ServiceRef>YEBO522</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YEBO522-2</JourneyPatternRef>
+      <DepartureTime>09:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>ACK</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>1573</VehicleJourneyCode>
+      <ServiceRef>YEBO522</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YEBO522-2</JourneyPatternRef>
+      <DepartureTime>10:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>ACK</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>1574</VehicleJourneyCode>
+      <ServiceRef>YEBO522</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YEBO522-2</JourneyPatternRef>
+      <DepartureTime>11:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>ACK</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>1575</VehicleJourneyCode>
+      <ServiceRef>YEBO522</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YEBO522-2</JourneyPatternRef>
+      <DepartureTime>12:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>ACK</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>1576</VehicleJourneyCode>
+      <ServiceRef>YEBO522</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YEBO522-2</JourneyPatternRef>
+      <DepartureTime>13:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>ACK</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>1577</VehicleJourneyCode>
+      <ServiceRef>YEBO522</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YEBO522-2</JourneyPatternRef>
+      <DepartureTime>14:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>ACK</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>1578</VehicleJourneyCode>
+      <ServiceRef>YEBO522</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YEBO522-2</JourneyPatternRef>
+      <DepartureTime>16:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>ACK</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>1579</VehicleJourneyCode>
+      <ServiceRef>YEBO522</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YEBO522-2</JourneyPatternRef>
+      <DepartureTime>17:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>ACK</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2016-05-20</StartDate>
+              <EndDate>2016-09-21</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+        <BankHolidayOperation>
+          <DaysOfNonOperation>
+            <LateSummerBankHolidayNotScotland />
+          </DaysOfNonOperation>
+        </BankHolidayOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>1564</VehicleJourneyCode>
+      <ServiceRef>YEBO522</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YEBO522-2</JourneyPatternRef>
+      <DepartureTime>09:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>ACK</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2016-05-20</StartDate>
+              <EndDate>2016-09-21</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+        <BankHolidayOperation>
+          <DaysOfNonOperation>
+            <LateSummerBankHolidayNotScotland />
+          </DaysOfNonOperation>
+        </BankHolidayOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>1565</VehicleJourneyCode>
+      <ServiceRef>YEBO522</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YEBO522-2</JourneyPatternRef>
+      <DepartureTime>10:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>ACK</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2016-05-20</StartDate>
+              <EndDate>2016-09-21</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+        <BankHolidayOperation>
+          <DaysOfNonOperation>
+            <LateSummerBankHolidayNotScotland />
+          </DaysOfNonOperation>
+        </BankHolidayOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>1566</VehicleJourneyCode>
+      <ServiceRef>YEBO522</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YEBO522-2</JourneyPatternRef>
+      <DepartureTime>11:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>ACK</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2016-05-20</StartDate>
+              <EndDate>2016-09-21</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+        <BankHolidayOperation>
+          <DaysOfNonOperation>
+            <LateSummerBankHolidayNotScotland />
+          </DaysOfNonOperation>
+        </BankHolidayOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>1567</VehicleJourneyCode>
+      <ServiceRef>YEBO522</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YEBO522-2</JourneyPatternRef>
+      <DepartureTime>12:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>ACK</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2016-05-20</StartDate>
+              <EndDate>2016-09-21</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+        <BankHolidayOperation>
+          <DaysOfNonOperation>
+            <LateSummerBankHolidayNotScotland />
+          </DaysOfNonOperation>
+        </BankHolidayOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>1568</VehicleJourneyCode>
+      <ServiceRef>YEBO522</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YEBO522-2</JourneyPatternRef>
+      <DepartureTime>13:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>ACK</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2016-05-20</StartDate>
+              <EndDate>2016-09-21</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+        <BankHolidayOperation>
+          <DaysOfNonOperation>
+            <LateSummerBankHolidayNotScotland />
+          </DaysOfNonOperation>
+        </BankHolidayOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>1569</VehicleJourneyCode>
+      <ServiceRef>YEBO522</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YEBO522-2</JourneyPatternRef>
+      <DepartureTime>14:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>ACK</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2016-05-20</StartDate>
+              <EndDate>2016-09-21</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+        <BankHolidayOperation>
+          <DaysOfNonOperation>
+            <LateSummerBankHolidayNotScotland />
+          </DaysOfNonOperation>
+        </BankHolidayOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>1570</VehicleJourneyCode>
+      <ServiceRef>YEBO522</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YEBO522-2</JourneyPatternRef>
+      <DepartureTime>16:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>ACK</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2016-05-20</StartDate>
+              <EndDate>2016-09-21</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+        <BankHolidayOperation>
+          <DaysOfNonOperation>
+            <LateSummerBankHolidayNotScotland />
+          </DaysOfNonOperation>
+        </BankHolidayOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>1571</VehicleJourneyCode>
+      <ServiceRef>YEBO522</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YEBO522-2</JourneyPatternRef>
+      <DepartureTime>17:45:00</DepartureTime>
+    </VehicleJourney>
+  </VehicleJourneys>
+</TransXChange>

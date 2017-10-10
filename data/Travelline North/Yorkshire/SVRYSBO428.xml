@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TransXChange xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.transxchange.org.uk/ http://www.transxchange.org.uk/schema/2.1/TransXChange_general.xsd" CreationDateTime="2017-09-18T09:59:00-00:00" ModificationDateTime="2017-09-18T09:59:00-00:00" Modification="new" RevisionNumber="0" FileName="SVRYSBO428.xml" SchemaVersion="2.1" RegistrationDocument="false" xmlns="http://www.transxchange.org.uk/">
+  <StopPoints>
+    <AnnotatedStopPointRef>
+      <StopPointRef>370055692</StopPointRef>
+      <CommonName>Goldthorpe Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>370055078</StopPointRef>
+      <CommonName>Washington Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>370050270</StopPointRef>
+      <CommonName>Hall Street</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>370050876</StopPointRef>
+      <CommonName>Police Station</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>370055844</StopPointRef>
+      <CommonName>Dunsil Lane</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>370055824</StopPointRef>
+      <CommonName>Colliery Lane</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>370055792</StopPointRef>
+      <CommonName>Phoenix Lane</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>370055826</StopPointRef>
+      <CommonName>Barrowfield Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>370050342</StopPointRef>
+      <CommonName>Lockwood Lane</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>370055325</StopPointRef>
+      <CommonName>Station Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>370055316</StopPointRef>
+      <CommonName>Roman Street</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>370055145</StopPointRef>
+      <CommonName>Lancaster Street</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>370050348</StopPointRef>
+      <CommonName>Norman Street</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>370055079</StopPointRef>
+      <CommonName>Clarence Terrace</CommonName>
+    </AnnotatedStopPointRef>
+  </StopPoints>
+  <RouteSections>
+    <RouteSection id="YSBO428_001">
+      <RouteLink id="YSBO428_001_73863">
+        <From>
+          <StopPointRef>370055692</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>370055078</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YSBO428_001_73864">
+        <From>
+          <StopPointRef>370055078</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>370050270</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YSBO428_001_73865">
+        <From>
+          <StopPointRef>370050270</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>370050876</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YSBO428_001_73866">
+        <From>
+          <StopPointRef>370050876</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>370055844</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YSBO428_001_73867">
+        <From>
+          <StopPointRef>370055844</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>370055824</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YSBO428_001_73868">
+        <From>
+          <StopPointRef>370055824</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>370055792</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YSBO428_001_73869">
+        <From>
+          <StopPointRef>370055792</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>370055826</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YSBO428_001_73870">
+        <From>
+          <StopPointRef>370055826</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>370050342</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YSBO428_001_73871">
+        <From>
+          <StopPointRef>370050342</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>370055325</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YSBO428_001_73872">
+        <From>
+          <StopPointRef>370055325</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>370055316</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YSBO428_001_73873">
+        <From>
+          <StopPointRef>370055316</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>370055145</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YSBO428_001_73874">
+        <From>
+          <StopPointRef>370055145</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>370050348</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YSBO428_001_73875">
+        <From>
+          <StopPointRef>370050348</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>370055079</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+    </RouteSection>
+  </RouteSections>
+  <Routes>
+    <Route id="YSBO428_001">
+      <Description>Goldthorpe - Thurnscoe
+</Description>
+      <RouteSectionRef>YSBO428_001</RouteSectionRef>
+    </Route>
+  </Routes>
+  <JourneyPatternSections>
+    <JourneyPatternSection id="JPS_YSBO428-2">
+      <JourneyPatternTimingLink id="JPS_YSBO428-2_73863">
+        <From>
+          <StopPointRef>370055692</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>370055078</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YSBO428_001_73863</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YSBO428-2_73864">
+        <From>
+          <StopPointRef>370055078</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>370050270</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YSBO428_001_73864</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YSBO428-2_73865">
+        <From>
+          <StopPointRef>370050270</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>370050876</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YSBO428_001_73865</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YSBO428-2_73866">
+        <From>
+          <StopPointRef>370050876</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>370055844</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YSBO428_001_73866</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YSBO428-2_73867">
+        <From>
+          <StopPointRef>370055844</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>370055824</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YSBO428_001_73867</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YSBO428-2_73868">
+        <From>
+          <StopPointRef>370055824</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>370055792</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YSBO428_001_73868</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YSBO428-2_73869">
+        <From>
+          <StopPointRef>370055792</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>370055826</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YSBO428_001_73869</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YSBO428-2_73870">
+        <From>
+          <StopPointRef>370055826</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>370050342</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YSBO428_001_73870</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YSBO428-2_73871">
+        <From>
+          <StopPointRef>370050342</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>370055325</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YSBO428_001_73871</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YSBO428-2_73872">
+        <From>
+          <StopPointRef>370055325</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>370055316</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YSBO428_001_73872</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YSBO428-2_73873">
+        <From>
+          <StopPointRef>370055316</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>370055145</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YSBO428_001_73873</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YSBO428-2_73874">
+        <From>
+          <StopPointRef>370055145</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>370050348</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YSBO428_001_73874</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YSBO428-2_73875">
+        <From>
+          <StopPointRef>370050348</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>370055079</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YSBO428_001_73875</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+  </JourneyPatternSections>
+  <Operators>
+    <Operator id="YTC">
+      <NationalOperatorCode>SYRK</NationalOperatorCode>
+      <OperatorCode>YTC</OperatorCode>
+      <OperatorShortName>Stagecoach Yorkshire</OperatorShortName>
+    </Operator>
+  </Operators>
+  <Services>
+    <Service>
+      <ServiceCode>YSBO428</ServiceCode>
+      <Lines>
+        <Line id="0">
+          <LineName>428</LineName>
+        </Line>
+      </Lines>
+      <OperatingPeriod>
+        <StartDate>2008-07-19</StartDate>
+        <EndDate>2038-01-17</EndDate>
+      </OperatingPeriod>
+      <RegisteredOperatorRef>YTC</RegisteredOperatorRef>
+      <StopRequirements>
+        <NoNewStopsRequired />
+      </StopRequirements>
+      <Mode>bus</Mode>
+      <Description>Goldthorpe - Thurnscoe</Description>
+      <StandardService>
+        <Origin>Goldthorpe</Origin>
+        <Destination>Thurnscoe</Destination>
+        <JourneyPattern id="JPS_YSBO428-2">
+          <Direction>inbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YSBO428-2</JourneyPatternSectionRefs>
+        </JourneyPattern>
+      </StandardService>
+    </Service>
+  </Services>
+  <VehicleJourneys>
+    <VehicleJourney>
+      <OperatorRef>YTC</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <BankHolidayOperation>
+          <DaysOfNonOperation>
+            <ChristmasDay />
+            <BoxingDay />
+            <GoodFriday />
+            <NewYearsDay />
+            <LateSummerBankHolidayNotScotland />
+            <MayDay />
+            <EasterMonday />
+            <SpringBank />
+          </DaysOfNonOperation>
+        </BankHolidayOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>84495</VehicleJourneyCode>
+      <ServiceRef>YSBO428</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YSBO428-2</JourneyPatternRef>
+      <Note>
+        <NoteCode>SCHD</NoteCode>
+        <NoteText>School Days Only</NoteText>
+      </Note>
+      <DepartureTime>15:05:00</DepartureTime>
+    </VehicleJourney>
+  </VehicleJourneys>
+</TransXChange>

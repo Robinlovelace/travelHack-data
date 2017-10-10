@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TransXChange xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.transxchange.org.uk/ http://www.transxchange.org.uk/schema/2.1/TransXChange_general.xsd" CreationDateTime="2017-09-18T11:02:00-00:00" ModificationDateTime="2017-09-18T11:02:00-00:00" Modification="new" RevisionNumber="0" FileName="SVRYWAX011.xml" SchemaVersion="2.1" RegistrationDocument="false" xmlns="http://www.transxchange.org.uk/">
+  <StopPoints>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450019121</StopPointRef>
+      <CommonName>Greenfield Road Parkhead Terminus</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450028106</StopPointRef>
+      <CommonName>Greenfield Road Briar Court</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450019122</StopPointRef>
+      <CommonName>Greenfield Rd Spring Lane</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450050757</StopPointRef>
+      <CommonName>Greenfield Road Crow Wood</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450019126</StopPointRef>
+      <CommonName>Greenfield Rd Modd Lane</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450019128</StopPointRef>
+      <CommonName>Greenfield Rd Park Head Lane</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450019129</StopPointRef>
+      <CommonName>Greenfield Rd Upperthong Lane</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450019132</StopPointRef>
+      <CommonName>Huddersfield Rd Cooper Lane</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450019133</StopPointRef>
+      <CommonName>Huddersfield Rd Fairfields Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450019135</StopPointRef>
+      <CommonName>Huddersfield Rd New Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450019137</StopPointRef>
+      <CommonName>Huddersfield Rd Oaklands</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450019140</StopPointRef>
+      <CommonName>Holme Valley Hospital Huddersfield Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450024690</StopPointRef>
+      <CommonName>Huddersfield Rd Spring Wood</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450019142</StopPointRef>
+      <CommonName>Huddersfield Rd Thong Lane</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450019145</StopPointRef>
+      <CommonName>Woodhead Rd Lancaster Lane</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450019148</StopPointRef>
+      <CommonName>Woodhead Rd Hagg Wood Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450019149</StopPointRef>
+      <CommonName>Woodhead Rd Robinson Lane</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450019150</StopPointRef>
+      <CommonName>Woodhead Rd Far End Lane</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450019151</StopPointRef>
+      <CommonName>Woodhead Rd Far End Lane</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450022028</StopPointRef>
+      <CommonName>Huddersfield Rd Woodhead Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450021510</StopPointRef>
+      <CommonName>Lockwood Rd Swan Lane</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450021504</StopPointRef>
+      <CommonName>Chapel Hill Colne Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450030167</StopPointRef>
+      <CommonName>Bus Station</CommonName>
+    </AnnotatedStopPointRef>
+  </StopPoints>
+  <RouteSections>
+    <RouteSection id="YWAX011_001">
+      <RouteLink id="YWAX011_001_655389">
+        <From>
+          <StopPointRef>450019121</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450028106</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAX011_001_655390">
+        <From>
+          <StopPointRef>450028106</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450019122</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAX011_001_655391">
+        <From>
+          <StopPointRef>450019122</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450050757</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAX011_001_655392">
+        <From>
+          <StopPointRef>450050757</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450019126</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAX011_001_655393">
+        <From>
+          <StopPointRef>450019126</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450019128</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAX011_001_655394">
+        <From>
+          <StopPointRef>450019128</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450019129</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAX011_001_655395">
+        <From>
+          <StopPointRef>450019129</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450019132</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAX011_001_655396">
+        <From>
+          <StopPointRef>450019132</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450019133</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAX011_001_655397">
+        <From>
+          <StopPointRef>450019133</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450019135</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAX011_001_655398">
+        <From>
+          <StopPointRef>450019135</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450019137</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAX011_001_655399">
+        <From>
+          <StopPointRef>450019137</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450019140</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAX011_001_655400">
+        <From>
+          <StopPointRef>450019140</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450024690</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAX011_001_655401">
+        <From>
+          <StopPointRef>450024690</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450019142</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAX011_001_655402">
+        <From>
+          <StopPointRef>450019142</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450019145</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAX011_001_655403">
+        <From>
+          <StopPointRef>450019145</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450019148</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAX011_001_655404">
+        <From>
+          <StopPointRef>450019148</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450019149</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAX011_001_655405">
+        <From>
+          <StopPointRef>450019149</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450019150</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAX011_001_655406">
+        <From>
+          <StopPointRef>450019150</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450019151</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAX011_001_655407">
+        <From>
+          <StopPointRef>450019151</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450022028</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAX011_001_655408">
+        <From>
+          <StopPointRef>450022028</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450021510</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAX011_001_655409">
+        <From>
+          <StopPointRef>450021510</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450021504</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAX011_001_655410">
+        <From>
+          <StopPointRef>450021504</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450030167</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+    </RouteSection>
+  </RouteSections>
+  <Routes>
+    <Route id="YWAX011_001">
+      <Description>MAIN ROUTE Huddersfield to Parkhead via via Holmfi
+</Description>
+      <RouteSectionRef>YWAX011_001</RouteSectionRef>
+    </Route>
+  </Routes>
+  <JourneyPatternSections>
+    <JourneyPatternSection id="JPS_YWAX011-2">
+      <JourneyPatternTimingLink id="JPS_YWAX011-2_655389">
+        <From>
+          <StopPointRef>450019121</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450028106</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAX011_001_655389</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAX011-2_655390">
+        <From>
+          <StopPointRef>450028106</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450019122</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAX011_001_655390</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAX011-2_655391">
+        <From>
+          <StopPointRef>450019122</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450050757</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAX011_001_655391</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAX011-2_655392">
+        <From>
+          <StopPointRef>450050757</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450019126</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAX011_001_655392</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAX011-2_655393">
+        <From>
+          <StopPointRef>450019126</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450019128</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAX011_001_655393</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAX011-2_655394">
+        <From>
+          <StopPointRef>450019128</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450019129</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAX011_001_655394</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAX011-2_655395">
+        <From>
+          <StopPointRef>450019129</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450019132</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAX011_001_655395</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAX011-2_655396">
+        <From>
+          <StopPointRef>450019132</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450019133</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAX011_001_655396</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAX011-2_655397">
+        <From>
+          <StopPointRef>450019133</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450019135</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAX011_001_655397</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAX011-2_655398">
+        <From>
+          <StopPointRef>450019135</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450019137</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAX011_001_655398</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAX011-2_655399">
+        <From>
+          <StopPointRef>450019137</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450019140</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAX011_001_655399</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAX011-2_655400">
+        <From>
+          <StopPointRef>450019140</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450024690</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAX011_001_655400</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAX011-2_655401">
+        <From>
+          <StopPointRef>450024690</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450019142</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAX011_001_655401</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAX011-2_655402">
+        <From>
+          <StopPointRef>450019142</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450019145</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAX011_001_655402</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAX011-2_655403">
+        <From>
+          <StopPointRef>450019145</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450019148</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAX011_001_655403</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAX011-2_655404">
+        <From>
+          <StopPointRef>450019148</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450019149</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAX011_001_655404</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAX011-2_655405">
+        <From>
+          <StopPointRef>450019149</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450019150</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAX011_001_655405</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAX011-2_655406">
+        <From>
+          <StopPointRef>450019150</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450019151</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAX011_001_655406</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAX011-2_655407">
+        <From>
+          <StopPointRef>450019151</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450022028</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAX011_001_655407</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAX011-2_655408">
+        <From>
+          <StopPointRef>450022028</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450021510</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAX011_001_655408</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT540S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAX011-2_655409">
+        <From>
+          <StopPointRef>450021510</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450021504</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAX011_001_655409</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT420S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAX011-2_655410">
+        <From>
+          <StopPointRef>450021504</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450030167</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAX011_001_655410</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT360S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+  </JourneyPatternSections>
+  <Operators>
+    <Operator id="FCH">
+      <NationalOperatorCode>FHUD</NationalOperatorCode>
+      <OperatorCode>FCH</OperatorCode>
+      <OperatorShortName>First Calderdale and Hud</OperatorShortName>
+    </Operator>
+  </Operators>
+  <Services>
+    <Service>
+      <ServiceCode>YWAX011</ServiceCode>
+      <Lines>
+        <Line id="0">
+          <LineName>X11</LineName>
+        </Line>
+      </Lines>
+      <OperatingPeriod>
+        <StartDate>2013-04-28</StartDate>
+        <EndDate>2038-01-17</EndDate>
+      </OperatingPeriod>
+      <RegisteredOperatorRef>FCH</RegisteredOperatorRef>
+      <StopRequirements>
+        <NoNewStopsRequired />
+      </StopRequirements>
+      <Mode>bus</Mode>
+      <Description>Parkhead - Huddersfield (Limited Stop)</Description>
+      <StandardService>
+        <Origin>Parkhead</Origin>
+        <Destination>Huddersfield (Limited Stop)</Destination>
+        <JourneyPattern id="JPS_YWAX011-2">
+          <Direction>outbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YWAX011-2</JourneyPatternSectionRefs>
+        </JourneyPattern>
+      </StandardService>
+    </Service>
+  </Services>
+  <VehicleJourneys>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>63690</VehicleJourneyCode>
+      <ServiceRef>YWAX011</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAX011-2</JourneyPatternRef>
+      <DepartureTime>07:45:00</DepartureTime>
+    </VehicleJourney>
+  </VehicleJourneys>
+</TransXChange>

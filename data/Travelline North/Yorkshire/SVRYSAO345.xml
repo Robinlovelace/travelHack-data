@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TransXChange xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.transxchange.org.uk/ http://www.transxchange.org.uk/schema/2.1/TransXChange_general.xsd" CreationDateTime="2017-09-18T09:54:00-00:00" ModificationDateTime="2017-09-18T09:54:00-00:00" Modification="new" RevisionNumber="0" FileName="SVRYSAO345.xml" SchemaVersion="2.1" RegistrationDocument="false" xmlns="http://www.transxchange.org.uk/">
+  <StopPoints>
+    <AnnotatedStopPointRef>
+      <StopPointRef>370035722</StopPointRef>
+      <CommonName>Dinnington Comprehensive School Bus Park</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3300BA1095</StopPointRef>
+      <CommonName>Lilac Grove</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3300BA0971</StopPointRef>
+      <CommonName>Le Brun Square</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3300BA0033</StopPointRef>
+      <CommonName>Sycamore Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3300BA1099</StopPointRef>
+      <CommonName>Beech Grove</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3300BA0220</StopPointRef>
+      <CommonName>Windsor Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3300BA0222</StopPointRef>
+      <CommonName>Carlton Park School</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3300BA0653</StopPointRef>
+      <CommonName>Dadley Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3300BA0231</StopPointRef>
+      <CommonName>Long Lane</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3300BA0969</StopPointRef>
+      <CommonName>Church Field Close</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3300BA0048</StopPointRef>
+      <CommonName>Primary School</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3300BA0138</StopPointRef>
+      <CommonName>Church Lane</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3300BA0049</StopPointRef>
+      <CommonName>Primary School</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3300BA0050</StopPointRef>
+      <CommonName>Church Field Close</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3300BA0223</StopPointRef>
+      <CommonName>Dadley Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3300BA0221</StopPointRef>
+      <CommonName>Carlton Park School</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3300BA0219</StopPointRef>
+      <CommonName>Windsor Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3300BA1200</StopPointRef>
+      <CommonName>Beech Grove</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3300BA0967</StopPointRef>
+      <CommonName>Sycamore Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3300BA0210</StopPointRef>
+      <CommonName>Le Brun Square</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3300BA1094</StopPointRef>
+      <CommonName>Lilac Grove</CommonName>
+    </AnnotatedStopPointRef>
+  </StopPoints>
+  <RouteSections>
+    <RouteSection id="YSAO345_001">
+      <RouteLink id="YSAO345_001_61044">
+        <From>
+          <StopPointRef>370035722</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3300BA1095</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YSAO345_001_61045">
+        <From>
+          <StopPointRef>3300BA1095</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3300BA0971</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YSAO345_001_61046">
+        <From>
+          <StopPointRef>3300BA0971</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3300BA0033</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YSAO345_001_61047">
+        <From>
+          <StopPointRef>3300BA0033</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3300BA1099</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YSAO345_001_61048">
+        <From>
+          <StopPointRef>3300BA1099</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3300BA0220</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YSAO345_001_61049">
+        <From>
+          <StopPointRef>3300BA0220</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3300BA0222</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YSAO345_001_61050">
+        <From>
+          <StopPointRef>3300BA0222</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3300BA0653</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YSAO345_001_61051">
+        <From>
+          <StopPointRef>3300BA0653</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3300BA0231</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YSAO345_001_61052">
+        <From>
+          <StopPointRef>3300BA0231</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3300BA0969</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YSAO345_001_61053">
+        <From>
+          <StopPointRef>3300BA0969</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3300BA0048</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YSAO345_001_61054">
+        <From>
+          <StopPointRef>3300BA0048</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3300BA0138</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+    </RouteSection>
+    <RouteSection id="YSAO345_002">
+      <RouteLink id="YSAO345_002_61056">
+        <From>
+          <StopPointRef>3300BA0048</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3300BA0138</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YSAO345_002_61057">
+        <From>
+          <StopPointRef>3300BA0138</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3300BA0049</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YSAO345_002_61058">
+        <From>
+          <StopPointRef>3300BA0049</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3300BA0050</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YSAO345_002_61059">
+        <From>
+          <StopPointRef>3300BA0050</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3300BA0223</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YSAO345_002_61060">
+        <From>
+          <StopPointRef>3300BA0223</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3300BA0221</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YSAO345_002_61061">
+        <From>
+          <StopPointRef>3300BA0221</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3300BA0219</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YSAO345_002_61062">
+        <From>
+          <StopPointRef>3300BA0219</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3300BA1200</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YSAO345_002_61063">
+        <From>
+          <StopPointRef>3300BA1200</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3300BA0967</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YSAO345_002_61064">
+        <From>
+          <StopPointRef>3300BA0967</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3300BA0210</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YSAO345_002_61065">
+        <From>
+          <StopPointRef>3300BA0210</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3300BA1094</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YSAO345_002_61066">
+        <From>
+          <StopPointRef>3300BA1094</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>370035722</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+    </RouteSection>
+  </RouteSections>
+  <Routes>
+    <Route id="YSAO345_001">
+      <Description>Dinnington Comprehensive School - Langold
+</Description>
+      <RouteSectionRef>YSAO345_001</RouteSectionRef>
+    </Route>
+    <Route id="YSAO345_002">
+      <Description>Langold - Dinnington Comprehensive School
+</Description>
+      <RouteSectionRef>YSAO345_002</RouteSectionRef>
+    </Route>
+  </Routes>
+  <JourneyPatternSections>
+    <JourneyPatternSection id="JPS_YSAO345-3">
+      <JourneyPatternTimingLink id="JPS_YSAO345-3_61044">
+        <From>
+          <StopPointRef>370035722</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3300BA1095</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YSAO345_001_61044</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT1200S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YSAO345-3_61045">
+        <From>
+          <StopPointRef>3300BA1095</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3300BA0971</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YSAO345_001_61045</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YSAO345-3_61046">
+        <From>
+          <StopPointRef>3300BA0971</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3300BA0033</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YSAO345_001_61046</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YSAO345-3_61047">
+        <From>
+          <StopPointRef>3300BA0033</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3300BA1099</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YSAO345_001_61047</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YSAO345-3_61048">
+        <From>
+          <StopPointRef>3300BA1099</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3300BA0220</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YSAO345_001_61048</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YSAO345-3_61049">
+        <From>
+          <StopPointRef>3300BA0220</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3300BA0222</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YSAO345_001_61049</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YSAO345-3_61050">
+        <From>
+          <StopPointRef>3300BA0222</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3300BA0653</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YSAO345_001_61050</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YSAO345-3_61051">
+        <From>
+          <StopPointRef>3300BA0653</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3300BA0231</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YSAO345_001_61051</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YSAO345-3_61052">
+        <From>
+          <StopPointRef>3300BA0231</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3300BA0969</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YSAO345_001_61052</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YSAO345-3_61053">
+        <From>
+          <StopPointRef>3300BA0969</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3300BA0048</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YSAO345_001_61053</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YSAO345-3_61054">
+        <From>
+          <StopPointRef>3300BA0048</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3300BA0138</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YSAO345_001_61054</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT720S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+    <JourneyPatternSection id="JPS_YSAO345-4">
+      <JourneyPatternTimingLink id="JPS_YSAO345-4_61056">
+        <From>
+          <StopPointRef>3300BA0048</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3300BA0138</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YSAO345_002_61056</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT240S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YSAO345-4_61057">
+        <From>
+          <StopPointRef>3300BA0138</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3300BA0049</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YSAO345_002_61057</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YSAO345-4_61058">
+        <From>
+          <StopPointRef>3300BA0049</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3300BA0050</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YSAO345_002_61058</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YSAO345-4_61059">
+        <From>
+          <StopPointRef>3300BA0050</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3300BA0223</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YSAO345_002_61059</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YSAO345-4_61060">
+        <From>
+          <StopPointRef>3300BA0223</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3300BA0221</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YSAO345_002_61060</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YSAO345-4_61061">
+        <From>
+          <StopPointRef>3300BA0221</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3300BA0219</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YSAO345_002_61061</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YSAO345-4_61062">
+        <From>
+          <StopPointRef>3300BA0219</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3300BA1200</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YSAO345_002_61062</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YSAO345-4_61063">
+        <From>
+          <StopPointRef>3300BA1200</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3300BA0967</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YSAO345_002_61063</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YSAO345-4_61064">
+        <From>
+          <StopPointRef>3300BA0967</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3300BA0210</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YSAO345_002_61064</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YSAO345-4_61065">
+        <From>
+          <StopPointRef>3300BA0210</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3300BA1094</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YSAO345_002_61065</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YSAO345-4_61066">
+        <From>
+          <StopPointRef>3300BA1094</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>370035722</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YSAO345_002_61066</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT480S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+  </JourneyPatternSections>
+  <Operators>
+    <Operator id="MOX">
+      <NationalOperatorCode>MOXN</NationalOperatorCode>
+      <OperatorCode>MOX</OperatorCode>
+      <OperatorShortName>Moxons Tours</OperatorShortName>
+    </Operator>
+  </Operators>
+  <Services>
+    <Service>
+      <ServiceCode>YSAO345</ServiceCode>
+      <Lines>
+        <Line id="0">
+          <LineName>345</LineName>
+        </Line>
+      </Lines>
+      <OperatingPeriod>
+        <StartDate>2007-09-03</StartDate>
+        <EndDate>2038-01-17</EndDate>
+      </OperatingPeriod>
+      <RegisteredOperatorRef>MOX</RegisteredOperatorRef>
+      <StopRequirements>
+        <NoNewStopsRequired />
+      </StopRequirements>
+      <Mode>bus</Mode>
+      <Description>Langold - Dinnington Comprehensive School</Description>
+      <StandardService>
+        <Origin>Langold</Origin>
+        <Destination>Dinnington Comprehensive School</Destination>
+        <JourneyPattern id="JPS_YSAO345-3">
+          <Direction>inbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YSAO345-3</JourneyPatternSectionRefs>
+        </JourneyPattern>
+        <JourneyPattern id="JPS_YSAO345-4">
+          <Direction>outbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YSAO345-4</JourneyPatternSectionRefs>
+        </JourneyPattern>
+      </StandardService>
+    </Service>
+  </Services>
+  <VehicleJourneys>
+    <VehicleJourney>
+      <OperatorRef>MOX</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <BankHolidayOperation>
+          <DaysOfNonOperation>
+            <ChristmasDay />
+            <BoxingDay />
+            <GoodFriday />
+            <NewYearsDay />
+            <LateSummerBankHolidayNotScotland />
+            <MayDay />
+            <EasterMonday />
+            <SpringBank />
+          </DaysOfNonOperation>
+        </BankHolidayOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>83147</VehicleJourneyCode>
+      <ServiceRef>YSAO345</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YSAO345-3</JourneyPatternRef>
+      <Note>
+        <NoteCode>SCHD</NoteCode>
+        <NoteText>School Days Only</NoteText>
+      </Note>
+      <DepartureTime>15:15:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>MOX</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <BankHolidayOperation>
+          <DaysOfNonOperation>
+            <ChristmasDay />
+            <BoxingDay />
+            <GoodFriday />
+            <NewYearsDay />
+            <LateSummerBankHolidayNotScotland />
+            <MayDay />
+            <EasterMonday />
+            <SpringBank />
+          </DaysOfNonOperation>
+        </BankHolidayOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>83148</VehicleJourneyCode>
+      <ServiceRef>YSAO345</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YSAO345-4</JourneyPatternRef>
+      <Note>
+        <NoteCode>SCHD</NoteCode>
+        <NoteText>School Days Only</NoteText>
+      </Note>
+      <DepartureTime>08:08:00</DepartureTime>
+    </VehicleJourney>
+  </VehicleJourneys>
+</TransXChange>

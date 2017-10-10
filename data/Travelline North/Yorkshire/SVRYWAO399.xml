@@ -1,0 +1,1778 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TransXChange xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.transxchange.org.uk/ http://www.transxchange.org.uk/schema/2.1/TransXChange_general.xsd" CreationDateTime="2017-09-18T10:35:00-00:00" ModificationDateTime="2017-09-18T10:35:00-00:00" Modification="new" RevisionNumber="0" FileName="SVRYWAO399.xml" SchemaVersion="2.1" RegistrationDocument="false" xmlns="http://www.transxchange.org.uk/">
+  <StopPoints>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450016763</StopPointRef>
+      <CommonName>Penistone Rd Mountfield Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450021658</StopPointRef>
+      <CommonName>Storthes Hall Park University Campus</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450016764</StopPointRef>
+      <CommonName>Penistone Rd Mountfield Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450017227</StopPointRef>
+      <CommonName>Wakefield Road Waterloo Rise</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450017229</StopPointRef>
+      <CommonName>Wakefield Rd Greenhead Lane</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450017231</StopPointRef>
+      <CommonName>Wakefield Rd Grosvenor Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450017576</StopPointRef>
+      <CommonName>Queensgate</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450017209</StopPointRef>
+      <CommonName>High Street</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450016755</StopPointRef>
+      <CommonName>Wakefield Rd Grosvenor Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450016758</StopPointRef>
+      <CommonName>Wakefield Rd Dalton Green Lane</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>450016761</StopPointRef>
+      <CommonName>Wakefield Road Waterloo Rise</CommonName>
+    </AnnotatedStopPointRef>
+  </StopPoints>
+  <RouteSections>
+    <RouteSection id="YWAO399_001">
+      <RouteLink id="YWAO399_001_479721">
+        <From>
+          <StopPointRef>450016763</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450021658</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+    </RouteSection>
+    <RouteSection id="YWAO399_002">
+      <RouteLink id="YWAO399_002_479723">
+        <From>
+          <StopPointRef>450021658</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450016764</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAO399_002_479724">
+        <From>
+          <StopPointRef>450016764</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450017227</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAO399_002_479725">
+        <From>
+          <StopPointRef>450017227</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450017229</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAO399_002_479726">
+        <From>
+          <StopPointRef>450017229</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450017231</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAO399_002_479727">
+        <From>
+          <StopPointRef>450017231</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450017576</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+    </RouteSection>
+    <RouteSection id="YWAO399_003">
+      <RouteLink id="YWAO399_003_479729">
+        <From>
+          <StopPointRef>450017576</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450017209</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAO399_003_479730">
+        <From>
+          <StopPointRef>450017209</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450016755</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAO399_003_479731">
+        <From>
+          <StopPointRef>450016755</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450016758</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAO399_003_479732">
+        <From>
+          <StopPointRef>450016758</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450016761</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAO399_003_479733">
+        <From>
+          <StopPointRef>450016761</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450016763</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAO399_003_479734">
+        <From>
+          <StopPointRef>450016763</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>450021658</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+    </RouteSection>
+  </RouteSections>
+  <Routes>
+    <Route id="YWAO399_001">
+      <Description>FROM WATERLOO MORRISONS Huddersfield University to
+</Description>
+      <RouteSectionRef>YWAO399_001</RouteSectionRef>
+    </Route>
+    <Route id="YWAO399_002">
+      <Description>MAIN VARIANT Storthes Hall Park to Huddersfield Un
+</Description>
+      <RouteSectionRef>YWAO399_002</RouteSectionRef>
+    </Route>
+    <Route id="YWAO399_003">
+      <Description>MAIN VARIANT Huddersfield University to Storthes H
+</Description>
+      <RouteSectionRef>YWAO399_003</RouteSectionRef>
+    </Route>
+  </Routes>
+  <JourneyPatternSections>
+    <JourneyPatternSection id="JPS_YWAO399-4">
+      <JourneyPatternTimingLink id="JPS_YWAO399-4_479721">
+        <From>
+          <StopPointRef>450016763</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450021658</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO399_001_479721</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT720S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+    <JourneyPatternSection id="JPS_YWAO399-5">
+      <JourneyPatternTimingLink id="JPS_YWAO399-5_479723">
+        <From>
+          <StopPointRef>450021658</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450016764</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO399_002_479723</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT540S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAO399-5_479724">
+        <From>
+          <StopPointRef>450016764</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450017227</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO399_002_479724</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAO399-5_479725">
+        <From>
+          <StopPointRef>450017227</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450017229</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO399_002_479725</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT180S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAO399-5_479726">
+        <From>
+          <StopPointRef>450017229</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450017231</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO399_002_479726</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT180S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAO399-5_479727">
+        <From>
+          <StopPointRef>450017231</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450017576</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO399_002_479727</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT420S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+    <JourneyPatternSection id="JPS_YWAO399-6">
+      <JourneyPatternTimingLink id="JPS_YWAO399-6_479729">
+        <From>
+          <StopPointRef>450017576</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450017209</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO399_003_479729</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT300S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAO399-6_479730">
+        <From>
+          <StopPointRef>450017209</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450016755</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO399_003_479730</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT300S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAO399-6_479731">
+        <From>
+          <StopPointRef>450016755</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450016758</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO399_003_479731</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAO399-6_479732">
+        <From>
+          <StopPointRef>450016758</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450016761</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO399_003_479732</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAO399-6_479733">
+        <From>
+          <StopPointRef>450016761</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450016763</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO399_003_479733</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAO399-6_479734">
+        <From>
+          <StopPointRef>450016763</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>450021658</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAO399_003_479734</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT720S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+  </JourneyPatternSections>
+  <Operators>
+    <Operator id="FCH">
+      <NationalOperatorCode>FHUD</NationalOperatorCode>
+      <OperatorCode>FCH</OperatorCode>
+      <OperatorShortName>First Calderdale and Hud</OperatorShortName>
+    </Operator>
+  </Operators>
+  <Services>
+    <Service>
+      <ServiceCode>YWAO399</ServiceCode>
+      <Lines>
+        <Line id="0">
+          <LineName>399</LineName>
+        </Line>
+      </Lines>
+      <OperatingPeriod>
+        <StartDate>2017-01-09</StartDate>
+        <EndDate>2038-01-17</EndDate>
+      </OperatingPeriod>
+      <RegisteredOperatorRef>FCH</RegisteredOperatorRef>
+      <StopRequirements>
+        <NoNewStopsRequired />
+      </StopRequirements>
+      <Mode>bus</Mode>
+      <Description>Huddersfield University - Storthes Hall Park</Description>
+      <StandardService>
+        <Origin>Huddersfield University</Origin>
+        <Destination>Storthes Hall Park</Destination>
+        <JourneyPattern id="JPS_YWAO399-4">
+          <Direction>outbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YWAO399-4</JourneyPatternSectionRefs>
+        </JourneyPattern>
+        <JourneyPattern id="JPS_YWAO399-5">
+          <Direction>inbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YWAO399-5</JourneyPatternSectionRefs>
+        </JourneyPattern>
+        <JourneyPattern id="JPS_YWAO399-6">
+          <Direction>outbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YWAO399-6</JourneyPatternSectionRefs>
+        </JourneyPattern>
+      </StandardService>
+    </Service>
+  </Services>
+  <VehicleJourneys>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31651</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-4</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>11:13:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31654</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-5</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>08:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31652</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-5</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>09:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31655</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-5</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>10:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31656</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-5</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>11:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31681</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-5</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>11:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31657</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-5</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>12:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31682</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-5</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>12:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31658</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-5</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>13:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31683</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-5</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>13:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31659</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-5</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>14:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31684</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-5</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>14:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31660</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-5</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>15:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31685</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-5</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>15:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31661</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-5</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>16:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31686</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-5</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>16:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31662</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-5</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>17:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31687</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-5</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>17:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31663</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-5</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>18:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31664</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-5</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>19:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31665</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-5</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>20:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31666</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-5</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>21:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31667</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-5</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>22:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31653</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-5</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>09:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31668</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-5</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>10:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31669</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-5</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>11:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31670</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-5</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>12:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31671</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-5</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>13:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31672</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-5</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>14:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31673</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-5</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>15:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31674</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-5</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>16:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31675</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-5</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>17:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31676</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-5</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>18:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31677</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-5</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>19:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31678</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-5</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>20:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31679</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-5</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>21:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31680</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-5</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>22:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31688</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-6</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>08:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31696</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-6</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>09:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31697</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-6</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>10:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31698</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-6</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>11:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31690</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-6</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>12:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31699</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-6</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>12:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31691</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-6</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>13:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31700</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-6</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>13:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31692</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-6</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>14:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31701</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-6</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>14:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31693</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-6</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>15:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31702</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-6</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>15:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31694</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-6</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>16:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31703</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-6</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>16:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31695</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-6</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>17:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31704</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-6</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>17:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31705</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-6</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>18:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31706</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-6</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>19:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31707</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-6</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>20:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31708</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-6</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>21:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31709</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-6</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>22:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31689</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-6</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>08:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31710</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-6</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>09:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31711</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-6</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>10:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31712</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-6</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>11:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31713</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-6</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>12:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31714</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-6</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>13:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31715</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-6</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>14:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31716</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-6</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>15:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31717</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-6</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>16:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31718</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-6</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>17:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31719</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-6</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>18:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31720</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-6</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>19:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31721</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-6</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>20:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31722</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-6</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>21:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FCH</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>31723</VehicleJourneyCode>
+      <ServiceRef>YWAO399</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAO399-6</JourneyPatternRef>
+      <Note>
+        <NoteCode>A</NoteCode>
+        <NoteText>Trip runs University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>22:30:00</DepartureTime>
+    </VehicleJourney>
+  </VehicleJourneys>
+</TransXChange>

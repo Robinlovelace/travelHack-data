@@ -1,0 +1,5039 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TransXChange xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.transxchange.org.uk/ http://www.transxchange.org.uk/schema/2.1/TransXChange_general.xsd" CreationDateTime="2017-09-18T11:01:00-00:00" ModificationDateTime="2017-09-18T11:01:00-00:00" Modification="new" RevisionNumber="0" FileName="SVRYWAU0B1.xml" SchemaVersion="2.1" RegistrationDocument="false" xmlns="http://www.transxchange.org.uk/">
+  <ServicedOrganisations>
+    <ServicedOrganisation>
+      <OrganisationCode>173</OrganisationCode>
+      <Name>
+|
+</Name>
+      <WorkingDays>
+        <DateRange>
+          <StartDate>2018-04-16</StartDate>
+          <EndDate>2018-06-22</EndDate>
+        </DateRange>
+        <DateRange>
+          <StartDate>2018-01-08</StartDate>
+          <EndDate>2018-03-16</EndDate>
+        </DateRange>
+        <DateRange>
+          <StartDate>2017-09-25</StartDate>
+          <EndDate>2017-12-01</EndDate>
+        </DateRange>
+      </WorkingDays>
+    </ServicedOrganisation>
+  </ServicedOrganisations>
+  <StopPoints>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3290YYA03638</StopPointRef>
+      <CommonName>Student Centre</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3290YYA00263</StopPointRef>
+      <CommonName>Eden's Court</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3290YYA01053</StopPointRef>
+      <CommonName>Hall Park</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3290YYA00279</StopPointRef>
+      <CommonName>Heslington Hall</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3290YYA03628</StopPointRef>
+      <CommonName>Science Park</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3290YYA03630</StopPointRef>
+      <CommonName>Theatre Film &amp; Television</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3290YYA03632</StopPointRef>
+      <CommonName>Ron Cooke Hub</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3290YYA03646</StopPointRef>
+      <CommonName>York Sport Village</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3290YYA03607</StopPointRef>
+      <CommonName>Campus East Stop A</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3290YYA00738</StopPointRef>
+      <CommonName>Badger Wood Walk</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3290YYA00267</StopPointRef>
+      <CommonName>Sussex Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3290YYA01012</StopPointRef>
+      <CommonName>Field Lane</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3290YYA03629</StopPointRef>
+      <CommonName>Science Park</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3290YYA00280</StopPointRef>
+      <CommonName>Heslington Hall</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3290YYA00265</StopPointRef>
+      <CommonName>Hall Park</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3290YYA00264</StopPointRef>
+      <CommonName>Eden's Court</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3290YYA03639</StopPointRef>
+      <CommonName>Halifax College</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3290YYA01011</StopPointRef>
+      <CommonName>Field Lane</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3290YYA00737</StopPointRef>
+      <CommonName>Sussex Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3290YYA00268</StopPointRef>
+      <CommonName>Badger Wood Walk</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3290YYA03647</StopPointRef>
+      <CommonName>York Sport Village</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3290YYA03633</StopPointRef>
+      <CommonName>Ron Cooke Hub</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3290YYA03631</StopPointRef>
+      <CommonName>Theatre Film &amp; Television</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3290YYA03608</StopPointRef>
+      <CommonName>Campus East Stop B</CommonName>
+    </AnnotatedStopPointRef>
+  </StopPoints>
+  <RouteSections>
+    <RouteSection id="YWAU0B1_001">
+      <RouteLink id="YWAU0B1_001_653913">
+        <From>
+          <StopPointRef>3290YYA03638</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00263</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_001_653914">
+        <From>
+          <StopPointRef>3290YYA00263</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA01053</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_001_653915">
+        <From>
+          <StopPointRef>3290YYA01053</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00279</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_001_653916">
+        <From>
+          <StopPointRef>3290YYA00279</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03628</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_001_653917">
+        <From>
+          <StopPointRef>3290YYA03628</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03630</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_001_653918">
+        <From>
+          <StopPointRef>3290YYA03630</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03632</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_001_653919">
+        <From>
+          <StopPointRef>3290YYA03632</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03646</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_001_653920">
+        <From>
+          <StopPointRef>3290YYA03646</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03607</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_001_653921">
+        <From>
+          <StopPointRef>3290YYA03607</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00738</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_001_653922">
+        <From>
+          <StopPointRef>3290YYA00738</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00267</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_001_653923">
+        <From>
+          <StopPointRef>3290YYA00267</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA01012</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_001_653924">
+        <From>
+          <StopPointRef>3290YYA01012</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03629</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_001_653925">
+        <From>
+          <StopPointRef>3290YYA03629</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00280</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_001_653926">
+        <From>
+          <StopPointRef>3290YYA00280</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00265</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_001_653927">
+        <From>
+          <StopPointRef>3290YYA00265</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00264</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_001_653928">
+        <From>
+          <StopPointRef>3290YYA00264</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03639</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_001_653929">
+        <From>
+          <StopPointRef>3290YYA03639</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03638</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+    </RouteSection>
+    <RouteSection id="YWAU0B1_002">
+      <RouteLink id="YWAU0B1_002_653931">
+        <From>
+          <StopPointRef>3290YYA03638</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00263</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_002_653932">
+        <From>
+          <StopPointRef>3290YYA00263</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA01053</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_002_653933">
+        <From>
+          <StopPointRef>3290YYA01053</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00279</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_002_653934">
+        <From>
+          <StopPointRef>3290YYA00279</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03628</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_002_653935">
+        <From>
+          <StopPointRef>3290YYA03628</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03630</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_002_653936">
+        <From>
+          <StopPointRef>3290YYA03630</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03632</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_002_653937">
+        <From>
+          <StopPointRef>3290YYA03632</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03646</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_002_653938">
+        <From>
+          <StopPointRef>3290YYA03646</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03607</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_002_653939">
+        <From>
+          <StopPointRef>3290YYA03607</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00738</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_002_653940">
+        <From>
+          <StopPointRef>3290YYA00738</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00267</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_002_653941">
+        <From>
+          <StopPointRef>3290YYA00267</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA01012</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_002_653942">
+        <From>
+          <StopPointRef>3290YYA01012</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03629</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_002_653943">
+        <From>
+          <StopPointRef>3290YYA03629</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00280</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_002_653944">
+        <From>
+          <StopPointRef>3290YYA00280</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00265</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_002_653945">
+        <From>
+          <StopPointRef>3290YYA00265</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00264</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_002_653946">
+        <From>
+          <StopPointRef>3290YYA00264</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03639</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_002_653947">
+        <From>
+          <StopPointRef>3290YYA03639</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03638</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+    </RouteSection>
+    <RouteSection id="YWAU0B1_003">
+      <RouteLink id="YWAU0B1_003_653949">
+        <From>
+          <StopPointRef>3290YYA03639</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03638</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+    </RouteSection>
+    <RouteSection id="YWAU0B1_004">
+      <RouteLink id="YWAU0B1_004_653951">
+        <From>
+          <StopPointRef>3290YYA03638</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00263</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_004_653952">
+        <From>
+          <StopPointRef>3290YYA00263</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA01053</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_004_653953">
+        <From>
+          <StopPointRef>3290YYA01053</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00279</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_004_653954">
+        <From>
+          <StopPointRef>3290YYA00279</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03628</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_004_653955">
+        <From>
+          <StopPointRef>3290YYA03628</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03630</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_004_653956">
+        <From>
+          <StopPointRef>3290YYA03630</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03632</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_004_653957">
+        <From>
+          <StopPointRef>3290YYA03632</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03646</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+    </RouteSection>
+    <RouteSection id="YWAU0B1_005">
+      <RouteLink id="YWAU0B1_005_653959">
+        <From>
+          <StopPointRef>3290YYA03646</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03607</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_005_653960">
+        <From>
+          <StopPointRef>3290YYA03607</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00738</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_005_653961">
+        <From>
+          <StopPointRef>3290YYA00738</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00267</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_005_653962">
+        <From>
+          <StopPointRef>3290YYA00267</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA01012</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_005_653963">
+        <From>
+          <StopPointRef>3290YYA01012</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03629</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_005_653964">
+        <From>
+          <StopPointRef>3290YYA03629</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00280</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_005_653965">
+        <From>
+          <StopPointRef>3290YYA00280</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00265</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_005_653966">
+        <From>
+          <StopPointRef>3290YYA00265</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00264</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_005_653967">
+        <From>
+          <StopPointRef>3290YYA00264</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03639</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_005_653968">
+        <From>
+          <StopPointRef>3290YYA03639</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03638</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+    </RouteSection>
+    <RouteSection id="YWAU0B1_006">
+      <RouteLink id="YWAU0B1_006_653970">
+        <From>
+          <StopPointRef>3290YYA03638</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00263</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_006_653971">
+        <From>
+          <StopPointRef>3290YYA00263</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA01053</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_006_653972">
+        <From>
+          <StopPointRef>3290YYA01053</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00279</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_006_653973">
+        <From>
+          <StopPointRef>3290YYA00279</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03628</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_006_653974">
+        <From>
+          <StopPointRef>3290YYA03628</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA01011</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_006_653975">
+        <From>
+          <StopPointRef>3290YYA01011</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00737</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_006_653976">
+        <From>
+          <StopPointRef>3290YYA00737</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00268</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_006_653977">
+        <From>
+          <StopPointRef>3290YYA00268</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03607</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_006_653978">
+        <From>
+          <StopPointRef>3290YYA03607</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03647</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_006_653979">
+        <From>
+          <StopPointRef>3290YYA03647</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03633</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_006_653980">
+        <From>
+          <StopPointRef>3290YYA03633</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03631</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_006_653981">
+        <From>
+          <StopPointRef>3290YYA03631</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03629</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_006_653982">
+        <From>
+          <StopPointRef>3290YYA03629</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00280</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_006_653983">
+        <From>
+          <StopPointRef>3290YYA00280</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00265</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_006_653984">
+        <From>
+          <StopPointRef>3290YYA00265</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00264</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_006_653985">
+        <From>
+          <StopPointRef>3290YYA00264</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03639</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_006_653986">
+        <From>
+          <StopPointRef>3290YYA03639</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03638</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+    </RouteSection>
+    <RouteSection id="YWAU0B1_007">
+      <RouteLink id="YWAU0B1_007_653988">
+        <From>
+          <StopPointRef>3290YYA03638</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00263</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_007_653989">
+        <From>
+          <StopPointRef>3290YYA00263</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA01053</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_007_653990">
+        <From>
+          <StopPointRef>3290YYA01053</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00279</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_007_653991">
+        <From>
+          <StopPointRef>3290YYA00279</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03628</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_007_653992">
+        <From>
+          <StopPointRef>3290YYA03628</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03630</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_007_653993">
+        <From>
+          <StopPointRef>3290YYA03630</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03632</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_007_653994">
+        <From>
+          <StopPointRef>3290YYA03632</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03646</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_007_653995">
+        <From>
+          <StopPointRef>3290YYA03646</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03608</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_007_653996">
+        <From>
+          <StopPointRef>3290YYA03608</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00738</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_007_653997">
+        <From>
+          <StopPointRef>3290YYA00738</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00267</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_007_653998">
+        <From>
+          <StopPointRef>3290YYA00267</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA01012</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_007_653999">
+        <From>
+          <StopPointRef>3290YYA01012</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03629</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_007_654000">
+        <From>
+          <StopPointRef>3290YYA03629</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00280</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_007_654001">
+        <From>
+          <StopPointRef>3290YYA00280</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00265</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_007_654002">
+        <From>
+          <StopPointRef>3290YYA00265</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00264</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_007_654003">
+        <From>
+          <StopPointRef>3290YYA00264</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03639</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_007_654004">
+        <From>
+          <StopPointRef>3290YYA03639</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03638</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+    </RouteSection>
+    <RouteSection id="YWAU0B1_008">
+      <RouteLink id="YWAU0B1_008_654006">
+        <From>
+          <StopPointRef>3290YYA03638</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00263</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_008_654007">
+        <From>
+          <StopPointRef>3290YYA00263</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA01053</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_008_654008">
+        <From>
+          <StopPointRef>3290YYA01053</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00279</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_008_654009">
+        <From>
+          <StopPointRef>3290YYA00279</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03628</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_008_654010">
+        <From>
+          <StopPointRef>3290YYA03628</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03630</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_008_654011">
+        <From>
+          <StopPointRef>3290YYA03630</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03632</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_008_654012">
+        <From>
+          <StopPointRef>3290YYA03632</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03646</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_008_654013">
+        <From>
+          <StopPointRef>3290YYA03646</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03608</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_008_654014">
+        <From>
+          <StopPointRef>3290YYA03608</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00738</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_008_654015">
+        <From>
+          <StopPointRef>3290YYA00738</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00267</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_008_654016">
+        <From>
+          <StopPointRef>3290YYA00267</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA01012</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_008_654017">
+        <From>
+          <StopPointRef>3290YYA01012</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03629</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_008_654018">
+        <From>
+          <StopPointRef>3290YYA03629</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00280</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_008_654019">
+        <From>
+          <StopPointRef>3290YYA00280</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00265</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_008_654020">
+        <From>
+          <StopPointRef>3290YYA00265</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00264</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_008_654021">
+        <From>
+          <StopPointRef>3290YYA00264</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03639</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_008_654022">
+        <From>
+          <StopPointRef>3290YYA03639</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03638</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+    </RouteSection>
+    <RouteSection id="YWAU0B1_009">
+      <RouteLink id="YWAU0B1_009_654024">
+        <From>
+          <StopPointRef>3290YYA03639</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03638</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+    </RouteSection>
+    <RouteSection id="YWAU0B1_010">
+      <RouteLink id="YWAU0B1_010_654026">
+        <From>
+          <StopPointRef>3290YYA03638</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00263</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_010_654027">
+        <From>
+          <StopPointRef>3290YYA00263</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA01053</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_010_654028">
+        <From>
+          <StopPointRef>3290YYA01053</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00279</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_010_654029">
+        <From>
+          <StopPointRef>3290YYA00279</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03628</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_010_654030">
+        <From>
+          <StopPointRef>3290YYA03628</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03630</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_010_654031">
+        <From>
+          <StopPointRef>3290YYA03630</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03632</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_010_654032">
+        <From>
+          <StopPointRef>3290YYA03632</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03646</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+    </RouteSection>
+    <RouteSection id="YWAU0B1_011">
+      <RouteLink id="YWAU0B1_011_654034">
+        <From>
+          <StopPointRef>3290YYA03646</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03608</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_011_654035">
+        <From>
+          <StopPointRef>3290YYA03608</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00738</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_011_654036">
+        <From>
+          <StopPointRef>3290YYA00738</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00267</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_011_654037">
+        <From>
+          <StopPointRef>3290YYA00267</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA01012</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_011_654038">
+        <From>
+          <StopPointRef>3290YYA01012</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03629</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_011_654039">
+        <From>
+          <StopPointRef>3290YYA03629</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00280</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_011_654040">
+        <From>
+          <StopPointRef>3290YYA00280</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00265</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_011_654041">
+        <From>
+          <StopPointRef>3290YYA00265</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00264</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_011_654042">
+        <From>
+          <StopPointRef>3290YYA00264</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03639</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_011_654043">
+        <From>
+          <StopPointRef>3290YYA03639</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03638</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+    </RouteSection>
+    <RouteSection id="YWAU0B1_012">
+      <RouteLink id="YWAU0B1_012_654045">
+        <From>
+          <StopPointRef>3290YYA03638</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00263</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_012_654046">
+        <From>
+          <StopPointRef>3290YYA00263</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA01053</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_012_654047">
+        <From>
+          <StopPointRef>3290YYA01053</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00279</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_012_654048">
+        <From>
+          <StopPointRef>3290YYA00279</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03628</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_012_654049">
+        <From>
+          <StopPointRef>3290YYA03628</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA01011</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_012_654050">
+        <From>
+          <StopPointRef>3290YYA01011</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00737</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_012_654051">
+        <From>
+          <StopPointRef>3290YYA00737</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00268</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_012_654052">
+        <From>
+          <StopPointRef>3290YYA00268</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03608</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_012_654053">
+        <From>
+          <StopPointRef>3290YYA03608</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03647</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_012_654054">
+        <From>
+          <StopPointRef>3290YYA03647</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03633</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_012_654055">
+        <From>
+          <StopPointRef>3290YYA03633</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03631</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_012_654056">
+        <From>
+          <StopPointRef>3290YYA03631</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03629</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_012_654057">
+        <From>
+          <StopPointRef>3290YYA03629</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00280</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_012_654058">
+        <From>
+          <StopPointRef>3290YYA00280</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00265</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_012_654059">
+        <From>
+          <StopPointRef>3290YYA00265</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00264</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_012_654060">
+        <From>
+          <StopPointRef>3290YYA00264</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03639</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YWAU0B1_012_654061">
+        <From>
+          <StopPointRef>3290YYA03639</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03638</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+    </RouteSection>
+  </RouteSections>
+  <Routes>
+    <Route id="YWAU0B1_001">
+      <Description>MAIN ROUTE York University to York University via
+</Description>
+      <RouteSectionRef>YWAU0B1_001</RouteSectionRef>
+    </Route>
+    <Route id="YWAU0B1_002">
+      <Description>MAIN ROUTE York University to York University via
+</Description>
+      <RouteSectionRef>YWAU0B1_002</RouteSectionRef>
+    </Route>
+    <Route id="YWAU0B1_003">
+      <Description>HALIFAX COLLEGE TO STUDENT UNION York University t
+</Description>
+      <RouteSectionRef>YWAU0B1_003</RouteSectionRef>
+    </Route>
+    <Route id="YWAU0B1_004">
+      <Description>TO SPORTS VILLAGE York University to York Universi
+</Description>
+      <RouteSectionRef>YWAU0B1_004</RouteSectionRef>
+    </Route>
+    <Route id="YWAU0B1_005">
+      <Description>FROM SPORTS VILLAGE York University to York Univer
+</Description>
+      <RouteSectionRef>YWAU0B1_005</RouteSectionRef>
+    </Route>
+    <Route id="YWAU0B1_006">
+      <Description>0805 &amp; 0835 TERM TIME CLOCKWISE VIA HESLINGTON EAS
+</Description>
+      <RouteSectionRef>YWAU0B1_006</RouteSectionRef>
+    </Route>
+    <Route id="YWAU0B1_007">
+      <Description>MAIN VARIANT York University to York University vi
+</Description>
+      <RouteSectionRef>YWAU0B1_007</RouteSectionRef>
+    </Route>
+    <Route id="YWAU0B1_008">
+      <Description>MAIN VARIANT York University to York University vi
+</Description>
+      <RouteSectionRef>YWAU0B1_008</RouteSectionRef>
+    </Route>
+    <Route id="YWAU0B1_009">
+      <Description>HALIFAX COLLEGE TO STUDENT UNION York University t
+</Description>
+      <RouteSectionRef>YWAU0B1_009</RouteSectionRef>
+    </Route>
+    <Route id="YWAU0B1_010">
+      <Description>TO SPORTS VILLAGE York University to York Universi
+</Description>
+      <RouteSectionRef>YWAU0B1_010</RouteSectionRef>
+    </Route>
+    <Route id="YWAU0B1_011">
+      <Description>FROM SPORTS VILLAGE York University to York Univer
+</Description>
+      <RouteSectionRef>YWAU0B1_011</RouteSectionRef>
+    </Route>
+    <Route id="YWAU0B1_012">
+      <Description>0805 &amp; 0835 TERM TIME CLOCKWISE VIA HESLINGTON EAS
+</Description>
+      <RouteSectionRef>YWAU0B1_012</RouteSectionRef>
+    </Route>
+  </Routes>
+  <JourneyPatternSections>
+    <JourneyPatternSection id="JPS_YWAU0B1-13">
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-13_653913">
+        <From>
+          <StopPointRef>3290YYA03638</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00263</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_001_653913</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-13_653914">
+        <From>
+          <StopPointRef>3290YYA00263</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA01053</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_001_653914</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-13_653915">
+        <From>
+          <StopPointRef>3290YYA01053</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00279</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_001_653915</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-13_653916">
+        <From>
+          <StopPointRef>3290YYA00279</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03628</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_001_653916</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-13_653917">
+        <From>
+          <StopPointRef>3290YYA03628</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03630</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_001_653917</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT180S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-13_653918">
+        <From>
+          <StopPointRef>3290YYA03630</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03632</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_001_653918</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-13_653919">
+        <From>
+          <StopPointRef>3290YYA03632</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03646</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_001_653919</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT180S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-13_653920">
+        <From>
+          <StopPointRef>3290YYA03646</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03607</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_001_653920</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-13_653921">
+        <From>
+          <StopPointRef>3290YYA03607</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00738</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_001_653921</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-13_653922">
+        <From>
+          <StopPointRef>3290YYA00738</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00267</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_001_653922</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-13_653923">
+        <From>
+          <StopPointRef>3290YYA00267</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA01012</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_001_653923</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-13_653924">
+        <From>
+          <StopPointRef>3290YYA01012</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03629</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_001_653924</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-13_653925">
+        <From>
+          <StopPointRef>3290YYA03629</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00280</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_001_653925</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-13_653926">
+        <From>
+          <StopPointRef>3290YYA00280</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00265</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_001_653926</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-13_653927">
+        <From>
+          <StopPointRef>3290YYA00265</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00264</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_001_653927</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-13_653928">
+        <From>
+          <StopPointRef>3290YYA00264</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03639</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_001_653928</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-13_653929">
+        <From>
+          <StopPointRef>3290YYA03639</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03638</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_001_653929</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT180S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+    <JourneyPatternSection id="JPS_YWAU0B1-14">
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-14_653931">
+        <From>
+          <StopPointRef>3290YYA03638</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00263</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_002_653931</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT180S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-14_653932">
+        <From>
+          <StopPointRef>3290YYA00263</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA01053</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_002_653932</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-14_653933">
+        <From>
+          <StopPointRef>3290YYA01053</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00279</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_002_653933</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-14_653934">
+        <From>
+          <StopPointRef>3290YYA00279</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03628</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_002_653934</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-14_653935">
+        <From>
+          <StopPointRef>3290YYA03628</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03630</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_002_653935</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT420S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-14_653936">
+        <From>
+          <StopPointRef>3290YYA03630</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03632</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_002_653936</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-14_653937">
+        <From>
+          <StopPointRef>3290YYA03632</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03646</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_002_653937</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT300S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-14_653938">
+        <From>
+          <StopPointRef>3290YYA03646</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03607</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_002_653938</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-14_653939">
+        <From>
+          <StopPointRef>3290YYA03607</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00738</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_002_653939</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-14_653940">
+        <From>
+          <StopPointRef>3290YYA00738</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00267</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_002_653940</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-14_653941">
+        <From>
+          <StopPointRef>3290YYA00267</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA01012</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_002_653941</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-14_653942">
+        <From>
+          <StopPointRef>3290YYA01012</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03629</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_002_653942</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-14_653943">
+        <From>
+          <StopPointRef>3290YYA03629</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00280</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_002_653943</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-14_653944">
+        <From>
+          <StopPointRef>3290YYA00280</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00265</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_002_653944</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-14_653945">
+        <From>
+          <StopPointRef>3290YYA00265</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00264</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_002_653945</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-14_653946">
+        <From>
+          <StopPointRef>3290YYA00264</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03639</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_002_653946</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-14_653947">
+        <From>
+          <StopPointRef>3290YYA03639</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03638</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_002_653947</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT180S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+    <JourneyPatternSection id="JPS_YWAU0B1-15">
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-15_653949">
+        <From>
+          <StopPointRef>3290YYA03639</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03638</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_003_653949</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT180S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+    <JourneyPatternSection id="JPS_YWAU0B1-16">
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-16_653951">
+        <From>
+          <StopPointRef>3290YYA03638</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00263</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_004_653951</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-16_653952">
+        <From>
+          <StopPointRef>3290YYA00263</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA01053</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_004_653952</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-16_653953">
+        <From>
+          <StopPointRef>3290YYA01053</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00279</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_004_653953</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-16_653954">
+        <From>
+          <StopPointRef>3290YYA00279</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03628</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_004_653954</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-16_653955">
+        <From>
+          <StopPointRef>3290YYA03628</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03630</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_004_653955</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT180S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-16_653956">
+        <From>
+          <StopPointRef>3290YYA03630</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03632</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_004_653956</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-16_653957">
+        <From>
+          <StopPointRef>3290YYA03632</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03646</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_004_653957</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT180S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+    <JourneyPatternSection id="JPS_YWAU0B1-17">
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-17_653959">
+        <From>
+          <StopPointRef>3290YYA03646</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03607</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_005_653959</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-17_653960">
+        <From>
+          <StopPointRef>3290YYA03607</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00738</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_005_653960</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-17_653961">
+        <From>
+          <StopPointRef>3290YYA00738</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00267</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_005_653961</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-17_653962">
+        <From>
+          <StopPointRef>3290YYA00267</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA01012</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_005_653962</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-17_653963">
+        <From>
+          <StopPointRef>3290YYA01012</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03629</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_005_653963</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-17_653964">
+        <From>
+          <StopPointRef>3290YYA03629</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00280</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_005_653964</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-17_653965">
+        <From>
+          <StopPointRef>3290YYA00280</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00265</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_005_653965</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-17_653966">
+        <From>
+          <StopPointRef>3290YYA00265</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00264</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_005_653966</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-17_653967">
+        <From>
+          <StopPointRef>3290YYA00264</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03639</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_005_653967</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-17_653968">
+        <From>
+          <StopPointRef>3290YYA03639</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03638</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_005_653968</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT180S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+    <JourneyPatternSection id="JPS_YWAU0B1-18">
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-18_653970">
+        <From>
+          <StopPointRef>3290YYA03638</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00263</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_006_653970</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-18_653971">
+        <From>
+          <StopPointRef>3290YYA00263</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA01053</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_006_653971</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-18_653972">
+        <From>
+          <StopPointRef>3290YYA01053</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00279</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_006_653972</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-18_653973">
+        <From>
+          <StopPointRef>3290YYA00279</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03628</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_006_653973</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-18_653974">
+        <From>
+          <StopPointRef>3290YYA03628</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA01011</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_006_653974</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-18_653975">
+        <From>
+          <StopPointRef>3290YYA01011</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00737</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_006_653975</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-18_653976">
+        <From>
+          <StopPointRef>3290YYA00737</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00268</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_006_653976</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-18_653977">
+        <From>
+          <StopPointRef>3290YYA00268</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03607</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_006_653977</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-18_653978">
+        <From>
+          <StopPointRef>3290YYA03607</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03647</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_006_653978</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT180S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-18_653979">
+        <From>
+          <StopPointRef>3290YYA03647</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03633</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_006_653979</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-18_653980">
+        <From>
+          <StopPointRef>3290YYA03633</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03631</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_006_653980</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-18_653981">
+        <From>
+          <StopPointRef>3290YYA03631</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03629</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_006_653981</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT240S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-18_653982">
+        <From>
+          <StopPointRef>3290YYA03629</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00280</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_006_653982</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-18_653983">
+        <From>
+          <StopPointRef>3290YYA00280</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00265</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_006_653983</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-18_653984">
+        <From>
+          <StopPointRef>3290YYA00265</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00264</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_006_653984</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-18_653985">
+        <From>
+          <StopPointRef>3290YYA00264</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03639</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_006_653985</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-18_653986">
+        <From>
+          <StopPointRef>3290YYA03639</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03638</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_006_653986</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT180S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+    <JourneyPatternSection id="JPS_YWAU0B1-19">
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-19_653988">
+        <From>
+          <StopPointRef>3290YYA03638</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00263</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_007_653988</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-19_653989">
+        <From>
+          <StopPointRef>3290YYA00263</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA01053</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_007_653989</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-19_653990">
+        <From>
+          <StopPointRef>3290YYA01053</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00279</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_007_653990</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-19_653991">
+        <From>
+          <StopPointRef>3290YYA00279</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03628</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_007_653991</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-19_653992">
+        <From>
+          <StopPointRef>3290YYA03628</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03630</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_007_653992</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT180S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-19_653993">
+        <From>
+          <StopPointRef>3290YYA03630</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03632</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_007_653993</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-19_653994">
+        <From>
+          <StopPointRef>3290YYA03632</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03646</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_007_653994</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT180S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-19_653995">
+        <From>
+          <StopPointRef>3290YYA03646</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03608</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_007_653995</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-19_653996">
+        <From>
+          <StopPointRef>3290YYA03608</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00738</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_007_653996</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-19_653997">
+        <From>
+          <StopPointRef>3290YYA00738</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00267</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_007_653997</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-19_653998">
+        <From>
+          <StopPointRef>3290YYA00267</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA01012</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_007_653998</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-19_653999">
+        <From>
+          <StopPointRef>3290YYA01012</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03629</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_007_653999</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-19_654000">
+        <From>
+          <StopPointRef>3290YYA03629</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00280</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_007_654000</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-19_654001">
+        <From>
+          <StopPointRef>3290YYA00280</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00265</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_007_654001</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-19_654002">
+        <From>
+          <StopPointRef>3290YYA00265</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00264</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_007_654002</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-19_654003">
+        <From>
+          <StopPointRef>3290YYA00264</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03639</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_007_654003</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-19_654004">
+        <From>
+          <StopPointRef>3290YYA03639</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03638</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_007_654004</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT180S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+    <JourneyPatternSection id="JPS_YWAU0B1-20">
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-20_654006">
+        <From>
+          <StopPointRef>3290YYA03638</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00263</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_008_654006</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT180S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-20_654007">
+        <From>
+          <StopPointRef>3290YYA00263</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA01053</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_008_654007</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-20_654008">
+        <From>
+          <StopPointRef>3290YYA01053</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00279</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_008_654008</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-20_654009">
+        <From>
+          <StopPointRef>3290YYA00279</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03628</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_008_654009</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-20_654010">
+        <From>
+          <StopPointRef>3290YYA03628</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03630</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_008_654010</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT420S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-20_654011">
+        <From>
+          <StopPointRef>3290YYA03630</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03632</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_008_654011</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-20_654012">
+        <From>
+          <StopPointRef>3290YYA03632</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03646</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_008_654012</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT300S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-20_654013">
+        <From>
+          <StopPointRef>3290YYA03646</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03608</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_008_654013</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-20_654014">
+        <From>
+          <StopPointRef>3290YYA03608</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00738</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_008_654014</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-20_654015">
+        <From>
+          <StopPointRef>3290YYA00738</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00267</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_008_654015</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-20_654016">
+        <From>
+          <StopPointRef>3290YYA00267</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA01012</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_008_654016</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-20_654017">
+        <From>
+          <StopPointRef>3290YYA01012</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03629</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_008_654017</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-20_654018">
+        <From>
+          <StopPointRef>3290YYA03629</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00280</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_008_654018</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-20_654019">
+        <From>
+          <StopPointRef>3290YYA00280</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00265</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_008_654019</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-20_654020">
+        <From>
+          <StopPointRef>3290YYA00265</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00264</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_008_654020</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-20_654021">
+        <From>
+          <StopPointRef>3290YYA00264</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03639</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_008_654021</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-20_654022">
+        <From>
+          <StopPointRef>3290YYA03639</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03638</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_008_654022</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT180S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+    <JourneyPatternSection id="JPS_YWAU0B1-21">
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-21_654024">
+        <From>
+          <StopPointRef>3290YYA03639</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03638</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_009_654024</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT180S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+    <JourneyPatternSection id="JPS_YWAU0B1-22">
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-22_654026">
+        <From>
+          <StopPointRef>3290YYA03638</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00263</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_010_654026</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-22_654027">
+        <From>
+          <StopPointRef>3290YYA00263</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA01053</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_010_654027</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-22_654028">
+        <From>
+          <StopPointRef>3290YYA01053</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00279</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_010_654028</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-22_654029">
+        <From>
+          <StopPointRef>3290YYA00279</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03628</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_010_654029</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-22_654030">
+        <From>
+          <StopPointRef>3290YYA03628</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03630</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_010_654030</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT180S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-22_654031">
+        <From>
+          <StopPointRef>3290YYA03630</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03632</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_010_654031</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-22_654032">
+        <From>
+          <StopPointRef>3290YYA03632</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03646</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_010_654032</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT180S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+    <JourneyPatternSection id="JPS_YWAU0B1-23">
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-23_654034">
+        <From>
+          <StopPointRef>3290YYA03646</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03608</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_011_654034</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-23_654035">
+        <From>
+          <StopPointRef>3290YYA03608</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00738</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_011_654035</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-23_654036">
+        <From>
+          <StopPointRef>3290YYA00738</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00267</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_011_654036</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-23_654037">
+        <From>
+          <StopPointRef>3290YYA00267</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA01012</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_011_654037</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-23_654038">
+        <From>
+          <StopPointRef>3290YYA01012</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03629</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_011_654038</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-23_654039">
+        <From>
+          <StopPointRef>3290YYA03629</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00280</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_011_654039</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-23_654040">
+        <From>
+          <StopPointRef>3290YYA00280</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00265</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_011_654040</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-23_654041">
+        <From>
+          <StopPointRef>3290YYA00265</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00264</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_011_654041</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-23_654042">
+        <From>
+          <StopPointRef>3290YYA00264</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03639</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_011_654042</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-23_654043">
+        <From>
+          <StopPointRef>3290YYA03639</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03638</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_011_654043</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT180S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+    <JourneyPatternSection id="JPS_YWAU0B1-24">
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-24_654045">
+        <From>
+          <StopPointRef>3290YYA03638</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00263</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_012_654045</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-24_654046">
+        <From>
+          <StopPointRef>3290YYA00263</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA01053</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_012_654046</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-24_654047">
+        <From>
+          <StopPointRef>3290YYA01053</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00279</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_012_654047</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-24_654048">
+        <From>
+          <StopPointRef>3290YYA00279</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03628</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_012_654048</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-24_654049">
+        <From>
+          <StopPointRef>3290YYA03628</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA01011</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_012_654049</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-24_654050">
+        <From>
+          <StopPointRef>3290YYA01011</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00737</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_012_654050</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-24_654051">
+        <From>
+          <StopPointRef>3290YYA00737</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00268</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_012_654051</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-24_654052">
+        <From>
+          <StopPointRef>3290YYA00268</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03608</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_012_654052</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-24_654053">
+        <From>
+          <StopPointRef>3290YYA03608</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03647</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_012_654053</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT180S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-24_654054">
+        <From>
+          <StopPointRef>3290YYA03647</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03633</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_012_654054</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-24_654055">
+        <From>
+          <StopPointRef>3290YYA03633</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03631</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_012_654055</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-24_654056">
+        <From>
+          <StopPointRef>3290YYA03631</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03629</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_012_654056</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT240S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-24_654057">
+        <From>
+          <StopPointRef>3290YYA03629</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00280</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_012_654057</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-24_654058">
+        <From>
+          <StopPointRef>3290YYA00280</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00265</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_012_654058</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-24_654059">
+        <From>
+          <StopPointRef>3290YYA00265</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA00264</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_012_654059</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-24_654060">
+        <From>
+          <StopPointRef>3290YYA00264</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03639</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_012_654060</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YWAU0B1-24_654061">
+        <From>
+          <StopPointRef>3290YYA03639</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3290YYA03638</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YWAU0B1_012_654061</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT180S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+  </JourneyPatternSections>
+  <Operators>
+    <Operator id="FY">
+      <NationalOperatorCode>FYOR</NationalOperatorCode>
+      <OperatorCode>FY</OperatorCode>
+      <OperatorShortName>First West &amp; North Yorks</OperatorShortName>
+    </Operator>
+  </Operators>
+  <Services>
+    <Service>
+      <ServiceCode>YWAU0B1</ServiceCode>
+      <Lines>
+        <Line id="0">
+          <LineName>UB1</LineName>
+        </Line>
+      </Lines>
+      <OperatingPeriod>
+        <StartDate>2017-03-19</StartDate>
+        <EndDate>2038-01-17</EndDate>
+      </OperatingPeriod>
+      <RegisteredOperatorRef>FY</RegisteredOperatorRef>
+      <StopRequirements>
+        <NoNewStopsRequired />
+      </StopRequirements>
+      <Mode>bus</Mode>
+      <Description>University of York - Sports Village Circular</Description>
+      <StandardService>
+        <Origin>University of York</Origin>
+        <Destination>Sports Village Circular</Destination>
+        <JourneyPattern id="JPS_YWAU0B1-13">
+          <Direction>outbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YWAU0B1-13</JourneyPatternSectionRefs>
+        </JourneyPattern>
+        <JourneyPattern id="JPS_YWAU0B1-14">
+          <Direction>outbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YWAU0B1-14</JourneyPatternSectionRefs>
+        </JourneyPattern>
+        <JourneyPattern id="JPS_YWAU0B1-15">
+          <Direction>outbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YWAU0B1-15</JourneyPatternSectionRefs>
+        </JourneyPattern>
+        <JourneyPattern id="JPS_YWAU0B1-16">
+          <Direction>outbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YWAU0B1-16</JourneyPatternSectionRefs>
+        </JourneyPattern>
+        <JourneyPattern id="JPS_YWAU0B1-17">
+          <Direction>outbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YWAU0B1-17</JourneyPatternSectionRefs>
+        </JourneyPattern>
+        <JourneyPattern id="JPS_YWAU0B1-18">
+          <Direction>outbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YWAU0B1-18</JourneyPatternSectionRefs>
+        </JourneyPattern>
+        <JourneyPattern id="JPS_YWAU0B1-19">
+          <Direction>outbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YWAU0B1-19</JourneyPatternSectionRefs>
+        </JourneyPattern>
+        <JourneyPattern id="JPS_YWAU0B1-20">
+          <Direction>outbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YWAU0B1-20</JourneyPatternSectionRefs>
+        </JourneyPattern>
+        <JourneyPattern id="JPS_YWAU0B1-21">
+          <Direction>outbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YWAU0B1-21</JourneyPatternSectionRefs>
+        </JourneyPattern>
+        <JourneyPattern id="JPS_YWAU0B1-22">
+          <Direction>outbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YWAU0B1-22</JourneyPatternSectionRefs>
+        </JourneyPattern>
+        <JourneyPattern id="JPS_YWAU0B1-23">
+          <Direction>outbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YWAU0B1-23</JourneyPatternSectionRefs>
+        </JourneyPattern>
+        <JourneyPattern id="JPS_YWAU0B1-24">
+          <Direction>outbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YWAU0B1-24</JourneyPatternSectionRefs>
+        </JourneyPattern>
+      </StandardService>
+    </Service>
+  </Services>
+  <VehicleJourneys>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-09-24</StartDate>
+              <EndDate>2038-01-17</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63392</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-13</JourneyPatternRef>
+      <Note>
+        <NoteCode>C</NoteCode>
+        <NoteText>Trip operates University Holidays Only</NoteText>
+      </Note>
+      <DepartureTime>08:05:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-09-24</StartDate>
+              <EndDate>2038-01-17</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63393</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-13</JourneyPatternRef>
+      <Note>
+        <NoteCode>C</NoteCode>
+        <NoteText>Trip operates University Holidays Only</NoteText>
+      </Note>
+      <DepartureTime>08:35:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-09-24</StartDate>
+              <EndDate>2038-01-17</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63394</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-13</JourneyPatternRef>
+      <DepartureTime>09:05:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-09-24</StartDate>
+              <EndDate>2038-01-17</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63395</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-13</JourneyPatternRef>
+      <Note>
+        <NoteCode>D</NoteCode>
+        <NoteText>Trip operates University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>09:35:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-09-24</StartDate>
+              <EndDate>2038-01-17</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63396</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-13</JourneyPatternRef>
+      <Note>
+        <NoteCode>D</NoteCode>
+        <NoteText>Trip operates University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>10:05:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-09-24</StartDate>
+              <EndDate>2038-01-17</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63397</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-13</JourneyPatternRef>
+      <Note>
+        <NoteCode>D</NoteCode>
+        <NoteText>Trip operates University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>11:35:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-09-24</StartDate>
+              <EndDate>2038-01-17</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63398</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-13</JourneyPatternRef>
+      <Note>
+        <NoteCode>D</NoteCode>
+        <NoteText>Trip operates University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>12:05:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-09-24</StartDate>
+              <EndDate>2038-01-17</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63399</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-13</JourneyPatternRef>
+      <Note>
+        <NoteCode>D</NoteCode>
+        <NoteText>Trip operates University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>12:35:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-09-24</StartDate>
+              <EndDate>2038-01-17</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63400</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-13</JourneyPatternRef>
+      <Note>
+        <NoteCode>D</NoteCode>
+        <NoteText>Trip operates University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>13:05:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-09-24</StartDate>
+              <EndDate>2038-01-17</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63407</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-13</JourneyPatternRef>
+      <Note>
+        <NoteCode>C</NoteCode>
+        <NoteText>Trip operates University Holidays Only</NoteText>
+      </Note>
+      <DepartureTime>14:35:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-09-24</StartDate>
+              <EndDate>2038-01-17</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63401</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-13</JourneyPatternRef>
+      <Note>
+        <NoteCode>D</NoteCode>
+        <NoteText>Trip operates University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>14:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-09-24</StartDate>
+              <EndDate>2038-01-17</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63408</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-13</JourneyPatternRef>
+      <Note>
+        <NoteCode>C</NoteCode>
+        <NoteText>Trip operates University Holidays Only</NoteText>
+      </Note>
+      <DepartureTime>15:05:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-09-24</StartDate>
+              <EndDate>2038-01-17</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63402</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-13</JourneyPatternRef>
+      <Note>
+        <NoteCode>D</NoteCode>
+        <NoteText>Trip operates University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>15:15:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-09-24</StartDate>
+              <EndDate>2038-01-17</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63409</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-13</JourneyPatternRef>
+      <Note>
+        <NoteCode>C</NoteCode>
+        <NoteText>Trip operates University Holidays Only</NoteText>
+      </Note>
+      <DepartureTime>15:35:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-09-24</StartDate>
+              <EndDate>2038-01-17</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63403</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-13</JourneyPatternRef>
+      <Note>
+        <NoteCode>D</NoteCode>
+        <NoteText>Trip operates University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>15:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-09-24</StartDate>
+              <EndDate>2038-01-17</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63404</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-13</JourneyPatternRef>
+      <Note>
+        <NoteCode>D</NoteCode>
+        <NoteText>Trip operates University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>16:15:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-09-24</StartDate>
+              <EndDate>2038-01-17</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63405</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-13</JourneyPatternRef>
+      <Note>
+        <NoteCode>D</NoteCode>
+        <NoteText>Trip operates University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>18:05:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-09-24</StartDate>
+              <EndDate>2038-01-17</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63406</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-13</JourneyPatternRef>
+      <Note>
+        <NoteCode>D</NoteCode>
+        <NoteText>Trip operates University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>18:35:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-09-24</StartDate>
+              <EndDate>2038-01-17</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63410</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-14</JourneyPatternRef>
+      <Note>
+        <NoteCode>D</NoteCode>
+        <NoteText>Trip operates University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>16:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-09-24</StartDate>
+              <EndDate>2038-01-17</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63411</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-14</JourneyPatternRef>
+      <Note>
+        <NoteCode>D</NoteCode>
+        <NoteText>Trip operates University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>17:25:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-09-24</StartDate>
+              <EndDate>2038-01-17</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63412</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-15</JourneyPatternRef>
+      <Note>
+        <NoteCode>D</NoteCode>
+        <NoteText>Trip operates University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>08:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-09-24</StartDate>
+              <EndDate>2038-01-17</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63413</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-16</JourneyPatternRef>
+      <Note>
+        <NoteCode>D</NoteCode>
+        <NoteText>Trip operates University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>10:35:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-09-24</StartDate>
+              <EndDate>2038-01-17</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63414</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-16</JourneyPatternRef>
+      <Note>
+        <NoteCode>D</NoteCode>
+        <NoteText>Trip operates University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>13:35:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-09-24</StartDate>
+              <EndDate>2038-01-17</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63415</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-17</JourneyPatternRef>
+      <Note>
+        <NoteCode>D</NoteCode>
+        <NoteText>Trip operates University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>11:16:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-09-24</StartDate>
+              <EndDate>2038-01-17</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63416</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-17</JourneyPatternRef>
+      <Note>
+        <NoteCode>D</NoteCode>
+        <NoteText>Trip operates University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>14:26:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-09-24</StartDate>
+              <EndDate>2038-01-17</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63417</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-18</JourneyPatternRef>
+      <Note>
+        <NoteCode>B</NoteCode>
+        <NoteText>Operates via Field Ln towards Sports Village, returning from Sports Village via Lakeside Way.</NoteText>
+      </Note>
+      <Note>
+        <NoteCode>D</NoteCode>
+        <NoteText>Trip operates University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>08:05:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-09-24</StartDate>
+              <EndDate>2038-01-17</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63418</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-18</JourneyPatternRef>
+      <Note>
+        <NoteCode>B</NoteCode>
+        <NoteText>Operates via Field Ln towards Sports Village, returning from Sports Village via Lakeside Way.</NoteText>
+      </Note>
+      <Note>
+        <NoteCode>D</NoteCode>
+        <NoteText>Trip operates University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>08:35:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <ServicedOrganisationDayType>
+          <DaysOfOperation>
+            <WorkingDays>
+              <ServicedOrganisationRef>173</ServicedOrganisationRef>
+            </WorkingDays>
+          </DaysOfOperation>
+        </ServicedOrganisationDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-03-19</StartDate>
+              <EndDate>2017-09-23</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63419</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-19</JourneyPatternRef>
+      <Note>
+        <NoteCode>D</NoteCode>
+        <NoteText>Trip operates University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>09:05:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <ServicedOrganisationDayType>
+          <DaysOfOperation>
+            <WorkingDays>
+              <ServicedOrganisationRef>173</ServicedOrganisationRef>
+            </WorkingDays>
+          </DaysOfOperation>
+        </ServicedOrganisationDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-03-19</StartDate>
+              <EndDate>2017-09-23</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63420</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-19</JourneyPatternRef>
+      <Note>
+        <NoteCode>D</NoteCode>
+        <NoteText>Trip operates University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>09:35:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <ServicedOrganisationDayType>
+          <DaysOfOperation>
+            <WorkingDays>
+              <ServicedOrganisationRef>173</ServicedOrganisationRef>
+            </WorkingDays>
+          </DaysOfOperation>
+        </ServicedOrganisationDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-03-19</StartDate>
+              <EndDate>2017-09-23</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63421</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-19</JourneyPatternRef>
+      <Note>
+        <NoteCode>D</NoteCode>
+        <NoteText>Trip operates University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>10:05:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <ServicedOrganisationDayType>
+          <DaysOfOperation>
+            <WorkingDays>
+              <ServicedOrganisationRef>173</ServicedOrganisationRef>
+            </WorkingDays>
+          </DaysOfOperation>
+        </ServicedOrganisationDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-03-19</StartDate>
+              <EndDate>2017-09-23</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63422</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-19</JourneyPatternRef>
+      <Note>
+        <NoteCode>D</NoteCode>
+        <NoteText>Trip operates University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>11:35:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <ServicedOrganisationDayType>
+          <DaysOfOperation>
+            <WorkingDays>
+              <ServicedOrganisationRef>173</ServicedOrganisationRef>
+            </WorkingDays>
+          </DaysOfOperation>
+        </ServicedOrganisationDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-03-19</StartDate>
+              <EndDate>2017-09-23</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63423</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-19</JourneyPatternRef>
+      <Note>
+        <NoteCode>D</NoteCode>
+        <NoteText>Trip operates University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>12:05:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <ServicedOrganisationDayType>
+          <DaysOfOperation>
+            <WorkingDays>
+              <ServicedOrganisationRef>173</ServicedOrganisationRef>
+            </WorkingDays>
+          </DaysOfOperation>
+        </ServicedOrganisationDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-03-19</StartDate>
+              <EndDate>2017-09-23</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63424</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-19</JourneyPatternRef>
+      <Note>
+        <NoteCode>D</NoteCode>
+        <NoteText>Trip operates University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>12:35:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <ServicedOrganisationDayType>
+          <DaysOfOperation>
+            <WorkingDays>
+              <ServicedOrganisationRef>173</ServicedOrganisationRef>
+            </WorkingDays>
+          </DaysOfOperation>
+        </ServicedOrganisationDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-03-19</StartDate>
+              <EndDate>2017-09-23</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63425</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-19</JourneyPatternRef>
+      <Note>
+        <NoteCode>D</NoteCode>
+        <NoteText>Trip operates University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>13:05:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <ServicedOrganisationDayType>
+          <DaysOfOperation>
+            <WorkingDays>
+              <ServicedOrganisationRef>173</ServicedOrganisationRef>
+            </WorkingDays>
+          </DaysOfOperation>
+        </ServicedOrganisationDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-03-19</StartDate>
+              <EndDate>2017-09-23</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63426</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-19</JourneyPatternRef>
+      <Note>
+        <NoteCode>D</NoteCode>
+        <NoteText>Trip operates University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>14:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <ServicedOrganisationDayType>
+          <DaysOfOperation>
+            <WorkingDays>
+              <ServicedOrganisationRef>173</ServicedOrganisationRef>
+            </WorkingDays>
+          </DaysOfOperation>
+        </ServicedOrganisationDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-03-19</StartDate>
+              <EndDate>2017-09-23</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63427</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-19</JourneyPatternRef>
+      <Note>
+        <NoteCode>D</NoteCode>
+        <NoteText>Trip operates University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>15:15:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <ServicedOrganisationDayType>
+          <DaysOfOperation>
+            <WorkingDays>
+              <ServicedOrganisationRef>173</ServicedOrganisationRef>
+            </WorkingDays>
+          </DaysOfOperation>
+        </ServicedOrganisationDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-03-19</StartDate>
+              <EndDate>2017-09-23</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63428</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-19</JourneyPatternRef>
+      <Note>
+        <NoteCode>D</NoteCode>
+        <NoteText>Trip operates University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>15:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <ServicedOrganisationDayType>
+          <DaysOfOperation>
+            <WorkingDays>
+              <ServicedOrganisationRef>173</ServicedOrganisationRef>
+            </WorkingDays>
+          </DaysOfOperation>
+        </ServicedOrganisationDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-03-19</StartDate>
+              <EndDate>2017-09-23</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63429</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-19</JourneyPatternRef>
+      <Note>
+        <NoteCode>D</NoteCode>
+        <NoteText>Trip operates University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>16:15:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <ServicedOrganisationDayType>
+          <DaysOfOperation>
+            <WorkingDays>
+              <ServicedOrganisationRef>173</ServicedOrganisationRef>
+            </WorkingDays>
+          </DaysOfOperation>
+        </ServicedOrganisationDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-03-19</StartDate>
+              <EndDate>2017-09-23</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63430</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-19</JourneyPatternRef>
+      <Note>
+        <NoteCode>D</NoteCode>
+        <NoteText>Trip operates University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>18:05:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <ServicedOrganisationDayType>
+          <DaysOfOperation>
+            <WorkingDays>
+              <ServicedOrganisationRef>173</ServicedOrganisationRef>
+            </WorkingDays>
+          </DaysOfOperation>
+        </ServicedOrganisationDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-03-19</StartDate>
+              <EndDate>2017-09-23</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63431</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-19</JourneyPatternRef>
+      <Note>
+        <NoteCode>D</NoteCode>
+        <NoteText>Trip operates University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>18:35:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <ServicedOrganisationDayType>
+          <DaysOfOperation>
+            <WorkingDays>
+              <ServicedOrganisationRef>173</ServicedOrganisationRef>
+            </WorkingDays>
+          </DaysOfOperation>
+        </ServicedOrganisationDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-03-19</StartDate>
+              <EndDate>2017-09-23</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63432</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-20</JourneyPatternRef>
+      <Note>
+        <NoteCode>D</NoteCode>
+        <NoteText>Trip operates University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>16:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <ServicedOrganisationDayType>
+          <DaysOfOperation>
+            <WorkingDays>
+              <ServicedOrganisationRef>173</ServicedOrganisationRef>
+            </WorkingDays>
+          </DaysOfOperation>
+        </ServicedOrganisationDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-03-19</StartDate>
+              <EndDate>2017-09-23</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63433</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-20</JourneyPatternRef>
+      <Note>
+        <NoteCode>D</NoteCode>
+        <NoteText>Trip operates University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>17:25:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <ServicedOrganisationDayType>
+          <DaysOfOperation>
+            <WorkingDays>
+              <ServicedOrganisationRef>173</ServicedOrganisationRef>
+            </WorkingDays>
+          </DaysOfOperation>
+        </ServicedOrganisationDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-03-19</StartDate>
+              <EndDate>2017-09-23</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63434</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-21</JourneyPatternRef>
+      <Note>
+        <NoteCode>D</NoteCode>
+        <NoteText>Trip operates University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>08:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <ServicedOrganisationDayType>
+          <DaysOfOperation>
+            <WorkingDays>
+              <ServicedOrganisationRef>173</ServicedOrganisationRef>
+            </WorkingDays>
+          </DaysOfOperation>
+        </ServicedOrganisationDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-03-19</StartDate>
+              <EndDate>2017-09-23</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63435</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-22</JourneyPatternRef>
+      <Note>
+        <NoteCode>D</NoteCode>
+        <NoteText>Trip operates University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>10:35:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <ServicedOrganisationDayType>
+          <DaysOfOperation>
+            <WorkingDays>
+              <ServicedOrganisationRef>173</ServicedOrganisationRef>
+            </WorkingDays>
+          </DaysOfOperation>
+        </ServicedOrganisationDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-03-19</StartDate>
+              <EndDate>2017-09-23</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63436</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-22</JourneyPatternRef>
+      <Note>
+        <NoteCode>D</NoteCode>
+        <NoteText>Trip operates University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>13:35:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <ServicedOrganisationDayType>
+          <DaysOfOperation>
+            <WorkingDays>
+              <ServicedOrganisationRef>173</ServicedOrganisationRef>
+            </WorkingDays>
+          </DaysOfOperation>
+        </ServicedOrganisationDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-03-19</StartDate>
+              <EndDate>2017-09-23</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63437</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-23</JourneyPatternRef>
+      <Note>
+        <NoteCode>D</NoteCode>
+        <NoteText>Trip operates University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>11:16:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <ServicedOrganisationDayType>
+          <DaysOfOperation>
+            <WorkingDays>
+              <ServicedOrganisationRef>173</ServicedOrganisationRef>
+            </WorkingDays>
+          </DaysOfOperation>
+        </ServicedOrganisationDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-03-19</StartDate>
+              <EndDate>2017-09-23</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63438</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-23</JourneyPatternRef>
+      <Note>
+        <NoteCode>D</NoteCode>
+        <NoteText>Trip operates University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>14:26:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <ServicedOrganisationDayType>
+          <DaysOfOperation>
+            <WorkingDays>
+              <ServicedOrganisationRef>173</ServicedOrganisationRef>
+            </WorkingDays>
+          </DaysOfOperation>
+        </ServicedOrganisationDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-03-19</StartDate>
+              <EndDate>2017-09-23</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63439</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-24</JourneyPatternRef>
+      <Note>
+        <NoteCode>B</NoteCode>
+        <NoteText>Operates via Field Ln towards Sports Village, returning from Sports Village via Lakeside Way.</NoteText>
+      </Note>
+      <Note>
+        <NoteCode>D</NoteCode>
+        <NoteText>Trip operates University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>08:05:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>FY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <ServicedOrganisationDayType>
+          <DaysOfOperation>
+            <WorkingDays>
+              <ServicedOrganisationRef>173</ServicedOrganisationRef>
+            </WorkingDays>
+          </DaysOfOperation>
+        </ServicedOrganisationDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-03-19</StartDate>
+              <EndDate>2017-09-23</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>63440</VehicleJourneyCode>
+      <ServiceRef>YWAU0B1</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YWAU0B1-24</JourneyPatternRef>
+      <Note>
+        <NoteCode>B</NoteCode>
+        <NoteText>Operates via Field Ln towards Sports Village, returning from Sports Village via Lakeside Way.</NoteText>
+      </Note>
+      <Note>
+        <NoteCode>D</NoteCode>
+        <NoteText>Trip operates University Term Time Only</NoteText>
+      </Note>
+      <DepartureTime>08:35:00</DepartureTime>
+    </VehicleJourney>
+  </VehicleJourneys>
+</TransXChange>

@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TransXChange xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.transxchange.org.uk/ http://www.transxchange.org.uk/schema/2.1/TransXChange_general.xsd" CreationDateTime="2017-09-18T09:37:00-00:00" ModificationDateTime="2017-09-18T09:37:00-00:00" Modification="new" RevisionNumber="0" FileName="SVRYHAO107N.xml" SchemaVersion="2.1" RegistrationDocument="false" xmlns="http://www.transxchange.org.uk/">
+  <StopPoints>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2290YHA01594</StopPointRef>
+      <CommonName>University Grounds</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2290YHA01600</StopPointRef>
+      <CommonName>Newlands School For Girls</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA01464</StopPointRef>
+      <CommonName>Cottingham Hull Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA01688</StopPointRef>
+      <CommonName>Cottingham Thwaite Street</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00188</StopPointRef>
+      <CommonName>Cottingham Thwaite Street</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00186</StopPointRef>
+      <CommonName>Cottingham Thwaite Street</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00013</StopPointRef>
+      <CommonName>Cottingham Newgate Street</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA01242</StopPointRef>
+      <CommonName>Cottingham King Street</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA01473</StopPointRef>
+      <CommonName>Cottingham Northgate</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA01245</StopPointRef>
+      <CommonName>Cottingham Northgate</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA01469</StopPointRef>
+      <CommonName>Cottingham Northgate</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA11727</StopPointRef>
+      <CommonName>The Lawns Uni Campus</CommonName>
+    </AnnotatedStopPointRef>
+  </StopPoints>
+  <RouteSections>
+    <RouteSection id="YHAO107N001">
+      <RouteLink id="YHAO107N001_20614">
+        <From>
+          <StopPointRef>2290YHA01594</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2290YHA01600</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YHAO107N001_20615">
+        <From>
+          <StopPointRef>2290YHA01600</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA01464</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YHAO107N001_20616">
+        <From>
+          <StopPointRef>2200YEA01464</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA01688</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YHAO107N001_20617">
+        <From>
+          <StopPointRef>2200YEA01688</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00188</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YHAO107N001_20618">
+        <From>
+          <StopPointRef>2200YEA00188</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00186</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YHAO107N001_20619">
+        <From>
+          <StopPointRef>2200YEA00186</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00013</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YHAO107N001_20620">
+        <From>
+          <StopPointRef>2200YEA00013</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA01242</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YHAO107N001_20621">
+        <From>
+          <StopPointRef>2200YEA01242</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA01473</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YHAO107N001_20622">
+        <From>
+          <StopPointRef>2200YEA01473</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA01245</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YHAO107N001_20623">
+        <From>
+          <StopPointRef>2200YEA01245</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA01469</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YHAO107N001_20624">
+        <From>
+          <StopPointRef>2200YEA01469</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA11727</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+    </RouteSection>
+  </RouteSections>
+  <Routes>
+    <Route id="YHAO107N001">
+      <Description>University - The Lawns ( Cottingham )
+</Description>
+      <RouteSectionRef>YHAO107N001</RouteSectionRef>
+    </Route>
+  </Routes>
+  <JourneyPatternSections>
+    <JourneyPatternSection id="JPS_YHAO107N-2">
+      <JourneyPatternTimingLink id="JPS_YHAO107N-2_20614">
+        <From>
+          <StopPointRef>2290YHA01594</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2290YHA01600</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YHAO107N001_20614</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT81S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YHAO107N-2_20615">
+        <From>
+          <StopPointRef>2290YHA01600</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA01464</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YHAO107N001_20615</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT190S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YHAO107N-2_20616">
+        <From>
+          <StopPointRef>2200YEA01464</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA01688</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YHAO107N001_20616</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT29S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YHAO107N-2_20617">
+        <From>
+          <StopPointRef>2200YEA01688</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00188</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YHAO107N001_20617</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT29S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YHAO107N-2_20618">
+        <From>
+          <StopPointRef>2200YEA00188</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00186</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YHAO107N001_20618</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT46S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YHAO107N-2_20619">
+        <From>
+          <StopPointRef>2200YEA00186</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00013</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YHAO107N001_20619</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT56S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YHAO107N-2_20620">
+        <From>
+          <StopPointRef>2200YEA00013</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA01242</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YHAO107N001_20620</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT49S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YHAO107N-2_20621">
+        <From>
+          <StopPointRef>2200YEA01242</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA01473</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YHAO107N001_20621</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT43S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YHAO107N-2_20622">
+        <From>
+          <StopPointRef>2200YEA01473</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA01245</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YHAO107N001_20622</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT19S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YHAO107N-2_20623">
+        <From>
+          <StopPointRef>2200YEA01245</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA01469</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YHAO107N001_20623</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT20S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YHAO107N-2_20624">
+        <From>
+          <StopPointRef>2200YEA01469</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA11727</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YHAO107N001_20624</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT38S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+  </JourneyPatternSections>
+  <Operators>
+    <Operator id="EY">
+      <NationalOperatorCode>EYMS</NationalOperatorCode>
+      <OperatorCode>EY</OperatorCode>
+      <OperatorShortName>EYMS</OperatorShortName>
+    </Operator>
+  </Operators>
+  <Services>
+    <Service>
+      <ServiceCode>YHAO107N</ServiceCode>
+      <Lines>
+        <Line id="0">
+          <LineName>107N</LineName>
+        </Line>
+      </Lines>
+      <OperatingPeriod>
+        <StartDate>2017-01-21</StartDate>
+      </OperatingPeriod>
+      <RegisteredOperatorRef>EY</RegisteredOperatorRef>
+      <StopRequirements>
+        <NoNewStopsRequired />
+      </StopRequirements>
+      <Mode>bus</Mode>
+      <Description>University - The Lawns ( Cottingham )</Description>
+      <StandardService>
+        <Origin>University</Origin>
+        <Destination>The Lawns ( Cottingham )</Destination>
+        <JourneyPattern id="JPS_YHAO107N-2">
+          <Direction>outbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YHAO107N-2</JourneyPatternSectionRefs>
+        </JourneyPattern>
+      </StandardService>
+    </Service>
+  </Services>
+  <VehicleJourneys>
+    <VehicleJourney>
+      <OperatorRef>EY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>6581</VehicleJourneyCode>
+      <ServiceRef>YHAO107N</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YHAO107N-2</JourneyPatternRef>
+      <Note>
+        <NoteCode>ut</NoteCode>
+        <NoteText>This service only operates during University Term Dates</NoteText>
+      </Note>
+      <DepartureTime>01:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>EY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>6582</VehicleJourneyCode>
+      <ServiceRef>YHAO107N</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YHAO107N-2</JourneyPatternRef>
+      <Note>
+        <NoteCode>ut</NoteCode>
+        <NoteText>This service only operates during University Term Dates</NoteText>
+      </Note>
+      <DepartureTime>02:15:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>EY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>6583</VehicleJourneyCode>
+      <ServiceRef>YHAO107N</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YHAO107N-2</JourneyPatternRef>
+      <Note>
+        <NoteCode>ut</NoteCode>
+        <NoteText>This service only operates during University Term Dates</NoteText>
+      </Note>
+      <DepartureTime>02:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>EY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>6584</VehicleJourneyCode>
+      <ServiceRef>YHAO107N</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YHAO107N-2</JourneyPatternRef>
+      <Note>
+        <NoteCode>ut</NoteCode>
+        <NoteText>This service only operates during University Term Dates</NoteText>
+      </Note>
+      <DepartureTime>03:15:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>EY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Thursday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>6585</VehicleJourneyCode>
+      <ServiceRef>YHAO107N</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YHAO107N-2</JourneyPatternRef>
+      <Note>
+        <NoteCode>utt</NoteCode>
+        <NoteText>This service only operates on Thursday's during Term Time</NoteText>
+      </Note>
+      <DepartureTime>01:45:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>EY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Thursday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>6586</VehicleJourneyCode>
+      <ServiceRef>YHAO107N</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YHAO107N-2</JourneyPatternRef>
+      <Note>
+        <NoteCode>utt</NoteCode>
+        <NoteText>This service only operates on Thursday's during Term Time</NoteText>
+      </Note>
+      <DepartureTime>02:15:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>EY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Thursday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>6587</VehicleJourneyCode>
+      <ServiceRef>YHAO107N</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YHAO107N-2</JourneyPatternRef>
+      <Note>
+        <NoteCode>utt</NoteCode>
+        <NoteText>This service only operates on Thursday's during Term Time</NoteText>
+      </Note>
+      <DepartureTime>02:45:00</DepartureTime>
+    </VehicleJourney>
+  </VehicleJourneys>
+</TransXChange>

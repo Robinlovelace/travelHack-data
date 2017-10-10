@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TransXChange xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.transxchange.org.uk/ http://www.transxchange.org.uk/schema/2.1/TransXChange_general.xsd" CreationDateTime="2017-09-18T09:33:00-00:00" ModificationDateTime="2017-09-18T09:33:00-00:00" Modification="new" RevisionNumber="0" FileName="SVRYEAO134.xml" SchemaVersion="2.1" RegistrationDocument="false" xmlns="http://www.transxchange.org.uk/">
+  <StopPoints>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00598</StopPointRef>
+      <CommonName>Skerne Main Street</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00386</StopPointRef>
+      <CommonName>Driffield Beverley Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00027</StopPointRef>
+      <CommonName>Driffield George Street</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00031</StopPointRef>
+      <CommonName>Driffield Middle St South</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00029</StopPointRef>
+      <CommonName>Driffield Middle Street South</CommonName>
+    </AnnotatedStopPointRef>
+  </StopPoints>
+  <RouteSections>
+    <RouteSection id="YEAO134_002">
+      <RouteLink id="YEAO134_002_3252">
+        <From>
+          <StopPointRef>2200YEA00598</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00386</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEAO134_002_3253">
+        <From>
+          <StopPointRef>2200YEA00386</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00027</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+    </RouteSection>
+    <RouteSection id="YEAO134_001">
+      <RouteLink id="YEAO134_001_3257">
+        <From>
+          <StopPointRef>2200YEA00027</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00031</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEAO134_001_3258">
+        <From>
+          <StopPointRef>2200YEA00031</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00029</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEAO134_001_3259">
+        <From>
+          <StopPointRef>2200YEA00029</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00598</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+    </RouteSection>
+  </RouteSections>
+  <Routes>
+    <Route id="YEAO134_002">
+      <Description>Skerne - Driffield
+</Description>
+      <RouteSectionRef>YEAO134_002</RouteSectionRef>
+    </Route>
+    <Route id="YEAO134_001">
+      <Description>Driffield - Skerne
+</Description>
+      <RouteSectionRef>YEAO134_001</RouteSectionRef>
+    </Route>
+  </Routes>
+  <JourneyPatternSections>
+    <JourneyPatternSection id="JPS_YEAO134-3">
+      <JourneyPatternTimingLink id="JPS_YEAO134-3_3252">
+        <From>
+          <StopPointRef>2200YEA00598</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00386</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEAO134_002_3252</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT479S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEAO134-3_3253">
+        <From>
+          <StopPointRef>2200YEA00386</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00027</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YEAO134_002_3253</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT121S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+    <JourneyPatternSection id="JPS_YEAO134-4">
+      <JourneyPatternTimingLink id="JPS_YEAO134-4_3257">
+        <From>
+          <StopPointRef>2200YEA00027</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00031</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEAO134_001_3257</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT8S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEAO134-4_3258">
+        <From>
+          <StopPointRef>2200YEA00031</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00029</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEAO134_001_3258</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT52S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEAO134-4_3259">
+        <From>
+          <StopPointRef>2200YEA00029</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00598</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YEAO134_001_3259</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT540S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+  </JourneyPatternSections>
+  <Operators>
+    <Operator id="EY">
+      <NationalOperatorCode>EYMS</NationalOperatorCode>
+      <OperatorCode>EY</OperatorCode>
+      <OperatorShortName>EYMS</OperatorShortName>
+    </Operator>
+  </Operators>
+  <Services>
+    <Service>
+      <ServiceCode>YEAO134</ServiceCode>
+      <Lines>
+        <Line id="0">
+          <LineName>134</LineName>
+        </Line>
+      </Lines>
+      <OperatingPeriod>
+        <StartDate>2009-09-07</StartDate>
+      </OperatingPeriod>
+      <RegisteredOperatorRef>EY</RegisteredOperatorRef>
+      <StopRequirements>
+        <NoNewStopsRequired />
+      </StopRequirements>
+      <Mode>bus</Mode>
+      <Description>Driffield - Skerne</Description>
+      <StandardService>
+        <Origin>Driffield</Origin>
+        <Destination>Skerne</Destination>
+        <JourneyPattern id="JPS_YEAO134-3">
+          <Direction>inbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YEAO134-3</JourneyPatternSectionRefs>
+        </JourneyPattern>
+        <JourneyPattern id="JPS_YEAO134-4">
+          <Direction>outbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YEAO134-4</JourneyPatternSectionRefs>
+        </JourneyPattern>
+      </StandardService>
+    </Service>
+  </Services>
+  <VehicleJourneys>
+    <VehicleJourney>
+      <OperatorRef>EY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Tuesday />
+            <Thursday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>544</VehicleJourneyCode>
+      <ServiceRef>YEAO134</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YEAO134-3</JourneyPatternRef>
+      <DepartureTime>10:20:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>EY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Tuesday />
+            <Thursday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>545</VehicleJourneyCode>
+      <ServiceRef>YEAO134</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YEAO134-3</JourneyPatternRef>
+      <DepartureTime>12:50:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>EY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Tuesday />
+            <Thursday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>546</VehicleJourneyCode>
+      <ServiceRef>YEAO134</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YEAO134-4</JourneyPatternRef>
+      <DepartureTime>10:10:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>EY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Tuesday />
+            <Thursday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>547</VehicleJourneyCode>
+      <ServiceRef>YEAO134</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YEAO134-4</JourneyPatternRef>
+      <DepartureTime>12:40:00</DepartureTime>
+    </VehicleJourney>
+  </VehicleJourneys>
+</TransXChange>

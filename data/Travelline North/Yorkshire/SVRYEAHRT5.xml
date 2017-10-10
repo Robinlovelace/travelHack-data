@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TransXChange xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.transxchange.org.uk/ http://www.transxchange.org.uk/schema/2.1/TransXChange_general.xsd" CreationDateTime="2017-09-18T09:34:00-00:00" ModificationDateTime="2017-09-18T09:34:00-00:00" Modification="new" RevisionNumber="0" FileName="SVRYEAHRT5.xml" SchemaVersion="2.1" RegistrationDocument="false" xmlns="http://www.transxchange.org.uk/">
+  <StopPoints>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2290YHA01620</StopPointRef>
+      <CommonName>Morrisons Superstore</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00894</StopPointRef>
+      <CommonName>Paull Main Street</CommonName>
+    </AnnotatedStopPointRef>
+  </StopPoints>
+  <RouteSections>
+    <RouteSection id="YEAHRT5_002">
+      <RouteLink id="YEAHRT5_002_445">
+        <From>
+          <StopPointRef>2290YHA01620</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00894</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+    </RouteSection>
+    <RouteSection id="YEAHRT5_001">
+      <RouteLink id="YEAHRT5_001_449">
+        <From>
+          <StopPointRef>2200YEA00894</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2290YHA01620</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+    </RouteSection>
+  </RouteSections>
+  <Routes>
+    <Route id="YEAHRT5_002">
+      <Description>Hull - Paull
+</Description>
+      <RouteSectionRef>YEAHRT5_002</RouteSectionRef>
+    </Route>
+    <Route id="YEAHRT5_001">
+      <Description>Paull - Hull
+</Description>
+      <RouteSectionRef>YEAHRT5_001</RouteSectionRef>
+    </Route>
+  </Routes>
+  <JourneyPatternSections>
+    <JourneyPatternSection id="JPS_YEAHRT5-3">
+      <JourneyPatternTimingLink id="JPS_YEAHRT5-3_445">
+        <From>
+          <StopPointRef>2290YHA01620</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00894</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YEAHRT5_002_445</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT1800S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+    <JourneyPatternSection id="JPS_YEAHRT5-4">
+      <JourneyPatternTimingLink id="JPS_YEAHRT5-4_449">
+        <From>
+          <StopPointRef>2200YEA00894</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2290YHA01620</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YEAHRT5_001_449</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT1800S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+  </JourneyPatternSections>
+  <Operators>
+    <Operator id="HAR">
+      <NationalOperatorCode>YHAR</NationalOperatorCode>
+      <OperatorCode>HAR</OperatorCode>
+      <OperatorShortName>North Holderness Communi</OperatorShortName>
+    </Operator>
+  </Operators>
+  <Services>
+    <Service>
+      <ServiceCode>YEAHRT5</ServiceCode>
+      <Lines>
+        <Line id="0">
+          <LineName>HRT5</LineName>
+        </Line>
+      </Lines>
+      <OperatingPeriod>
+        <StartDate>2014-03-17</StartDate>
+      </OperatingPeriod>
+      <RegisteredOperatorRef>HAR</RegisteredOperatorRef>
+      <StopRequirements>
+        <NoNewStopsRequired />
+      </StopRequirements>
+      <Mode>bus</Mode>
+      <Description>Paull - Hull</Description>
+      <StandardService>
+        <Origin>Paull</Origin>
+        <Destination>Hull</Destination>
+        <JourneyPattern id="JPS_YEAHRT5-3">
+          <Direction>inbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YEAHRT5-3</JourneyPatternSectionRefs>
+        </JourneyPattern>
+        <JourneyPattern id="JPS_YEAHRT5-4">
+          <Direction>outbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YEAHRT5-4</JourneyPatternSectionRefs>
+        </JourneyPattern>
+      </StandardService>
+    </Service>
+  </Services>
+  <VehicleJourneys>
+    <VehicleJourney>
+      <OperatorRef>HAR</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>45</VehicleJourneyCode>
+      <ServiceRef>YEAHRT5</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YEAHRT5-3</JourneyPatternRef>
+      <Note>
+        <NoteCode>R1</NoteCode>
+        <NoteText>Ring 08456445949 to book your seat</NoteText>
+      </Note>
+      <DepartureTime>13:15:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>HAR</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>46</VehicleJourneyCode>
+      <ServiceRef>YEAHRT5</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YEAHRT5-4</JourneyPatternRef>
+      <Note>
+        <NoteCode>R1</NoteCode>
+        <NoteText>Ring 08456445949 to book your seat</NoteText>
+      </Note>
+      <DepartureTime>11:30:00</DepartureTime>
+    </VehicleJourney>
+  </VehicleJourneys>
+</TransXChange>

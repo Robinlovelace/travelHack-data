@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TransXChange xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.transxchange.org.uk/ http://www.transxchange.org.uk/schema/2.1/TransXChange_general.xsd" CreationDateTime="2017-09-18T09:38:00-00:00" ModificationDateTime="2017-09-18T09:38:00-00:00" Modification="new" RevisionNumber="0" FileName="SVRYNMO830.xml" SchemaVersion="2.1" RegistrationDocument="false" xmlns="http://www.transxchange.org.uk/">
+  <StopPoints>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNB00988</StopPointRef>
+      <CommonName>Dales Countryside Museum</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNE02055</StopPointRef>
+      <CommonName>Post Office</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNA90943</StopPointRef>
+      <CommonName>Market Place</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNA91133</StopPointRef>
+      <CommonName>Ribblehead Station</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNA96724</StopPointRef>
+      <CommonName>Hill Inn</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNA96726</StopPointRef>
+      <CommonName>White Scar Caves</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNE04551</StopPointRef>
+      <CommonName>Community Centre</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNA96725</StopPointRef>
+      <CommonName>White Scar Caves</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNA96723</StopPointRef>
+      <CommonName>Hill Inn</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNA91134</StopPointRef>
+      <CommonName>Ribblehead Station</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNB00986</StopPointRef>
+      <CommonName>Market Place</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNB00987</StopPointRef>
+      <CommonName>Penn Lane</CommonName>
+    </AnnotatedStopPointRef>
+  </StopPoints>
+  <RouteSections>
+    <RouteSection id="YNMO830_001">
+      <RouteLink id="YNMO830_001_49325">
+        <From>
+          <StopPointRef>3200YNB00988</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNE02055</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNMO830_001_49326">
+        <From>
+          <StopPointRef>3200YNE02055</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNA90943</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNMO830_001_49327">
+        <From>
+          <StopPointRef>3200YNA90943</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNA91133</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNMO830_001_49328">
+        <From>
+          <StopPointRef>3200YNA91133</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNA96724</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNMO830_001_49329">
+        <From>
+          <StopPointRef>3200YNA96724</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNA96726</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNMO830_001_49330">
+        <From>
+          <StopPointRef>3200YNA96726</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNE04551</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+    </RouteSection>
+    <RouteSection id="YNMO830_002">
+      <RouteLink id="YNMO830_002_49332">
+        <From>
+          <StopPointRef>3200YNE04551</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNA96725</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNMO830_002_49333">
+        <From>
+          <StopPointRef>3200YNA96725</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNA96723</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNMO830_002_49334">
+        <From>
+          <StopPointRef>3200YNA96723</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNA91134</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNMO830_002_49335">
+        <From>
+          <StopPointRef>3200YNA91134</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNB00986</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNMO830_002_49336">
+        <From>
+          <StopPointRef>3200YNB00986</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNB00987</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNMO830_002_49337">
+        <From>
+          <StopPointRef>3200YNB00987</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNB00988</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+    </RouteSection>
+  </RouteSections>
+  <Routes>
+    <Route id="YNMO830_001">
+      <Description>Hawes - Ingleton
+</Description>
+      <RouteSectionRef>YNMO830_001</RouteSectionRef>
+    </Route>
+    <Route id="YNMO830_002">
+      <Description>Ingleton - Hawes
+</Description>
+      <RouteSectionRef>YNMO830_002</RouteSectionRef>
+    </Route>
+  </Routes>
+  <JourneyPatternSections>
+    <JourneyPatternSection id="JPS_YNMO830-3">
+      <JourneyPatternTimingLink id="JPS_YNMO830-3_49325">
+        <From>
+          <StopPointRef>3200YNB00988</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNE02055</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YNMO830_001_49325</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNMO830-3_49326">
+        <From>
+          <StopPointRef>3200YNE02055</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNA90943</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YNMO830_001_49326</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNMO830-3_49327">
+        <From>
+          <StopPointRef>3200YNA90943</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNA91133</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YNMO830_001_49327</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT1260S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNMO830-3_49328">
+        <From>
+          <StopPointRef>3200YNA91133</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNA96724</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YNMO830_001_49328</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT180S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNMO830-3_49329">
+        <From>
+          <StopPointRef>3200YNA96724</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNA96726</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YNMO830_001_49329</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT360S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNMO830-3_49330">
+        <From>
+          <StopPointRef>3200YNA96726</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNE04551</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YNMO830_001_49330</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT480S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+    <JourneyPatternSection id="JPS_YNMO830-4">
+      <JourneyPatternTimingLink id="JPS_YNMO830-4_49332">
+        <From>
+          <StopPointRef>3200YNE04551</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNA96725</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YNMO830_002_49332</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT240S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNMO830-4_49333">
+        <From>
+          <StopPointRef>3200YNA96725</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNA96723</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YNMO830_002_49333</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT240S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNMO830-4_49334">
+        <From>
+          <StopPointRef>3200YNA96723</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNA91134</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YNMO830_002_49334</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT180S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNMO830-4_49335">
+        <From>
+          <StopPointRef>3200YNA91134</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNB00986</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YNMO830_002_49335</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT1260S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNMO830-4_49336">
+        <From>
+          <StopPointRef>3200YNB00986</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNB00987</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YNMO830_002_49336</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNMO830-4_49337">
+        <From>
+          <StopPointRef>3200YNB00987</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNB00988</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YNMO830_002_49337</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+  </JourneyPatternSections>
+  <Operators>
+    <Operator id="ANED">
+      <NationalOperatorCode>ANEA</NationalOperatorCode>
+      <OperatorCode>ANED</OperatorCode>
+      <OperatorShortName>Arriva North East</OperatorShortName>
+    </Operator>
+  </Operators>
+  <Services>
+    <Service>
+      <ServiceCode>YNMO830</ServiceCode>
+      <Lines>
+        <Line id="0">
+          <LineName>830</LineName>
+        </Line>
+      </Lines>
+      <OperatingPeriod>
+        <StartDate>2017-05-07</StartDate>
+        <EndDate>2017-09-24</EndDate>
+      </OperatingPeriod>
+      <RegisteredOperatorRef>ANED</RegisteredOperatorRef>
+      <StopRequirements>
+        <NoNewStopsRequired />
+      </StopRequirements>
+      <Mode>bus</Mode>
+      <Description>Hawes - Ingleton</Description>
+      <StandardService>
+        <Origin>Hawes</Origin>
+        <Destination>Ingleton</Destination>
+        <JourneyPattern id="JPS_YNMO830-3">
+          <Direction>outbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YNMO830-3</JourneyPatternSectionRefs>
+        </JourneyPattern>
+        <JourneyPattern id="JPS_YNMO830-4">
+          <Direction>inbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YNMO830-4</JourneyPatternSectionRefs>
+        </JourneyPattern>
+      </StandardService>
+    </Service>
+  </Services>
+  <VehicleJourneys>
+    <VehicleJourney>
+      <OperatorRef>ANED</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>71847</VehicleJourneyCode>
+      <ServiceRef>YNMO830</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YNMO830-3</JourneyPatternRef>
+      <DepartureTime>12:10:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>ANED</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>71848</VehicleJourneyCode>
+      <ServiceRef>YNMO830</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YNMO830-3</JourneyPatternRef>
+      <DepartureTime>14:40:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>ANED</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>71849</VehicleJourneyCode>
+      <ServiceRef>YNMO830</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YNMO830-4</JourneyPatternRef>
+      <DepartureTime>13:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>ANED</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>71850</VehicleJourneyCode>
+      <ServiceRef>YNMO830</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YNMO830-4</JourneyPatternRef>
+      <DepartureTime>16:00:00</DepartureTime>
+    </VehicleJourney>
+  </VehicleJourneys>
+</TransXChange>

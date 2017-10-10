@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TransXChange xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.transxchange.org.uk/ http://www.transxchange.org.uk/schema/2.1/TransXChange_general.xsd" CreationDateTime="2017-09-18T09:39:00-00:00" ModificationDateTime="2017-09-18T09:39:00-00:00" Modification="new" RevisionNumber="0" FileName="SVRYNAR001A.xml" SchemaVersion="2.1" RegistrationDocument="false" xmlns="http://www.transxchange.org.uk/">
+  <StopPoints>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNA90320</StopPointRef>
+      <CommonName>Travellers Rest</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNA90322</StopPointRef>
+      <CommonName>Springfield</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNA90326</StopPointRef>
+      <CommonName>The Police House</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNA90328</StopPointRef>
+      <CommonName>Shoulder Of Mutton</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNA90333</StopPointRef>
+      <CommonName>Village</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNA90335</StopPointRef>
+      <CommonName>The Green</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNA90338</StopPointRef>
+      <CommonName>The Farmers Arms</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNA90256</StopPointRef>
+      <CommonName>Catterick Race Course</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNA90258</StopPointRef>
+      <CommonName>Mowbray Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNA90259</StopPointRef>
+      <CommonName>The Angel</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNA90260</StopPointRef>
+      <CommonName>High Green</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNA90257</StopPointRef>
+      <CommonName>Mowbray Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNA90255</StopPointRef>
+      <CommonName>Catterick Race Course</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNA90339</StopPointRef>
+      <CommonName>The Farmers Arms</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNA90337</StopPointRef>
+      <CommonName>Brompton Cross Roads</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNA90336</StopPointRef>
+      <CommonName>The White Heifer</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNA90334</StopPointRef>
+      <CommonName>Village</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNB00276</StopPointRef>
+      <CommonName>Shoulder Of Mutton</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNA90327</StopPointRef>
+      <CommonName>Westfield Gardens</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNA90325</StopPointRef>
+      <CommonName>Scotch Corner Services</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNA90321</StopPointRef>
+      <CommonName>Springfield</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>3200YNA90319</StopPointRef>
+      <CommonName>Travellers Rest</CommonName>
+    </AnnotatedStopPointRef>
+  </StopPoints>
+  <RouteSections>
+    <RouteSection id="YNAR001A001">
+      <RouteLink id="YNAR001A001_34013">
+        <From>
+          <StopPointRef>3200YNA90320</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNA90322</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNAR001A001_34014">
+        <From>
+          <StopPointRef>3200YNA90322</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNA90326</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNAR001A001_34015">
+        <From>
+          <StopPointRef>3200YNA90326</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNA90328</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNAR001A001_34016">
+        <From>
+          <StopPointRef>3200YNA90328</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNA90333</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNAR001A001_34017">
+        <From>
+          <StopPointRef>3200YNA90333</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNA90335</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNAR001A001_34018">
+        <From>
+          <StopPointRef>3200YNA90335</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNA90338</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNAR001A001_34019">
+        <From>
+          <StopPointRef>3200YNA90338</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNA90256</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNAR001A001_34020">
+        <From>
+          <StopPointRef>3200YNA90256</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNA90258</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNAR001A001_34021">
+        <From>
+          <StopPointRef>3200YNA90258</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNA90259</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+    </RouteSection>
+    <RouteSection id="YNAR001A002">
+      <RouteLink id="YNAR001A002_34023">
+        <From>
+          <StopPointRef>3200YNA90260</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNA90257</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNAR001A002_34024">
+        <From>
+          <StopPointRef>3200YNA90257</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNA90255</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNAR001A002_34025">
+        <From>
+          <StopPointRef>3200YNA90255</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNA90339</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNAR001A002_34026">
+        <From>
+          <StopPointRef>3200YNA90339</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNA90337</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNAR001A002_34027">
+        <From>
+          <StopPointRef>3200YNA90337</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNA90336</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNAR001A002_34028">
+        <From>
+          <StopPointRef>3200YNA90336</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNA90334</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNAR001A002_34029">
+        <From>
+          <StopPointRef>3200YNA90334</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNB00276</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNAR001A002_34030">
+        <From>
+          <StopPointRef>3200YNB00276</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNA90327</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNAR001A002_34031">
+        <From>
+          <StopPointRef>3200YNA90327</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNA90325</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNAR001A002_34032">
+        <From>
+          <StopPointRef>3200YNA90325</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNA90321</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+      <RouteLink id="YNAR001A002_34033">
+        <From>
+          <StopPointRef>3200YNA90321</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>3200YNA90319</StopPointRef>
+        </To>
+        <Direction>inbound</Direction>
+      </RouteLink>
+    </RouteSection>
+  </RouteSections>
+  <Routes>
+    <Route id="YNAR001A001">
+      <Description>Skeeby - Catterick
+</Description>
+      <RouteSectionRef>YNAR001A001</RouteSectionRef>
+    </Route>
+    <Route id="YNAR001A002">
+      <Description>Catterick - Skeeby
+</Description>
+      <RouteSectionRef>YNAR001A002</RouteSectionRef>
+    </Route>
+  </Routes>
+  <JourneyPatternSections>
+    <JourneyPatternSection id="JPS_YNAR001A-3">
+      <JourneyPatternTimingLink id="JPS_YNAR001A-3_34013">
+        <From>
+          <StopPointRef>3200YNA90320</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNA90322</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YNAR001A001_34013</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNAR001A-3_34014">
+        <From>
+          <StopPointRef>3200YNA90322</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNA90326</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YNAR001A001_34014</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT240S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNAR001A-3_34015">
+        <From>
+          <StopPointRef>3200YNA90326</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNA90328</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YNAR001A001_34015</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNAR001A-3_34016">
+        <From>
+          <StopPointRef>3200YNA90328</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNA90333</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YNAR001A001_34016</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT300S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNAR001A-3_34017">
+        <From>
+          <StopPointRef>3200YNA90333</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNA90335</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YNAR001A001_34017</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT300S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNAR001A-3_34018">
+        <From>
+          <StopPointRef>3200YNA90335</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNA90338</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YNAR001A001_34018</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNAR001A-3_34019">
+        <From>
+          <StopPointRef>3200YNA90338</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNA90256</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YNAR001A001_34019</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNAR001A-3_34020">
+        <From>
+          <StopPointRef>3200YNA90256</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNA90258</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YNAR001A001_34020</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNAR001A-3_34021">
+        <From>
+          <StopPointRef>3200YNA90258</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNA90259</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YNAR001A001_34021</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT300S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+    <JourneyPatternSection id="JPS_YNAR001A-4">
+      <JourneyPatternTimingLink id="JPS_YNAR001A-4_34023">
+        <From>
+          <StopPointRef>3200YNA90260</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNA90257</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YNAR001A002_34023</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT300S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNAR001A-4_34024">
+        <From>
+          <StopPointRef>3200YNA90257</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNA90255</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YNAR001A002_34024</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNAR001A-4_34025">
+        <From>
+          <StopPointRef>3200YNA90255</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNA90339</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YNAR001A002_34025</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNAR001A-4_34026">
+        <From>
+          <StopPointRef>3200YNA90339</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNA90337</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YNAR001A002_34026</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNAR001A-4_34027">
+        <From>
+          <StopPointRef>3200YNA90337</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNA90336</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YNAR001A002_34027</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT180S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNAR001A-4_34028">
+        <From>
+          <StopPointRef>3200YNA90336</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNA90334</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YNAR001A002_34028</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT300S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNAR001A-4_34029">
+        <From>
+          <StopPointRef>3200YNA90334</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNB00276</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YNAR001A002_34029</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT300S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNAR001A-4_34030">
+        <From>
+          <StopPointRef>3200YNB00276</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNA90327</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YNAR001A002_34030</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNAR001A-4_34031">
+        <From>
+          <StopPointRef>3200YNA90327</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNA90325</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YNAR001A002_34031</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNAR001A-4_34032">
+        <From>
+          <StopPointRef>3200YNA90325</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNA90321</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YNAR001A002_34032</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT180S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YNAR001A-4_34033">
+        <From>
+          <StopPointRef>3200YNA90321</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>3200YNA90319</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YNAR001A002_34033</RouteLinkRef>
+        <Direction>inbound</Direction>
+        <RunTime>PT60S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+  </JourneyPatternSections>
+  <Operators>
+    <Operator id="UWCO">
+      <NationalOperatorCode>UWCO</NationalOperatorCode>
+      <OperatorCode>UWCO</OperatorCode>
+      <OperatorShortName>The Little White Bus</OperatorShortName>
+    </Operator>
+  </Operators>
+  <Services>
+    <Service>
+      <ServiceCode>YNAR001A</ServiceCode>
+      <Lines>
+        <Line id="0">
+          <LineName>RR1A</LineName>
+        </Line>
+      </Lines>
+      <OperatingPeriod>
+        <StartDate>2016-11-28</StartDate>
+        <EndDate>2038-01-17</EndDate>
+      </OperatingPeriod>
+      <RegisteredOperatorRef>UWCO</RegisteredOperatorRef>
+      <StopRequirements>
+        <NoNewStopsRequired />
+      </StopRequirements>
+      <Mode>bus</Mode>
+      <Description>Skeeby - Catterick</Description>
+      <StandardService>
+        <Origin>Skeeby</Origin>
+        <Destination>Catterick</Destination>
+        <JourneyPattern id="JPS_YNAR001A-3">
+          <Direction>outbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YNAR001A-3</JourneyPatternSectionRefs>
+        </JourneyPattern>
+        <JourneyPattern id="JPS_YNAR001A-4">
+          <Direction>inbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YNAR001A-4</JourneyPatternSectionRefs>
+        </JourneyPattern>
+      </StandardService>
+    </Service>
+  </Services>
+  <VehicleJourneys>
+    <VehicleJourney>
+      <OperatorRef>UWCO</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Thursday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>72512</VehicleJourneyCode>
+      <ServiceRef>YNAR001A</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YNAR001A-3</JourneyPatternRef>
+      <DepartureTime>10:00:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>UWCO</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Thursday />
+          </DaysOfWeek>
+        </RegularDayType>
+      </OperatingProfile>
+      <VehicleJourneyCode>72513</VehicleJourneyCode>
+      <ServiceRef>YNAR001A</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YNAR001A-4</JourneyPatternRef>
+      <DepartureTime>13:30:00</DepartureTime>
+    </VehicleJourney>
+  </VehicleJourneys>
+</TransXChange>

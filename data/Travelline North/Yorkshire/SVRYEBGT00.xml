@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TransXChange xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.transxchange.org.uk/ http://www.transxchange.org.uk/schema/2.1/TransXChange_general.xsd" CreationDateTime="2017-09-18T09:34:00-00:00" ModificationDateTime="2017-09-18T09:34:00-00:00" Modification="new" RevisionNumber="0" FileName="SVRYEBGT00.xml" SchemaVersion="2.1" RegistrationDocument="false" xmlns="http://www.transxchange.org.uk/">
+  <StopPoints>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00088</StopPointRef>
+      <CommonName>Goole Cottingham Street</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEZ01293</StopPointRef>
+      <CommonName>Old Goole Swinefleet Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00003</StopPointRef>
+      <CommonName>Goole North Street</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEZ01294</StopPointRef>
+      <CommonName>Goole Hook Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00081</StopPointRef>
+      <CommonName>Goole Hook Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEZ01295</StopPointRef>
+      <CommonName>Goole Fairfield Estate</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00080</StopPointRef>
+      <CommonName>Goole Hook Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEZ01296</StopPointRef>
+      <CommonName>Goole Lime Tree Avenue</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00001</StopPointRef>
+      <CommonName>Supermarket</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00082</StopPointRef>
+      <CommonName>Goole Stanhope Street</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEZ01303</StopPointRef>
+      <CommonName>Goole Pasture Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00097</StopPointRef>
+      <CommonName>Goole Hospital Grounds</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00627</StopPointRef>
+      <CommonName>Goole Western Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00626</StopPointRef>
+      <CommonName>Goole Ilkeston Avenue</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00103</StopPointRef>
+      <CommonName>Goole Clifton Gardens</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEZ01297</StopPointRef>
+      <CommonName>Goole Grange Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEZ01304</StopPointRef>
+      <CommonName>Goole Larsen Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA11735</StopPointRef>
+      <CommonName>Goole Junction 36</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA01594</StopPointRef>
+      <CommonName>Goole Rawcliffe Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00090</StopPointRef>
+      <CommonName>Goole Rawcliffe Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00106</StopPointRef>
+      <CommonName>Goole Boothferry Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA11863</StopPointRef>
+      <CommonName>Goole Boothferry Rd</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00095</StopPointRef>
+      <CommonName>Goole Boothferry Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00084</StopPointRef>
+      <CommonName>Goole Mariners Street</CommonName>
+    </AnnotatedStopPointRef>
+  </StopPoints>
+  <RouteSections>
+    <RouteSection id="YEBGT00_006">
+      <RouteLink id="YEBGT00_006_7946">
+        <From>
+          <StopPointRef>2200YEA00088</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEZ01293</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEBGT00_006_7947">
+        <From>
+          <StopPointRef>2200YEZ01293</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00003</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEBGT00_006_7948">
+        <From>
+          <StopPointRef>2200YEA00003</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEZ01294</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEBGT00_006_7949">
+        <From>
+          <StopPointRef>2200YEZ01294</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00081</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEBGT00_006_7950">
+        <From>
+          <StopPointRef>2200YEA00081</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEZ01295</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEBGT00_006_7951">
+        <From>
+          <StopPointRef>2200YEZ01295</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00080</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEBGT00_006_7952">
+        <From>
+          <StopPointRef>2200YEA00080</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEZ01296</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEBGT00_006_7953">
+        <From>
+          <StopPointRef>2200YEZ01296</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00001</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEBGT00_006_7954">
+        <From>
+          <StopPointRef>2200YEA00001</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00082</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEBGT00_006_7955">
+        <From>
+          <StopPointRef>2200YEA00082</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEZ01303</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEBGT00_006_7956">
+        <From>
+          <StopPointRef>2200YEZ01303</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00097</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEBGT00_006_7957">
+        <From>
+          <StopPointRef>2200YEA00097</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00627</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEBGT00_006_7958">
+        <From>
+          <StopPointRef>2200YEA00627</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00626</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEBGT00_006_7959">
+        <From>
+          <StopPointRef>2200YEA00626</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00103</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEBGT00_006_7960">
+        <From>
+          <StopPointRef>2200YEA00103</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEZ01297</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEBGT00_006_7961">
+        <From>
+          <StopPointRef>2200YEZ01297</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEZ01304</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEBGT00_006_7962">
+        <From>
+          <StopPointRef>2200YEZ01304</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA11735</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEBGT00_006_7963">
+        <From>
+          <StopPointRef>2200YEA11735</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA01594</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEBGT00_006_7964">
+        <From>
+          <StopPointRef>2200YEA01594</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00090</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEBGT00_006_7965">
+        <From>
+          <StopPointRef>2200YEA00090</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00106</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEBGT00_006_7966">
+        <From>
+          <StopPointRef>2200YEA00106</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA11863</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEBGT00_006_7967">
+        <From>
+          <StopPointRef>2200YEA11863</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00095</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEBGT00_006_7968">
+        <From>
+          <StopPointRef>2200YEA00095</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00084</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEBGT00_006_7969">
+        <From>
+          <StopPointRef>2200YEA00084</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00088</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+    </RouteSection>
+  </RouteSections>
+  <Routes>
+    <Route id="YEBGT00_006">
+      <Description>Goole Town - Morning Service (Circular Service)
+</Description>
+      <RouteSectionRef>YEBGT00_006</RouteSectionRef>
+    </Route>
+  </Routes>
+  <JourneyPatternSections>
+    <JourneyPatternSection id="JPS_YEBGT00-2">
+      <JourneyPatternTimingLink id="JPS_YEBGT00-2_7946">
+        <From>
+          <StopPointRef>2200YEA00088</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEZ01293</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEBGT00_006_7946</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT307S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEBGT00-2_7947">
+        <From>
+          <StopPointRef>2200YEZ01293</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00003</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YEBGT00_006_7947</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT233S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEBGT00-2_7948">
+        <From>
+          <StopPointRef>2200YEA00003</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEZ01294</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEBGT00_006_7948</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT147S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEBGT00-2_7949">
+        <From>
+          <StopPointRef>2200YEZ01294</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00081</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEBGT00_006_7949</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT150S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEBGT00-2_7950">
+        <From>
+          <StopPointRef>2200YEA00081</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEZ01295</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YEBGT00_006_7950</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT63S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEBGT00-2_7951">
+        <From>
+          <StopPointRef>2200YEZ01295</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00080</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEBGT00_006_7951</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT121S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEBGT00-2_7952">
+        <From>
+          <StopPointRef>2200YEA00080</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEZ01296</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YEBGT00_006_7952</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT239S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEBGT00-2_7953">
+        <From>
+          <StopPointRef>2200YEZ01296</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00001</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YEBGT00_006_7953</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEBGT00-2_7954">
+        <From>
+          <StopPointRef>2200YEA00001</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00082</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEBGT00_006_7954</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT76S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEBGT00-2_7955">
+        <From>
+          <StopPointRef>2200YEA00082</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEZ01303</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YEBGT00_006_7955</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT104S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEBGT00-2_7956">
+        <From>
+          <StopPointRef>2200YEZ01303</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00097</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YEBGT00_006_7956</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT300S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEBGT00-2_7957">
+        <From>
+          <StopPointRef>2200YEA00097</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00627</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YEBGT00_006_7957</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEBGT00-2_7958">
+        <From>
+          <StopPointRef>2200YEA00627</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00626</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YEBGT00_006_7958</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEBGT00-2_7959">
+        <From>
+          <StopPointRef>2200YEA00626</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00103</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YEBGT00_006_7959</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEBGT00-2_7960">
+        <From>
+          <StopPointRef>2200YEA00103</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEZ01297</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YEBGT00_006_7960</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT120S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEBGT00-2_7961">
+        <From>
+          <StopPointRef>2200YEZ01297</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEZ01304</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YEBGT00_006_7961</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT240S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEBGT00-2_7962">
+        <From>
+          <StopPointRef>2200YEZ01304</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA11735</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YEBGT00_006_7962</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT180S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEBGT00-2_7963">
+        <From>
+          <StopPointRef>2200YEA11735</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA01594</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEBGT00_006_7963</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT89S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEBGT00-2_7964">
+        <From>
+          <StopPointRef>2200YEA01594</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00090</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEBGT00_006_7964</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT32S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEBGT00-2_7965">
+        <From>
+          <StopPointRef>2200YEA00090</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00106</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEBGT00_006_7965</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT27S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEBGT00-2_7966">
+        <From>
+          <StopPointRef>2200YEA00106</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA11863</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEBGT00_006_7966</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT20S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEBGT00-2_7967">
+        <From>
+          <StopPointRef>2200YEA11863</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00095</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YEBGT00_006_7967</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT12S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEBGT00-2_7968">
+        <From>
+          <StopPointRef>2200YEA00095</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00084</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YEBGT00_006_7968</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT300S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEBGT00-2_7969">
+        <From>
+          <StopPointRef>2200YEA00084</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00088</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YEBGT00_006_7969</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT300S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+  </JourneyPatternSections>
+  <Operators>
+    <Operator id="EY">
+      <NationalOperatorCode>EYMS</NationalOperatorCode>
+      <OperatorCode>EY</OperatorCode>
+      <OperatorShortName>EYMS</OperatorShortName>
+    </Operator>
+  </Operators>
+  <Services>
+    <Service>
+      <ServiceCode>YEBGT00</ServiceCode>
+      <Lines>
+        <Line id="0">
+          <LineName>GT</LineName>
+        </Line>
+      </Lines>
+      <OperatingPeriod>
+        <StartDate>2011-10-03</StartDate>
+      </OperatingPeriod>
+      <RegisteredOperatorRef>EY</RegisteredOperatorRef>
+      <StopRequirements>
+        <NoNewStopsRequired />
+      </StopRequirements>
+      <Mode>bus</Mode>
+      <Description>Goole Town - Morning Service (Circular Service)</Description>
+      <StandardService>
+        <Origin>Goole Town</Origin>
+        <Destination>Morning Service (Circular Service)</Destination>
+        <JourneyPattern id="JPS_YEBGT00-2">
+          <Direction>outbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YEBGT00-2</JourneyPatternSectionRefs>
+        </JourneyPattern>
+      </StandardService>
+    </Service>
+  </Services>
+  <VehicleJourneys>
+    <VehicleJourney>
+      <OperatorRef>EY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2011-10-03</StartDate>
+              <EndDate>2015-06-29</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+        <BankHolidayOperation>
+          <DaysOfNonOperation>
+            <LateSummerBankHolidayNotScotland />
+          </DaysOfNonOperation>
+        </BankHolidayOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>1417</VehicleJourneyCode>
+      <ServiceRef>YEBGT00</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YEBGT00-2</JourneyPatternRef>
+      <DepartureTime>06:30:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>EY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2011-10-03</StartDate>
+              <EndDate>2015-06-29</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+        <BankHolidayOperation>
+          <DaysOfNonOperation>
+            <LateSummerBankHolidayNotScotland />
+          </DaysOfNonOperation>
+        </BankHolidayOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>1418</VehicleJourneyCode>
+      <ServiceRef>YEBGT00</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YEBGT00-2</JourneyPatternRef>
+      <DepartureTime>07:30:00</DepartureTime>
+    </VehicleJourney>
+  </VehicleJourneys>
+</TransXChange>

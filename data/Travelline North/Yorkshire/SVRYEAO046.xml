@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TransXChange xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.transxchange.org.uk/ http://www.transxchange.org.uk/schema/2.1/TransXChange_general.xsd" CreationDateTime="2017-09-18T09:34:00-00:00" ModificationDateTime="2017-09-18T09:34:00-00:00" Modification="new" RevisionNumber="0" FileName="SVRYEAO046.xml" SchemaVersion="2.1" RegistrationDocument="false" xmlns="http://www.transxchange.org.uk/">
+  <StopPoints>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEZ01251</StopPointRef>
+      <CommonName>Bridlington Bus Station</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA01636</StopPointRef>
+      <CommonName>Bridlington Promenade</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA01629</StopPointRef>
+      <CommonName>Bridlington Queen Street</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00418</StopPointRef>
+      <CommonName>Bridlington Hilderthorpe Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00420</StopPointRef>
+      <CommonName>Bridlington Hilderthorpe Rd</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00035</StopPointRef>
+      <CommonName>Bridlington Hilderthorpe Rd</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00423</StopPointRef>
+      <CommonName>Bridlington Bessingby Rd</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00424</StopPointRef>
+      <CommonName>Bridlington Bessingby Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00584</StopPointRef>
+      <CommonName>Bridlington Bessingby Hill</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA01077</StopPointRef>
+      <CommonName>Carnaby Main Street</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA01080</StopPointRef>
+      <CommonName>Thornholme A614</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA01082</StopPointRef>
+      <CommonName>Burton Agnes Main Street</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA01084</StopPointRef>
+      <CommonName>Burton Agnes Hospital Hill</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA01100</StopPointRef>
+      <CommonName>A614 Bracey Bridge</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA01097</StopPointRef>
+      <CommonName>Ruston Parva Jnt</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA01035</StopPointRef>
+      <CommonName>Nafferton North Street</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00515</StopPointRef>
+      <CommonName>Nafferton Driffield Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA01033</StopPointRef>
+      <CommonName>Nafferton Driffield Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00513</StopPointRef>
+      <CommonName>Driffield Bridlington Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA11862</StopPointRef>
+      <CommonName>Driffield Bridlington Rd</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00511</StopPointRef>
+      <CommonName>Driffield Bridlington Road</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00031</StopPointRef>
+      <CommonName>Driffield Middle St South</CommonName>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2200YEA00029</StopPointRef>
+      <CommonName>Driffield Middle Street South</CommonName>
+    </AnnotatedStopPointRef>
+  </StopPoints>
+  <RouteSections>
+    <RouteSection id="YEAO046_005">
+      <RouteLink id="YEAO046_005_8250">
+        <From>
+          <StopPointRef>2200YEZ01251</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA01636</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEAO046_005_8251">
+        <From>
+          <StopPointRef>2200YEA01636</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA01629</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEAO046_005_8252">
+        <From>
+          <StopPointRef>2200YEA01629</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00418</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEAO046_005_8253">
+        <From>
+          <StopPointRef>2200YEA00418</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00420</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEAO046_005_8254">
+        <From>
+          <StopPointRef>2200YEA00420</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00035</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEAO046_005_8255">
+        <From>
+          <StopPointRef>2200YEA00035</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00423</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEAO046_005_8256">
+        <From>
+          <StopPointRef>2200YEA00423</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00424</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEAO046_005_8257">
+        <From>
+          <StopPointRef>2200YEA00424</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00584</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEAO046_005_8258">
+        <From>
+          <StopPointRef>2200YEA00584</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA01077</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEAO046_005_8259">
+        <From>
+          <StopPointRef>2200YEA01077</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA01080</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEAO046_005_8260">
+        <From>
+          <StopPointRef>2200YEA01080</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA01082</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEAO046_005_8261">
+        <From>
+          <StopPointRef>2200YEA01082</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA01084</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEAO046_005_8262">
+        <From>
+          <StopPointRef>2200YEA01084</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA01100</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEAO046_005_8263">
+        <From>
+          <StopPointRef>2200YEA01100</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA01097</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEAO046_005_8264">
+        <From>
+          <StopPointRef>2200YEA01097</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA01035</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEAO046_005_8265">
+        <From>
+          <StopPointRef>2200YEA01035</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00515</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEAO046_005_8266">
+        <From>
+          <StopPointRef>2200YEA00515</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA01033</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEAO046_005_8267">
+        <From>
+          <StopPointRef>2200YEA01033</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00513</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEAO046_005_8268">
+        <From>
+          <StopPointRef>2200YEA00513</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA11862</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEAO046_005_8269">
+        <From>
+          <StopPointRef>2200YEA11862</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00511</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEAO046_005_8270">
+        <From>
+          <StopPointRef>2200YEA00511</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00031</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+      <RouteLink id="YEAO046_005_8271">
+        <From>
+          <StopPointRef>2200YEA00031</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00029</StopPointRef>
+        </To>
+        <Direction>outbound</Direction>
+      </RouteLink>
+    </RouteSection>
+  </RouteSections>
+  <Routes>
+    <Route id="YEAO046_005">
+      <Description>Bridlington - Driffield
+</Description>
+      <RouteSectionRef>YEAO046_005</RouteSectionRef>
+    </Route>
+  </Routes>
+  <JourneyPatternSections>
+    <JourneyPatternSection id="JPS_YEAO046-2">
+      <JourneyPatternTimingLink id="JPS_YEAO046-2_8250">
+        <From>
+          <StopPointRef>2200YEZ01251</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA01636</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEAO046_005_8250</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT29S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEAO046-2_8251">
+        <From>
+          <StopPointRef>2200YEA01636</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA01629</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEAO046_005_8251</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT31S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEAO046-2_8252">
+        <From>
+          <StopPointRef>2200YEA01629</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00418</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEAO046_005_8252</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT20S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEAO046-2_8253">
+        <From>
+          <StopPointRef>2200YEA00418</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00420</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEAO046_005_8253</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT37S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEAO046-2_8254">
+        <From>
+          <StopPointRef>2200YEA00420</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00035</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEAO046_005_8254</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT43S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEAO046-2_8255">
+        <From>
+          <StopPointRef>2200YEA00035</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00423</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEAO046_005_8255</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT91S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEAO046-2_8256">
+        <From>
+          <StopPointRef>2200YEA00423</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00424</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEAO046_005_8256</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT78S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEAO046-2_8257">
+        <From>
+          <StopPointRef>2200YEA00424</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00584</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEAO046_005_8257</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT77S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEAO046-2_8258">
+        <From>
+          <StopPointRef>2200YEA00584</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA01077</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YEAO046_005_8258</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT314S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEAO046-2_8259">
+        <From>
+          <StopPointRef>2200YEA01077</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA01080</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEAO046_005_8259</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT245S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEAO046-2_8260">
+        <From>
+          <StopPointRef>2200YEA01080</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA01082</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEAO046_005_8260</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT82S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEAO046-2_8261">
+        <From>
+          <StopPointRef>2200YEA01082</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA01084</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YEAO046_005_8261</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT33S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEAO046-2_8262">
+        <From>
+          <StopPointRef>2200YEA01084</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA01100</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEAO046_005_8262</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT145S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEAO046-2_8263">
+        <From>
+          <StopPointRef>2200YEA01100</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA01097</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEAO046_005_8263</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT92S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEAO046-2_8264">
+        <From>
+          <StopPointRef>2200YEA01097</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA01035</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEAO046_005_8264</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT161S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEAO046-2_8265">
+        <From>
+          <StopPointRef>2200YEA01035</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00515</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YEAO046_005_8265</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT22S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEAO046-2_8266">
+        <From>
+          <StopPointRef>2200YEA00515</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA01033</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEAO046_005_8266</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT36S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEAO046-2_8267">
+        <From>
+          <StopPointRef>2200YEA01033</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00513</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEAO046_005_8267</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT274S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEAO046-2_8268">
+        <From>
+          <StopPointRef>2200YEA00513</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA11862</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEAO046_005_8268</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT62S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEAO046-2_8269">
+        <From>
+          <StopPointRef>2200YEA11862</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00511</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEAO046_005_8269</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT41S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEAO046-2_8270">
+        <From>
+          <StopPointRef>2200YEA00511</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00031</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </To>
+        <RouteLinkRef>YEAO046_005_8270</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT83S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="JPS_YEAO046-2_8271">
+        <From>
+          <StopPointRef>2200YEA00031</StopPointRef>
+          <TimingStatus>OTH</TimingStatus>
+        </From>
+        <To>
+          <StopPointRef>2200YEA00029</StopPointRef>
+          <TimingStatus>PTP</TimingStatus>
+        </To>
+        <RouteLinkRef>YEAO046_005_8271</RouteLinkRef>
+        <Direction>outbound</Direction>
+        <RunTime>PT44S</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+  </JourneyPatternSections>
+  <Operators>
+    <Operator id="EY">
+      <NationalOperatorCode>EYMS</NationalOperatorCode>
+      <OperatorCode>EY</OperatorCode>
+      <OperatorShortName>EYMS</OperatorShortName>
+    </Operator>
+    <Operator id="UNKWN">
+      <OperatorCode>UNKWN</OperatorCode>
+      <OperatorShortName>UNKWN</OperatorShortName>
+    </Operator>
+  </Operators>
+  <Services>
+    <Service>
+      <ServiceCode>YEAO046</ServiceCode>
+      <Lines>
+        <Line id="0">
+          <LineName>46</LineName>
+        </Line>
+      </Lines>
+      <OperatingPeriod>
+        <StartDate>2017-05-21</StartDate>
+      </OperatingPeriod>
+      <RegisteredOperatorRef>EY</RegisteredOperatorRef>
+      <StopRequirements>
+        <NoNewStopsRequired />
+      </StopRequirements>
+      <Mode>bus</Mode>
+      <Description>Bridlington - Driffield</Description>
+      <StandardService>
+        <Origin>Bridlington</Origin>
+        <Destination>Driffield</Destination>
+        <JourneyPattern id="JPS_YEAO046-2">
+          <Direction>outbound</Direction>
+          <JourneyPatternSectionRefs>JPS_YEAO046-2</JourneyPatternSectionRefs>
+        </JourneyPattern>
+      </StandardService>
+    </Service>
+  </Services>
+  <VehicleJourneys>
+    <VehicleJourney>
+      <OperatorRef>EY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Monday />
+            <Tuesday />
+            <Wednesday />
+            <Thursday />
+            <Friday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-05-21</StartDate>
+              <EndDate>2017-08-28</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>1469</VehicleJourneyCode>
+      <ServiceRef>YEAO046</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YEAO046-2</JourneyPatternRef>
+      <DepartureTime>16:35:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>EY</OperatorRef>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Saturday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <SpecialDaysOperation>
+          <DaysOfNonOperation>
+            <DateRange>
+              <StartDate>2017-05-21</StartDate>
+              <EndDate>2017-08-28</EndDate>
+            </DateRange>
+          </DaysOfNonOperation>
+        </SpecialDaysOperation>
+      </OperatingProfile>
+      <VehicleJourneyCode>1474</VehicleJourneyCode>
+      <ServiceRef>YEAO046</ServiceRef>
+      <LineRef>0</LineRef>
+      <JourneyPatternRef>JPS_YEAO046-2</JourneyPatternRef>
+      <DepartureTime>16:35:00</DepartureTime>
+    </VehicleJourney>
+  </VehicleJourneys>
+</TransXChange>
